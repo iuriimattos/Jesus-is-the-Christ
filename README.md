@@ -8,7 +8,7 @@ A bíblia afirma que Jesus sempre esteve com DEUS e se fez carne
 
 1
 
-DEUS deixou JESUS morrer para nos ensinar o que ele quer de nós
+DEUS deixou JESUS morrer e o ressuscitou para destruir nossa incredubilidade
 
 2
 
