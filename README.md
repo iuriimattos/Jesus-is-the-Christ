@@ -12,7 +12,7 @@ João 1:14 - Aquele que é a Palavra tornou-se carne e viveu entre nós. Vimos a
 
 1
 
-DEUS deixou JESUS morrer e o ressuscitou para destruir nossa incredubilidade
+DEUS deixou JESUS morrer e o ressuscitou para destruir nossa incredulidade
 
 João 3:16 - Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna.
 
