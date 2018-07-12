@@ -37,9 +37,13 @@ Romanos 10:9 - Se você confessar com a sua boca que Jesus é Senhor e crer em s
 Essa oração é muito conhecida, com certeza tu conhece. Em casa mesmo de joelhos, sozinho no seu quarto tu ora deopis se confessa. Em voz tu diz "Creio que Jesus Cristo é o SENHOR E SALVADOR da minha vida e que DEUS o ressuscitou"
 
 Mateus 6:9 - Vocês, orem assim: ‘Pai nosso, que estás nos céus! Santificado seja o teu nome.
+
 Mateus 6:10 - Venha o teu Reino; seja feita a tua vontade, assim na terra como no céu.
+
 Mateus 6:11 - Dá-nos hoje o nosso pão de cada dia.
+
 Mateus 6:12 - Perdoa as nossas dívidas, assim como perdoamos aos nossos devedores.
+
 Mateus 6:13 - E não nos deixes cair em tentação, mas livra-nos do mal, porque teu é o Reino, o poder e a glória para sempre. Amém’.
 
 6
