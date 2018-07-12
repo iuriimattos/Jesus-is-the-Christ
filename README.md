@@ -30,6 +30,8 @@ Isaías 58:7 - Não é partilhar sua comida com o faminto, abrigar o pobre desam
 
 Isaías 58:8 - Aí sim, a sua luz irromperá como a alvorada, e prontamente surgirá a sua cura; a sua retidão irá adiante de você, e a glória do Senhor estará na sua retaguarda.
 
+Romanos 10:9 - Se você confessar com a sua boca que Jesus é Senhor e crer em seu coração que Deus o ressuscitou dentre os mortos, será salvo.
+
 3, 4 e 5
 
 Essa oração é muito conhecida, com certeza tu conhece. Em casa mesmo de joelhos, sozinho no seu quarto tu ora deopis se confessa. Em voz tu diz "Creio que Jesus Cristo é o SENHOR E SALVADOR da minha vida e que DEUS o ressuscitou"
