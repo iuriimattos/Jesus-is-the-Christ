@@ -57,3 +57,12 @@ Mateus 4:4 - Jesus respondeu: "Está escrito: ‘Nem só de pão viverá o homem
 Não existe reencarnação!
 
 Hebreus 9:27 - Da mesma forma, como o homem está destinado a morrer uma só vez e depois disso enfrentar o juízo
+
+EXTRA
+
+AS VIRTUDES RECOMENDADAS
+
+AS_VIRTUDES_RECOMENDADAS_1
+AS_VIRTUDES_RECOMENDADAS_2
+AS_VIRTUDES_RECOMENDADAS_3
+AS_VIRTUDES_RECOMENDADAS_4
