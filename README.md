@@ -69,3 +69,6 @@ AS_VIRTUDES_RECOMENDADAS_2
 AS_VIRTUDES_RECOMENDADAS_3
 
 AS_VIRTUDES_RECOMENDADAS_4
+
+>
+Ola homem de DEUS. Conte-me um pouco sobre suas habilidades, trabalhas com o que? Eu trabalhando criando aplicativos, sites e sistemas.
