@@ -58,7 +58,9 @@ Não existe reencarnação!
 
 Hebreus 9:27 - Da mesma forma, como o homem está destinado a morrer uma só vez e depois disso enfrentar o juízo
 
-EXTRA
+DEFAULT
+
+Romanos 12 9-21, Fala sobre as qualidades que DEUS recomenda - https://www.bibliaonline.com.br/nvi/rm/12/9-21
 
 AS VIRTUDES RECOMENDADAS
 
@@ -69,6 +71,3 @@ AS_VIRTUDES_RECOMENDADAS_2
 AS_VIRTUDES_RECOMENDADAS_3
 
 AS_VIRTUDES_RECOMENDADAS_4
-
->
-Ola homem de DEUS. Conte-me um pouco sobre suas habilidades, trabalhas com o que? Eu trabalhando criando aplicativos, sites e sistemas.
