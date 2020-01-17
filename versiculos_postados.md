@@ -58,4 +58,32 @@ mt 12 31
 jo 18 36
 is 55 6-7
 jo 14 6
-parei em - NÃO SIGA SEU CORAÇÃO GUIE SEU CORAÇÃO
+mt 13 36-43
+2rs 20 1-5
+ef 2 1-5
+ec 3 1-8
+lm 3 39-40
+1rs 19 11-13
+tg 3 6-10
+tg 5 16
+1pe 5 5
+1pe 2 8
+2sm 22 26-27
+is 30 15
+tg 1 22
+ef 6 10-20
+1sm 15 22
+rm 2 6
+1co 7 9
+1sm 2 30
+mt 6 22
+tg 5 12
+lc 8 45-46
+mt 7 13-14
+tg 4 3
+ec 7 26-29
+1ts 5 18
+tg 5 16	
+is 58 5-8
+jr 17 9-10
+parei em - SITE ANTIGO BIBLIA ONLINE
