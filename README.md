@@ -60,7 +60,7 @@ Hebreus 9:27 - Da mesma forma, como o homem está destinado a morrer uma só vez
 
 DEFAULT
 
-Romanos 12 9-21, Fala sobre as qualidades que DEUS recomenda - https://www.bibliaonline.com.br/nvi/rm/12/9-21
+Romanos 12 9-21, Fala sobre as qualidades (caráter) que DEUS recomenda - https://www.bibliaonline.com.br/nvi/rm/12/9-21
 
 AS VIRTUDES RECOMENDADAS
 
