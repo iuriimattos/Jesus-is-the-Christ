@@ -1,73 +1,68 @@
 # Jesus-is-the-Christ
 Matthew 24:14 - And this gospel of the kingdom will be preached in the whole world as a testimony to all nations, and then the end will come.
 
+
+
 ---
-##IDE - PT-BR
+##STEP 1
 
-A bíblia afirma que Jesus sempre esteve com DEUS e se fez carne
+The bible says that Jesus was always with GOD and became flesh
 
-João 1:1 - No princípio era aquele que é a Palavra. Ele estava com Deus, e era Deus.
+John 1:1 - In the beginning was the Word, and the Word was with God, and the Word was God.
 
-João 1:14 - Aquele que é a Palavra tornou-se carne e viveu entre nós. Vimos a sua glória, glória como do Unigênito vindo do Pai, cheio de graça e de verdade.
+John 1:14 - The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.
 
-1
+---
+##STEP 2
 
-DEUS deixou JESUS morrer e o ressuscitou para destruir nossa incredulidade
+GOD let JESUS die and raised him up to destroy our unbelief
 
-João 3:16 - Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna.
+John 3:16 - For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
 
-2
+It is not enough just to believe (faith), you have to confess and do good works
 
-Não basta só crer (fé), tem que confessar e fazer boas obras
+James 2:14 - What good is it, my brothers and sisters, if someone claims to have faith but has no deeds? Can such faith save them?
 
-Tiago 2:14 - De que adianta, meus irmãos, alguém dizer que tem fé, se não tem obras? Acaso a fé pode salvá-lo?
+Isaiah 58:5 - Is this the kind of fast I have chosen, only a day for people to humble themselves? Is it only for bowing one's head like a reed and for lying in sackcloth and ashes? Is that what you call a fast, a day acceptable to the LORD?
 
-Isaías 58:5 - Será esse o jejum que escolhi, que apenas um dia o homem se humilhe, incline a cabeça como o junco e se deite sobre pano de saco e cinzas? É isso que vocês chamam jejum, um dia aceitável ao Senhor?
+Isaiah 58:6 -  "Is not this the kind of fasting I have chosen: to loose the chains of injustice and untie the cords of the yoke, to set the oppressed free and break every yoke?
 
-Isaías 58:6 -  "O jejum que desejo não é este: soltar as correntes da injustiça, desatar as cordas do jugo, pôr em liberdade os oprimidos e romper todo jugo?
+Isaiah 58:7 - Is it not to share your food with the hungry and to provide the poor wanderer with shelter — when you see the naked, to clothe them, and not to turn away from your own flesh and blood?
 
-Isaías 58:7 - Não é partilhar sua comida com o faminto, abrigar o pobre desamparado, vestir o nu que você encontrou, e não recusar ajuda ao próximo?
+Isaiah 58:8 - Then your light will break forth like the dawn, and your healing will quickly appear; then your righteousness "will go before you, and the glory of the LORD will be your rear guard.
 
-Isaías 58:8 - Aí sim, a sua luz irromperá como a alvorada, e prontamente surgirá a sua cura; a sua retidão irá adiante de você, e a glória do Senhor estará na sua retaguarda.
+Romans 10:9 - If you declare with your mouth, "Jesus is Lord," and believe in your heart that God raised him from the dead, you will be saved.
 
-Romanos 10:9 - Se você confessar com a sua boca que Jesus é Senhor e crer em seu coração que Deus o ressuscitou dentre os mortos, será salvo.
+---
+##STEP 3
 
-3, 4 e 5
+This prayer is well known, you certainly know it. At home even on your knees, alone in your room, you now deopis confess. In a voice you say "I believe that Jesus Christ is the LORD and SAVIOR of my life and that GOD raised him"
 
-Essa oração é muito conhecida, com certeza tu conhece. Em casa mesmo de joelhos, sozinho no seu quarto tu ora deopis se confessa. Em voz tu diz "Creio que Jesus Cristo é o SENHOR E SALVADOR da minha vida e que DEUS o ressuscitou"
+Matthew 6:9 - "This, then, is how you should pray: "'Our Father in heaven, hallowed be your name,
 
-Mateus 6:9 - Vocês, orem assim: ‘Pai nosso, que estás nos céus! Santificado seja o teu nome.
+Matthew 6:10 - your kingdom come, your will be done, on earth as it is in heaven.
 
-Mateus 6:10 - Venha o teu Reino; seja feita a tua vontade, assim na terra como no céu.
+Matthew 6:11 - Give us today our daily bread.
 
-Mateus 6:11 - Dá-nos hoje o nosso pão de cada dia.
+Matthew 6:12 - And forgive us our debts, as we also have forgiven our debtors.
 
-Mateus 6:12 - Perdoa as nossas dívidas, assim como perdoamos aos nossos devedores.
+Matthew 6:13 - And lead us not into temptation, "but deliver us from the evil one. "'
 
-Mateus 6:13 - E não nos deixes cair em tentação, mas livra-nos do mal, porque teu é o Reino, o poder e a glória para sempre. Amém’.
+---
+##STEP 4
 
-6
+Be sure to read the bible!
 
-Não deixe de ler a bíblia!
+Matthew 4:4 - Jesus answered, "It is written: 'Man shall not live on bread alone, but on every word that comes from the mouth of God.' ""
 
-Mateus 4:4 - Jesus respondeu: "Está escrito: ‘Nem só de pão viverá o homem, mas de toda palavra que procede da boca de Deus’".
+---
+##STEP 5
 
-7
+There is no reincarnation!
 
-Não existe reencarnação!
+Hebrews 9:27 - Just as people are destined to die once, and after that to face judgment,
 
-Hebreus 9:27 - Da mesma forma, como o homem está destinado a morrer uma só vez e depois disso enfrentar o juízo
-
+---
 DEFAULT
 
-Romanos 12 9-21, Fala sobre as qualidades (caráter) que DEUS recomenda - https://www.bibliaonline.com.br/nvi/rm/12/9-21
-
-AS VIRTUDES RECOMENDADAS
-
-AS_VIRTUDES_RECOMENDADAS_1
-
-AS_VIRTUDES_RECOMENDADAS_2
-
-AS_VIRTUDES_RECOMENDADAS_3
-
-AS_VIRTUDES_RECOMENDADAS_4
+Romans 12 9-21, Talk about the qualities (character) that GOD recommends - https://www.bibliaonline.com.br/niv/rm/12/9-21
