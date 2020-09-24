@@ -13,6 +13,7 @@ F1::
     if !WinActive("live_chat"){
       ControlSend,ahk_parent,%JESUS_MEU_SALVADOR_E_SENHOR%,ahk_exe firefox.exe
       ControlSend,ahk_parent,{ENTER},ahk_exe firefox.exe      
+      Sleep, sleepVar
     } else {
       Send, % JESUS_MEU_SALVADOR_E_SENHOR
       Send, {ENTER}
@@ -382,4 +383,5 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Deuteronômio 11:21 - PARTE 2 - os seus dias e os dias dos seus filhos sejam muitos, sejam tantos como os dias durante os quais o céu está acima da terra."
     action()
-  }  
+  }
+F2::Pause, Toggle, 1
