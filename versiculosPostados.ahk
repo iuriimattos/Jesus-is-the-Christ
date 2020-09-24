@@ -382,5 +382,4 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Deuteronômio 11:21 - PARTE 2 - os seus dias e os dias dos seus filhos sejam muitos, sejam tantos como os dias durante os quais o céu está acima da terra."
     action()
-  }
-  F2::Pause, Toggle, 1
+  }  
