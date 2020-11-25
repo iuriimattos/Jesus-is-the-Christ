@@ -6,18 +6,19 @@ SetTitleMatchMode, 2
 Insert::
   InputBox, sleepMS, Tempo de espera, formato de milisegundos., , 100, 100
   global sleepVar := sleepMS
-  Return 
+Return 
 F1::
   global JESUS_MEU_SALVADOR_E_SENHOR:= "Romanos 10:9 - Se você confessar com a sua boca que Jesus é Senhor e crer em seu coração que Deus o ressuscitou dentre os mortos, será salvo." 
   action() {
-    if !WinActive("live_chat"){
-      ControlSend,ahk_parent,%JESUS_MEU_SALVADOR_E_SENHOR%,ahk_exe firefox.exe
-      ControlSend,ahk_parent,{ENTER},ahk_exe firefox.exe      
-      Sleep, sleepVar
+    if WinActive("Mozilla Firefox"){ 
+      Pause 
     } else {
-      Send, % JESUS_MEU_SALVADOR_E_SENHOR
-      Send, {ENTER}
-      Sleep, sleepVar
+      if WinActive("Administrator") {
+	Pause 
+      }
+      ControlSend,ahk_parent,%JESUS_MEU_SALVADOR_E_SENHOR%,ahk_exe firefox.exe
+      ControlSend,ahk_parent,{ENTER},ahk_exe firefox.exe 
+      Sleep, sleepVar 
     } 
   }
   Loop {
@@ -129,13 +130,13 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Romanos 13:9 - PARTE 2 - e qualquer outro mandamento, todos se resumem neste preceito: Ame o seu próximo como a si mesmo."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Romanos 13:10 - O amor não pratica o mal contra o próximo. Portanto, o amor é o cumprimento da lei."    
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Romanos 13:10 - O amor não pratica o mal contra o próximo. Portanto, o amor é o cumprimento da lei." 
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "2Crônicas 7:14-se o meu povo, que se chama pelo meu nome, se humilhar e orar, buscar a minha face e se afastar dos seus maus caminhos, dos céus o ouvirei, perdoarei o seu pecado e curarei a sua terra."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateus 3:16 - Assim que Jesus foi batizado, saiu da água. Naquele momento os céus se abriram, e ele viu o Espírito de Deus descendo como pomba e pousando sobre ele."    
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateus 3:16 - Assim que Jesus foi batizado, saiu da água. Naquele momento os céus se abriram, e ele viu o Espírito de Deus descendo como pomba e pousando sobre ele." 
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Lucas 11:23 - Quem não é por mim é contra mim, quem não ajunta comigo espalha."        
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Lucas 11:23 - Quem não é por mim é contra mim, quem não ajunta comigo espalha." 
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Lucas 12:47 - Aquele servo que conhece a vontade de seu senhor e não prepara o que ele deseja, nem o realiza, receberá muitos açoites."
     action()
@@ -269,7 +270,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Provérbios 17:14 - É difícil parar uma disputa depois de começada; por isso o melhor é evitá-la antes de se ficar envolvido nela."    
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Provérbios 17:18 - É prova de pouco juízo ficar por fiador doutra pessoa e responsabilizar-se pelas suas dívidas."    
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Provérbios 17:18 - É prova de pouco juízo ficar por fiador doutra pessoa e responsabilizar-se pelas suas dívidas." 
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Provérbios 17:19 - Os pecadores gostam das discussões e da violência; e quem se exalta procura a ruína."
     action()
@@ -299,7 +300,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Tiago 4:2 - Vocês cobiçam coisas, e não as têm; matam e invejam, mas não conseguem obter o que desejam. Vocês vivem a lutar e a fazer guerras. Não têm, porque não pedem."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Tiago 4:3 - Quando pedem, não recebem, pois pedem por motivos errados, para gastar em seus prazeres."    
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Tiago 4:3 - Quando pedem, não recebem, pois pedem por motivos errados, para gastar em seus prazeres." 
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Provérbios 13:3 - Quem guarda a sua boca guarda a sua vida, mas quem fala demais acaba se arruinando."
     action()
@@ -384,4 +385,4 @@ F1::
     JESUS_MEU_SALVADOR_E_SENHOR:= "Deuteronômio 11:21 - PARTE 2 - os seus dias e os dias dos seus filhos sejam muitos, sejam tantos como os dias durante os quais o céu está acima da terra."
     action()
   }
-F2::Pause, Toggle, 1
+  F2::Pause, Toggle, 1
