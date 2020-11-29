@@ -14,7 +14,7 @@ F1::
       Pause 
     } else {
       if WinActive("Administrator") {
-	Pause 
+        Pause
       }
       ControlSend,ahk_parent,%JESUS_MEU_SALVADOR_E_SENHOR%,ahk_exe firefox.exe
       ControlSend,ahk_parent,{ENTER},ahk_exe firefox.exe 
