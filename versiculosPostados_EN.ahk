@@ -10,16 +10,19 @@ Insert::
 F1::
   global JESUS_MEU_SALVADOR_E_SENHOR:= "Romanos 10:9 - Se você confessar com a sua boca que Jesus é Senhor e crer em seu coração que Deus o ressuscitou dentre os mortos, será salvo."
   action() {
-    if !WinActive("live_chat"){
-      ControlSend,ahk_parent,%JESUS_MEU_SALVADOR_E_SENHOR%,ahk_exe firefox.exe
-      ControlSend,ahk_parent,{ENTER},ahk_exe firefox.exe      
-      Sleep, sleepVar
-    } else {
+    if WinActive("Mozilla Firefox"){
       Pause
-    } 
+    } else {
+      if WinActive("Administrator") {
+        Pause
+      }
+      ControlSend,ahk_parent,%JESUS_MEU_SALVADOR_E_SENHOR%,ahk_exe firefox.exe
+      ControlSend,ahk_parent,{ENTER},ahk_exe firefox.exe
+      Sleep, sleepVar
+    }
   }
   Loop {
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Romans 10: 9 - If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. 
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Romans 10: 9 - If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Romans 12 9 - Love must be sincere. Hate what is bad; hold on to what is good."
     action()
@@ -105,7 +108,9 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Isaiah 58: 8 - There, his light will burst forth like the dawn, and his healing will come quickly; your righteousness will go before you, and the glory of the Lord will be behind you."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Isaiah 58: 9 - Then you will cry out to the Lord, and he will answer; you will scream for help, and he will say: Here I am. If you eliminate the oppressive yoke, the accusing finger and the falsehood of speaking from your midst"
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Isaiah 58: 9 - PART 1 - Then you will cry out to the Lord, and he will answer; you will scream for help, and he will say: Here I am."
+    action()
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Isaiah 58: 9 - PART 2 - If you eliminate the oppressive yoke, the accusing finger and the falsehood of speaking from your midst"
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Isaiah 58:10 - if with self-renunciation you benefit the hungry and satisfy the longing of the afflicted, then your light will shine in the darkness, and your night will be like noon."
     action()
@@ -129,7 +134,9 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Romans 13:10 - Love does not do evil against others. Therefore, love is the fulfillment of the law."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "2 Chronicles 7: 14-If my people, who are called by my name, will humble themselves and pray, seek my face and turn away from their evil ways, from heaven I will listen to them, forgive their sin and heal their land."
+    JESUS_MEU_SALVADOR_E_SENHOR:= "2 Chronicles 7:14 - PART 1 - If my people, who are called by my name, will humble themselves and pray, seek my face and turn away from their evil ways,"
+    action()
+    JESUS_MEU_SALVADOR_E_SENHOR:= "2 Chronicles 7:14 - PART 2 - from heaven I will listen to them, forgive their sin and heal their land."
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 3:16 - As soon as Jesus was baptized, he left the water. At that moment the heavens opened, and he saw the Spirit of God descending like a dove and resting on him."
     action()
@@ -205,7 +212,9 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "John 11:10 - When he walks at night, he stumbles, because there is no light in him."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "John 11:25 - Jesus said to him: I am the resurrection and the life. Whoever believes in me will live, even if he dies. You are given eternal life for believing in me and you will never die again. Do you believe this, Marta?"
+    JESUS_MEU_SALVADOR_E_SENHOR:= "John 11:25 - PART 1 - Jesus said to him: I am the resurrection and the life. Whoever believes in me will live, even if he dies."
+    action()
+    JESUS_MEU_SALVADOR_E_SENHOR:= "John 11:25 - PART 2 - You are given eternal life for believing in me and you will never die again. Do you believe this, Marta?"
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 11:12 - From the days of John the Baptist until now, the Kingdom of Heaven is taken by force, and those who use force take possession of it."
     action()
@@ -283,7 +292,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "1 Corinthians 13: 7 - Everything suffers, everything believes, everything hopes, everything endures."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 22:37 - Jesus answered, "Love the Lord your God with all your heart, with all your soul and with all your understanding"
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 22:37 - Jesus answered, 'Love the Lord your God with all your heart, with all your soul and with all your understanding'"
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 22:38 - This is the first and greatest commandment."
     action()
@@ -369,7 +378,9 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "James 1:24 - and, after looking at himself, he leaves and soon forgets his appearance."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "James 1:25 - But the man who carefully observes the perfect law that brings freedom, and perseveres in the practice of that law, not forgetting what he heard but practicing it, will be happy in what he does."
+    JESUS_MEU_SALVADOR_E_SENHOR:= "James 1:25 - PART 1 - But the man who carefully observes the perfect law that brings freedom, and perseveres in the practice of that law, "
+    action()
+    JESUS_MEU_SALVADOR_E_SENHOR:= "James 1:25 - PART 2 - not forgetting what he heard but practicing it, will be happy in what he does."
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Deuteronomy 11:18 - Engrave these words of mine in the heart and mind; tie them as symbols in your hands and pin them to your forehead."
     action()
