@@ -226,11 +226,11 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "1 Thessalonians 5:24 - He who calls them is faithful, and will do so."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Ps 34:19 - The righteous goes through many adversities, but the Lord delivers him from all;"
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Psalm 34:19 - The righteous goes through many adversities, but the Lord delivers him from all;"
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Psalm 34:20 - protect all your bones; none of them will be broken."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Ps 34:21 - Disgrace will kill the wicked; those who hate the righteous will be condemned."
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Psalm 34:21 - Disgrace will kill the wicked; those who hate the righteous will be condemned."
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "James 2:14 - What good is it, my brothers, for someone to say they have faith, if they have no works? Can faith save you?"
     action()
