@@ -4,7 +4,7 @@ Matthew 24:14 - And this gospel of the kingdom will be preached in the whole wor
 
 
 ---
-##STEP 1
+## STEP 1
 
 The bible says that Jesus was always with GOD and became flesh
 
@@ -13,7 +13,7 @@ John 1:1 - In the beginning was the Word, and the Word was with God, and the Wor
 John 1:14 - The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.
 
 ---
-##STEP 2
+## STEP 2
 
 GOD let JESUS die and raised him up to destroy our unbelief
 
@@ -34,7 +34,7 @@ Isaiah 58:8 - Then your light will break forth like the dawn, and your healing w
 Romans 10:9 - If you declare with your mouth, "Jesus is Lord," and believe in your heart that God raised him from the dead, you will be saved.
 
 ---
-##STEP 3
+## STEP 3
 
 This prayer is well known, you certainly know it. At home even on your knees, alone in your room, you now deopis confess. In a voice you say "I believe that Jesus Christ is the LORD and SAVIOR of my life and that GOD raised him"
 
@@ -49,14 +49,14 @@ Matthew 6:12 - And forgive us our debts, as we also have forgiven our debtors.
 Matthew 6:13 - And lead us not into temptation, "but deliver us from the evil one. "'
 
 ---
-##STEP 4
+## STEP 4
 
 Be sure to read the bible!
 
 Matthew 4:4 - Jesus answered, "It is written: 'Man shall not live on bread alone, but on every word that comes from the mouth of God.' ""
 
 ---
-##STEP 5
+## STEP 5
 
 There is no reincarnation!
 
