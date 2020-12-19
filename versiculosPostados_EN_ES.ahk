@@ -172,7 +172,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Mark 9:28 - After Jesus entered the house, his disciples asked him in private: 'Why can't we expel him?'"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Marcos 9:28 - Despues de que Jesus entro en la casa, sus discipulos le preguntaron en privado: '¿Por que no podemos expulsarlo?' "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Marcos 9:28 - Despues de que Jesus entro en la casa, sus discipulos le preguntaron en privado: '?Por que no podemos expulsarlo?' "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Mark 9:29 - He replied: 'This species only goes out through prayer and fasting'."
     action()
@@ -184,11 +184,11 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Isaiah 58: 6 - Isn't this the fast I want: loosen the chains of injustice, untie the yoke, release the oppressed, and break every yoke?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Isaias 58: 6 - ¿No es este el ayuno que quiero: desatar las cadenas de la injusticia, desatar el yugo, liberar a los oprimidos y romper todo yugo? "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Isaias 58: 6 - ?No es este el ayuno que quiero: desatar las cadenas de la injusticia, desatar el yugo, liberar a los oprimidos y romper todo yugo? "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Isaiah 58: 7 - Isn't it sharing your food with the hungry, sheltering the helpless poor, dressing the nude you found, and not refusing help to others?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Isaias 58: 7 - ¿No es compartir tu comida con los hambrientos, albergar a los pobres indefensos, vestir al desnudo que encontraste y no negar la ayuda a otros? "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Isaias 58: 7 - ?No es compartir tu comida con los hambrientos, albergar a los pobres indefensos, vestir al desnudo que encontraste y no negar la ayuda a otros? "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Isaiah 58: 8 - There, his light will burst forth like the dawn, and his healing will come quickly; your righteousness will go before you, and the glory of the Lord will be behind you."
     action()
@@ -292,7 +292,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Job 8: 3 - Does God twist justice? Does the Almighty twist what is right?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Job 8: 3 - ¿Torce Dios la justicia? ¿El Todopoderoso tuerce lo que es correcto? "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Job 8: 3 - ?Torce Dios la justicia? ?El Todopoderoso tuerce lo que es correcto? "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Job 8: 5 - But if you seek God and plead with the Almighty,"
     action()
@@ -308,7 +308,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Job 8:10 - Will they not instruct you, will they not speak to you? Won't they utter words from understanding?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Job 8:10 - ¿No te instruiran, no te hablaran? ¿No pronunciaran palabras por entendimiento? "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Job 8:10 - ?No te instruiran, no te hablaran? ?No pronunciaran palabras por entendimiento? "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Job 8:20 - For the truth is that God does not reject the upright, and does not strengthen the hands of those who do evil."
     action()
@@ -324,11 +324,11 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 5:46 - If you love those who love you, what reward will you receive? Even publicans do that."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateo 5:46 - Si amas a los que te aman, ¿que recompensa recibiras? Incluso los publicanos hacen eso "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateo 5:46 - Si amas a los que te aman, ?que recompensa recibiras? Incluso los publicanos hacen eso "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 5:47 - And if you only greet your brothers, what are you doing more? Even pagans do that."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateo 5:47 - Y si solo saludan a sus hermanos, ¿que mas hacen? Incluso los paganos hacen eso "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateo 5:47 - Y si solo saludan a sus hermanos, ?que mas hacen? Incluso los paganos hacen eso "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 5:43 - You heard what was said: Love your neighbor and hate your enemy."
     action()
@@ -396,7 +396,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "John 11: 9 - Jesus answered, Is there not a twelve hour day? Whoever walks during the day does not stumble, seeing the light of this world."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Juan 11: 9 - Jesus respondio: ¿No hay un dia de doce horas? El que camina durante el dia no tropieza, al ver la luz de este mundo "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Juan 11: 9 - Jesus respondio: ?No hay un dia de doce horas? El que camina durante el dia no tropieza, al ver la luz de este mundo "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "John 11:10 - When he walks at night, he stumbles, because there is no light in him."
     action()
@@ -408,7 +408,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "John 11:25 - PART 2 - You are given eternal life for believing in me and you will never die again. Do you believe this, Marta?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Juan 11:25 - PARTE 2 - Se te da vida eterna por creer en mi y nunca volveras a morir. ¿Crees esto, Marta?"
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Juan 11:25 - PARTE 2 - Se te da vida eterna por creer en mi y nunca volveras a morir. ?Crees esto, Marta?"
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 11:12 - From the days of John the Baptist until now, the Kingdom of Heaven is taken by force, and those who use force take possession of it."
     action()
@@ -444,7 +444,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "James 2:14 - What good is it, my brothers, for someone to say they have faith, if they have no works? Can faith save you?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Santiago 2:14 - ¿De que sirve, hermanos mios, que alguien diga que tiene fe, si no tiene obras? ¿Puede la fe salvarte? "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Santiago 2:14 - ?De que sirve, hermanos mios, que alguien diga que tiene fe, si no tiene obras? ?Puede la fe salvarte? "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "James 2:15 - If a brother or sister is in need of daily clothes and food"
     action()
@@ -452,7 +452,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "James 2:16 - and one of you says to him: Go in peace, warm up and eat until you are satisfied, but without giving you anything, what good is that?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Santiago 2:16 - y uno de ustedes le dice: Ve en paz, calienta y come hasta saciarte, pero sin darte nada, ¿de que te sirve?"
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Santiago 2:16 - y uno de ustedes le dice: Ve en paz, calienta y come hasta saciarte, pero sin darte nada, ?de que te sirve?"
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "James 2:17 - So also faith, by itself, if it is not accompanied by works, is dead."
     action()
@@ -464,7 +464,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 7:22 - Many will say to me on that day, Lord, Lord, did we not prophesy in your name? Do we not cast out demons in your name and perform many miracles?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateo 7:22 - Muchos me diran en aquel dia: Senor, Senor, ¿no profetizamos en tu nombre? ¿No echamos fuera demonios en tu nombre y realizamos muchos milagros? "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateo 7:22 - Muchos me diran en aquel dia: Senor, Senor, ?no profetizamos en tu nombre? ?No echamos fuera demonios en tu nombre y realizamos muchos milagros? "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 7:23 - Then I will tell you clearly: I never knew you. Get away from me, you who do evil."
     action()
@@ -472,7 +472,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "1 Corinthians 6:19 - Do you not know that your body is a sanctuary of the Holy Spirit who dwells in you, which was given to you by God, and that you are not your own?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "1 Corintios 6:19 - ¿No sabeis que vuestro cuerpo es santuario del Espiritu Santo que mora en vosotros, que os fue dado por Dios, y que no sois vuestro?"
+    JESUS_MEU_SALVADOR_E_SENHOR:= "1 Corintios 6:19 - ?No sabeis que vuestro cuerpo es santuario del Espiritu Santo que mora en vosotros, que os fue dado por Dios, y que no sois vuestro?"
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "1 Corinthians 6:20 - You were bought at a high price. Therefore, glorify God with your body."
     action()
@@ -500,7 +500,9 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Hosea 6: 3 - Let us know the Lord; let us strive to meet you. As sure as the sun rises, it will appear; it will come to us like winter rains, like spring rains that water the land."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Oseas 6: 3 - Conozcamos al Senor; Permitanos esforzarnos por conocerte. Tan seguro como sale el sol, aparecera; vendra a nosotros como lluvias invernales, como lluvias primaverales que riegan la tierra "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Oseas 6: 3 - PARTE 1 - Conozcamos al Senor; Permitanos esforzarnos por conocerte. Tan seguro como sale el sol, aparecera"
+	action()
+	JESUS_MEU_SALVADOR_E_SENHOR:= "Oseas 6: 3 - PARTE 2 - vendra a nosotros como lluvias invernales, como lluvias primaverales que riegan la tierra"
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Proverbs 17: 1 - Better is a piece of dry bread but eaten with ease, than having the house full of good food, in the midst of constant discussions."
     action()
@@ -612,7 +614,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "John 3: 4 - Nicodemus asked: How can one be born when one is old? Of course, he cannot enter his mother's womb a second time and be reborn."
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Juan 3: 4 - Nicodemo pregunto: ¿Como puede uno nacer siendo viejo? Por supuesto, no puede entrar al utero de su madre por segunda vez y renacer "
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Juan 3: 4 - Nicodemo pregunto: ?Como puede uno nacer siendo viejo? Por supuesto, no puede entrar al utero de su madre por segunda vez y renacer "
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "John 3: 5 - Jesus answered: I tell you the truth: No one can enter the Kingdom of God unless he is born of water and the Spirit."
     action()
@@ -676,7 +678,7 @@ F1::
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 9:11 - Seeing this, the Pharisees asked his disciples: Why does your teacher eat with tax collectors and sinners?"
     action()
-    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateo 9:11 - Al ver esto, los fariseos preguntaron a sus discipulos: ¿Por que tu maestro come con publicanos y pecadores?"
+    JESUS_MEU_SALVADOR_E_SENHOR:= "Mateo 9:11 - Al ver esto, los fariseos preguntaron a sus discipulos: ?Por que tu maestro come con publicanos y pecadores?"
     action()
     JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 9:12 - Hearing this, Jesus said: It is not the healthy who need a doctor, but the sick."
     action()
