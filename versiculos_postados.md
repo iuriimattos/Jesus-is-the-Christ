@@ -1,3 +1,5 @@
+Marcos 11:26 - Mas se vocês não perdoarem, também o seu Pai que está no céu não perdoará os seus pecados.
+
 Jó 11:13-20
 
 https://www.bibliaonline.com.br/nvi/mt/13/13-23
