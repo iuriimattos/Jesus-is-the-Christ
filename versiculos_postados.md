@@ -1,3 +1,5 @@
+Jó 11:13-20
+
 https://www.bibliaonline.com.br/nvi/mt/13/13-23
 
 Efésios 4:2 - Sejam humildes, delicados para com os outros e pacientes, numa base de compreensão mútua e com uma afeição sincera.
