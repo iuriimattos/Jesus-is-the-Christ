@@ -99,7 +99,7 @@ F1::
       action(JESUS_MEU_SALVADOR_E_SENHOR)
       JESUS_MEU_SALVADOR_E_SENHOR:= "1 Corinthians 11;3 - PART A - But I want you to understand that the head of every man is Christ,"
       action(JESUS_MEU_SALVADOR_E_SENHOR)
-      JESUS_MEU_SALVADOR_E_SENHOR:= "1 Corinthians 11;3 - PART B - And the head of a woman is man, and the head of Christ is God.
+      JESUS_MEU_SALVADOR_E_SENHOR:= "1 Corinthians 11;3 - PART B - And the head of a woman is man, and the head of Christ is God."
       action(JESUS_MEU_SALVADOR_E_SENHOR)
       JESUS_MEU_SALVADOR_E_SENHOR:= "1 Corinthians 11;8 - For the man did not originate from the woman, but the woman from the man;"
       action(JESUS_MEU_SALVADOR_E_SENHOR)
@@ -187,7 +187,7 @@ F1::
       action(JESUS_MEU_SALVADOR_E_SENHOR)
       JESUS_MEU_SALVADOR_E_SENHOR:= "Romans 13;10 - Love does not do evil against others. Therefore, love is the fulfillment of the law."
       action(JESUS_MEU_SALVADOR_E_SENHOR)
-      JESUS_MEU_SALVADOR_E_SENHOR:= "2 Chronicles 7;14 - PART A - If my people, who are called by my name, will humble themselves and pray,""
+      JESUS_MEU_SALVADOR_E_SENHOR:= "2 Chronicles 7;14 - PART A - If my people, who are called by my name, will humble themselves and pray,"
       action(JESUS_MEU_SALVADOR_E_SENHOR)
       JESUS_MEU_SALVADOR_E_SENHOR:= "2 Chronicles 7;14 - PART B - Seek my face and turn away from their evil ways,"
       action(JESUS_MEU_SALVADOR_E_SENHOR)
@@ -295,7 +295,7 @@ F1::
       action(JESUS_MEU_SALVADOR_E_SENHOR)
       JESUS_MEU_SALVADOR_E_SENHOR:= "1 Thessalonians 5;23 - PART A - May the God of peace himself sanctify them entirely. May all your spirit,"
       action(JESUS_MEU_SALVADOR_E_SENHOR)
-      JESUS_MEU_SALVADOR_E_SENHOR:= "1 Thessalonians 5;23 - PART B - Soul and body be kept blameless at the coming of our Lord Jesus Christ.""
+      JESUS_MEU_SALVADOR_E_SENHOR:= "1 Thessalonians 5;23 - PART B - Soul and body be kept blameless at the coming of our Lord Jesus Christ."
       action(JESUS_MEU_SALVADOR_E_SENHOR)
       JESUS_MEU_SALVADOR_E_SENHOR:= "1 Thessalonians 5;24 - He who calls them is faithful, and will do so."
       action(JESUS_MEU_SALVADOR_E_SENHOR)
@@ -441,7 +441,7 @@ F1::
       action(JESUS_MEU_SALVADOR_E_SENHOR)
       JESUS_MEU_SALVADOR_E_SENHOR:= "Colossians 2;8 - PART A - Be careful that no one enslaves you to vain and deceptive philosophies, which are based on human"
       action(JESUS_MEU_SALVADOR_E_SENHOR)
-      JESUS_MEU_SALVADOR_E_SENHOR:= "Colossians 2;8 - PART B - Traditions and the basic principles of this world, and not on Christ.
+      JESUS_MEU_SALVADOR_E_SENHOR:= "Colossians 2;8 - PART B - Traditions and the basic principles of this world, and not on Christ."
       action(JESUS_MEU_SALVADOR_E_SENHOR)
       JESUS_MEU_SALVADOR_E_SENHOR:= "Matthew 9;10 - When Jesus was at home, many tax collectors and sinners went to eat with him and his disciples."
       action(JESUS_MEU_SALVADOR_E_SENHOR)
