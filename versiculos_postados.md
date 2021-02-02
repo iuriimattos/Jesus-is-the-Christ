@@ -1,3 +1,7 @@
+Apocalipse 3:15 - Conheço as suas obras, sei que você não é frio nem quente. Melhor seria que você fosse frio ou quente!
+
+Apocalipse 3:16 - Assim, porque você é morno, nem frio nem quente, estou a ponto de vomitá-lo da minha boca.
+
 Marcos 11:26 - Mas se vocês não perdoarem, também o seu Pai que está no céu não perdoará os seus pecados.
 
 Jó 11:13-20
@@ -29,6 +33,10 @@ Provérbios 17:19 - Os pecadores gostam das discussões e da violência; e quem 
 Mateus 3:16 - Assim que Jesus foi batizado, saiu da água. Naquele momento os céus se abriram, e ele viu o Espírito de Deus descendo como pomba e pousando sobre ele.
 
 2 Crônicas 7:14 - se o meu povo, que se chama pelo meu nome, se humilhar e orar, buscar a minha face e se afastar dos seus maus caminhos, dos céus o ouvirei, perdoarei o seu pecado e curarei a sua terra.
+
+Lucas 11:9 - O mesmo se passa com a oração: Peçam, porque hão-de receber; procurem, pois que encontrarão; batam, que a porta abrir-se-á.
+
+Lucas 11:10 - Porque todo aquele que pede recebe; todos os que procuram, encontram; e a porta abre-se a todos os que batem.
 
 Lucas 11:23 - Quem não é por mim é contra mim, quem não ajunta comigo espalha.
 
@@ -579,68 +587,174 @@ bibliaonline.com.br/nvi/sl/19/7
 
 bibliaonline.com.br/nvi/mt/5/1-2-17-18
 
-bibliaonline.com.br/nvi/ef/6/2-3
+Efésios 6:2 - "Honra teu pai e tua mãe", este é o primeiro mandamento com promessa:
 
-bibliaonline.com.br/nvi/mt/12/31
+Efésios 6:3 - "para que tudo te corra bem e tenhas longa vida sobre a terra".
 
-bibliaonline.com.br/nvi/jo/18/36
+Mateus 12:31 - Por esse motivo eu lhes digo: todo pecado e blasfêmia serão perdoados aos homens, mas a blasfêmia contra o Espírito não será perdoada.
 
-bibliaonline.com.br/nvi/is/55/6-7
+João 18:36 - Disse Jesus: "O meu Reino não é deste mundo. Se fosse, os meus servos lutariam para impedir que os judeus me prendessem. Mas agora o meu Reino não é daqui".
 
-bibliaonline.com.br/nvi/jo/14/6
+Isaías 55:6 - Busquem o Senhor enquanto se pode achá-lo; clamem por ele enquanto está perto.
 
-bibliaonline.com.br/nvi/mt/13/36-43
+Isaías 55:7 - Que o ímpio abandone seu caminho, e o homem mau, os seus pensamentos. Volte-se ele para o Senhor, que terá misericórdia dele; volte-se para o nosso Deus, pois ele perdoará de bom grado.
 
-bibliaonline.com.br/nvi/2rs/20/1-5
+João 14:6 - Respondeu Jesus: "Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim.
 
-bibliaonline.com.br/nvi/ef/2/1-5
+Mateus 13:36 - Então ele deixou a multidão e foi para casa. Seus discípulos aproximaram-se dele e disseram: "Explica-nos a parábola do joio no campo".
 
-bibliaonline.com.br/nvi/ec/3/1-8
+Mateus 13:37 - Ele respondeu: "Aquele que semeou a boa semente é o Filho do homem.
 
-bibliaonline.com.br/nvi/lm/3/39-40
+Mateus 13:38 - O campo é o mundo, e a boa semente são os filhos do Reino. O joio são os filhos do Maligno,
 
-bibliaonline.com.br/nvi/1rs/19/11-13
+Mateus 13:39 - e o inimigo que o semeia é o diabo. A colheita é o fim desta era, e os encarregados da colheita são anjos.
 
-bibliaonline.com.br/nvi/tg/3/6-10
+Mateus 13:40 - "Assim como o joio é colhido e queimado no fogo, assim também acontecerá no fim desta era.
 
-bibliaonline.com.br/nvi/tg/5/16
+Mateus 13:41 - O Filho do homem enviará os seus anjos, e eles tirarão do seu Reino tudo o que faz tropeçar e todos os que praticam o mal.
 
-bibliaonline.com.br/nvi/1pe/5/5
+Mateus 13:42 - Eles os lançarão na fornalha ardente, onde haverá choro e ranger de dentes.
 
-bibliaonline.com.br/nvi/1pe/2/8
+Mateus 13:43 - Então os justos brilharão como o sol no Reino do seu Pai. Aquele que tem ouvidos, ouça".
 
-bibliaonline.com.br/nvi/2sm/22/26-27
+2 Reis 20:1 - Naquele tempo Ezequias ficou doente, e quase morreu. O profeta Isaías, filho de Amoz, foi visitá-lo e lhe disse: "Assim diz o Senhor: Ponha em ordem a sua casa, pois você vai morrer; não se recuperará".
 
-bibliaonline.com.br/nvi/is/30/15
+2 Reis 20:2 - Ezequias virou o rosto para a parede e orou ao Senhor:
 
-bibliaonline.com.br/nvi/tg/1/22
+2 Reis 20:3 - "Lembra-te, Senhor, como tenho te servido com fidelidade e com devoção sincera. Tenho feito o que tu aprovas". E Ezequias chorou amargamente.
 
-bibliaonline.com.br/nvi/ef/6/10-20
+2 Reis 20:4 - Antes de Isaías deixar o pátio intermediário, a palavra do Senhor veio a ele:
 
-bibliaonline.com.br/nvi/1sm/15/22
+2 Reis 20:5 - "Volte e diga a Ezequias, líder do meu povo: ‘Assim diz o Senhor, Deus de Davi, seu predecessor: Ouvi sua oração e vi suas lágrimas; eu o curarei. Daqui a três dias você subirá ao templo do Senhor.
 
-bibliaonline.com.br/nvi/rm/2/6
+Efésios 2:1 - Vocês estavam mortos em suas transgressões e pecados,
 
-bibliaonline.com.br/nvi/1co/7/9
+Efésios 2:2 - nos quais costumavam viver, quando seguiam a presente ordem deste mundo e o príncipe do poder do ar, o espírito que agora está atuando nos que vivem na desobediência.
 
-bibliaonline.com.br/nvi/1sm/2/30
+Efésios 2:3 - Anteriormente, todos nós também vivíamos entre eles, satisfazendo as vontades da nossa carne, seguindo os seus desejos e pensamentos. Como os outros, éramos por natureza merecedores da ira.
 
-bibliaonline.com.br/nvi/mt/6/22
+Efésios 2:4 - Todavia, Deus, que é rico em misericórdia, pelo grande amor com que nos amou,
 
-bibliaonline.com.br/nvi/tg/5/12
+Efésios 2:5 - deu-nos vida juntamente com Cristo, quando ainda estávamos mortos em transgressões — pela graça vocês são salvos.
 
-bibliaonline.com.br/nvi/lc/8/45-46
+Eclesiastes 3:1 - Para tudo há uma ocasião, e um tempo para cada propósito debaixo do céu:
 
-bibliaonline.com.br/nvi/mt/7/13-14
+Eclesiastes 3:2 - tempo de nascer e tempo de morrer, tempo de plantar e tempo de arrancar o que se plantou,
 
-bibliaonline.com.br/nvi/tg/4/3
+Eclesiastes 3:3 - tempo de matar e tempo de curar, tempo de derrubar e tempo de construir,
 
-bibliaonline.com.br/nvi/ec/7/26-29
+Eclesiastes 3:4 - tempo de chorar e tempo de rir, tempo de prantear e tempo de dançar,
 
-bibliaonline.com.br/nvi/1ts/5/18
+Eclesiastes 3:5 - tempo de espalhar pedras e tempo de ajuntá-las, tempo de abraçar e tempo de se conter,
 
-bibliaonline.com.br/nvi/tg/5/16	
+Eclesiastes 3:6 - tempo de procurar e tempo de desistir, tempo de guardar e tempo de lançar fora,
 
-bibliaonline.com.br/nvi/is/58/5-8
+Eclesiastes 3:7 - tempo de rasgar e tempo de costurar, tempo de calar e tempo de falar,
 
-bibliaonline.com.br/nvi/jr/17/9-10
+Eclesiastes 3:8 - tempo de amar e tempo de odiar, tempo de lutar e tempo de viver em paz.
+
+tempo de nascer e tempo de morrer, tempo de plantar e tempo de arrancar o que se plantou,
+
+Lamentações 3:39 - Como pode um homem reclamar quando é punido por seus pecados?
+
+Lamentações 3:40 - Examinemos e submetamos à prova os nossos caminhos, e depois voltemos ao Senhor.
+
+1 Reis 19:11 - O Senhor lhe disse: "Saia e fique no monte, na presença do Senhor, pois o Senhor vai passar". Então veio um vento fortíssimo que separou os montes e esmigalhou as rochas diante do Senhor, mas o Senhor não estava no vento. Depois do vento houve um terremoto, mas o Senhor não estava no terremoto.
+
+1 Reis 19:12 - Depois do terremoto houve um fogo, mas o Senhor não estava nele. E depois do fogo houve o murmúrio de uma brisa suave.
+
+1 Reis 19:13 - Quando Elias ouviu, puxou a capa para cobrir o rosto, saiu e ficou à entrada da caverna. E uma voz lhe perguntou: "O que você está fazendo aqui, Elias? "
+
+Tiago 3:6 - Assim também, a língua é um fogo; é um mundo de iniqüidade. Colocada entre os membros do nosso corpo, contamina a pessoa por inteiro, incendeia todo o curso de sua vida, sendo ela mesma incendiada pelo inferno.
+
+Tiago 3:7 - Toda espécie de animais, aves, répteis e criaturas do mar doma-se e é domada pela espécie humana;
+
+Tiago 3:8 - a língua, porém, ninguém consegue domar. É um mal incontrolável, cheio de veneno mortífero.
+
+Tiago 3:9 - Com a língua bendizemos ao Senhor e Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus.
+
+Tiago 3:10 - Da mesma boca procedem bênção e maldição. Meus irmãos, não pode ser assim!
+
+Tiago 5:16 - Portanto, confessem os seus pecados uns aos outros e orem uns pelos outros para serem curados. A oração de um justo é poderosa e eficaz.
+
+1 Pedro 5:5 - Da mesma forma jovens, sujeitem-se aos mais velhos. Sejam todos humildes uns para com os outros, porque "Deus se opõe aos orgulhosos, mas concede graça aos humildes".
+
+1 Pedro 2:7 - Portanto, para vocês, os que crêem, esta pedra é preciosa; mas para os que não crêem, "a pedra que os construtores rejeitaram tornou-se a pedra angular",
+
+1 Pedro 2:8 - e, "pedra de tropeço e rocha que faz cair". Os que não crêem tropeçam, porque desobedecem à mensagem; para o que também foram destinados.
+
+2 Samuel 22:26 - "Ao fiel te revelas fiel, ao irrepreensível te revelas irrepreensível,
+
+2 Samuel 22:27 - ao puro te revelas puro, mas ao perverso te revelas astuto.
+
+Isaías 30:15 - Diz o Soberano Senhor, o Santo de Israel: "No arrependimento e no descanso está a salvação de vocês, na quietude e na confiança está o seu vigor, mas vocês não quiseram.
+
+Tiago 1:22 - Sejam praticantes da palavra, e não apenas ouvintes, enganando-se a si mesmos.
+
+Efésios 6:10 - Finalmente, fortaleçam-se no Senhor e no seu forte poder.
+
+Efésios 6:11 - Vistam toda a armadura de Deus, para poderem ficar firmes contra as ciladas do diabo,
+
+Efésios 6:12 - pois a nossa luta não é contra pessoas, mas contra os poderes e autoridades, contra os dominadores deste mundo de trevas, contra as forças espirituais do mal nas regiões celestiais.
+
+Efésios 6:13 - Por isso, vistam toda a armadura de Deus, para que possam resistir no dia mau e permanecer inabaláveis, depois de terem feito tudo.
+
+Efésios 6:14 - Assim, mantenham-se firmes, cingindo-se com o cinto da verdade, vestindo a couraça da justiça
+
+Efésios 6:15 - e tendo os pés calçados com a prontidão do evangelho da paz.
+
+Efésios 6:16 - Além disso, usem o escudo da fé, com o qual vocês poderão apagar todas as setas inflamadas do Maligno.
+
+Efésios 6:17 - Usem o capacete da salvação e a espada do Espírito, que é a palavra de Deus.
+
+Efésios 6:18 - Orem no Espírito em todas as ocasiões, com toda oração e súplica; tendo isso em mente, estejam atentos e perseverem na oração por todos os santos.
+
+Efésios 6:19 - Orem também por mim, para que, quando eu falar, seja-me dada a mensagem a fim de que, destemidamente, torne conhecido o mistério do evangelho,
+
+Efésios 6:20 - pelo qual sou embaixador preso em correntes. Orem para que, permanecendo nele, eu fale com coragem, como me cumpre fazer.
+
+1 Samuel 15:22 - Samuel, porém, respondeu: "Acaso tem o Senhor tanto prazer em holocaustos e em sacrifícios quanto em que se obedeça à sua palavra? A obediência é melhor do que o sacrifício, e a submissão é melhor do que a gordura de carneiros.
+
+Romanos 2:6 - Deus "retribuirá a cada um conforme o seu procedimento".
+
+1 Coríntios 7:9 - Mas, se não conseguem controlar-se, devem casar-se, pois é melhor casar-se do que ficar ardendo de desejo.
+
+1 Samuel 2:30 - Portanto, o Senhor, o Deus de Israel, declara: ‘Prometi à sua família e à linhagem de seu pai, que ministrariam diante de mim para sempre’. Mas agora o Senhor declara: ‘Longe de mim tal coisa! Honrarei aqueles que me honram, mas aqueles que me desprezam serão tratados com desprezo.
+
+Mateus 6:22 - "Os olhos são a candeia do corpo. Se os seus olhos forem bons, todo o seu corpo será cheio de luz.
+
+Tiago 5:12 - Sobretudo, meus irmãos, não jurem nem pelo céu, nem pela terra, nem por qualquer outra coisa. Seja o sim de vocês, sim, e o não, não, para que não caiam em condenação.
+
+Lucas 8:45 - "Quem tocou em mim? ", perguntou Jesus. Como todos negassem, Pedro disse: "Mestre, a multidão se aglomera e te comprime".
+
+Lucas 8:46 - Mas Jesus disse: "Alguém tocou em mim; eu sei que de mim saiu poder".
+
+Mateus 7:13 - "Entrem pela porta estreita, pois larga é a porta e amplo o caminho que leva à perdição, e são muitos os que entram por ela.
+
+Mateus 7:14 - Como é estreita a porta, e apertado o caminho que leva à vida! São poucos os que a encontram".
+
+Tiago 4:3 - Quando pedem, não recebem, pois pedem por motivos errados, para gastar em seus prazeres.
+
+Eclesiastes 7:26 - Descobri que muito mais amarga do que a morte é a mulher que serve de laço, cujo coração é uma armadilha e cujas mãos são correntes. O homem que agrada a Deus escapará dela, mas ao pecador ela apanhará.
+
+Eclesiastes 7:27 - "Veja", diz o Mestre, "foi isto que descobri: Ao comparar uma coisa com outra para descobrir a sua razão de ser,
+
+Eclesiastes 7:28 - sim, durante essa minha busca que ainda não terminou, entre mil homens, descobri apenas um que julgo digno, mas entre as mulheres não achei uma sequer.
+
+Eclesiastes 7:29 - Assim, cheguei a esta conclusão: Deus fez os homens justos, mas eles foram em busca de muitas intrigas. "
+
+1 Tessalonicenses 5:18 - Dêem graças em todas as circunstâncias, pois esta é a vontade de Deus para vocês em Cristo Jesus.
+
+Tiago 5:16 - Portanto, confessem os seus pecados uns aos outros e orem uns pelos outros para serem curados. A oração de um justo é poderosa e eficaz.
+
+Isaías 58:5 - Será esse o jejum que escolhi, que apenas um dia o homem se humilhe, incline a cabeça como o junco e se deite sobre pano de saco e cinzas? É isso que vocês chamam jejum, um dia aceitável ao Senhor?
+
+Isaías 58:6 - "O jejum que desejo não é este: soltar as correntes da injustiça, desatar as cordas do jugo, pôr em liberdade os oprimidos e romper todo jugo?
+
+Isaías 58:7 - Não é partilhar sua comida com o faminto, abrigar o pobre desamparado, vestir o nu que você encontrou, e não recusar ajuda ao próximo?
+
+Isaías 58:8 - Aí sim, a sua luz irromperá como a alvorada, e prontamente surgirá a sua cura; a sua retidão irá adiante de você, e a glória do Senhor estará na sua retaguarda.
+
+Jeremias 17:9 - O coração é mais enganoso que qualquer outra coisa e sua doença é incurável. Quem é capaz de compreendê-lo?
+
+Jeremias 17:10 - "Eu sou o Senhor que sonda o coração e examina a mente, para recompensar a cada um de acordo com a sua conduta, de acordo com as suas obras. "
