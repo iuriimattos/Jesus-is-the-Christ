@@ -2,7 +2,7 @@ size 540 960
 
 loop 123
 
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 10 9 - Se você confessar com a sua boca que Jesus é Senhor e crer em seu coração que Deus o ressuscitou dentre os mortos, será salvo.
@@ -11,7 +11,7 @@ input Romanos 10 9 - Se você confessar com a sua boca que Jesus é Senhor e cre
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 9 - O amor deve ser sincero. Odeiem o que é mau; apeguem-se ao que é bom.
@@ -20,7 +20,7 @@ input Romanos 12 9 - O amor deve ser sincero. Odeiem o que é mau; apeguem-se ao
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 10 - Dediquem-se uns aos outros com amor fraternal. Prefiram dar honra aos outros mais do que a si próprios.
@@ -29,7 +29,7 @@ input Romanos 12 10 - Dediquem-se uns aos outros com amor fraternal. Prefiram da
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 11 - Nunca lhes falte o zelo, sejam fervorosos no espírito, sirvam ao Senhor.
@@ -38,7 +38,7 @@ input Romanos 12 11 - Nunca lhes falte o zelo, sejam fervorosos no espírito, si
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 12 - Alegrem-se na esperança, sejam pacientes na tribulação, perseverem na oração.
@@ -47,7 +47,7 @@ input Romanos 12 12 - Alegrem-se na esperança, sejam pacientes na tribulação,
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 13 - Compartilhem o que vocês têm com os santos em suas necessidades. Pratiquem a hospitalidade.
@@ -56,7 +56,7 @@ input Romanos 12 13 - Compartilhem o que vocês têm com os santos em suas neces
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 14 - Abençoem aqueles que os perseguem; abençoem, e não os amaldiçoem.
@@ -65,7 +65,7 @@ input Romanos 12 14 - Abençoem aqueles que os perseguem; abençoem, e não os a
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 15 - Alegrem-se com os que se alegram; chorem com os que choram.
@@ -74,7 +74,7 @@ input Romanos 12 15 - Alegrem-se com os que se alegram; chorem com os que choram
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 16 - Tenham uma mesma atitude uns para com os outros. Não sejam orgulhosos, mas estejam dispostos a associar-se a pessoas de posição inferior.
@@ -83,7 +83,7 @@ input Romanos 12 16 - Tenham uma mesma atitude uns para com os outros. Não seja
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 17 - Não retribuam a ninguém mal por mal. Procurem fazer o que é correto aos olhos de todos.
@@ -92,7 +92,7 @@ input Romanos 12 17 - Não retribuam a ninguém mal por mal. Procurem fazer o qu
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 18 - Façam todo o possível para viver em paz com todos.
@@ -101,7 +101,7 @@ input Romanos 12 18 - Façam todo o possível para viver em paz com todos.
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 19 - Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito  Minha é a vingança; eu retribuirei, diz o Senhor.
@@ -110,7 +110,7 @@ input Romanos 12 19 - Amados, nunca procurem vingar-se, mas deixem com Deus a ir
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 20 - Pelo contrário  Se o seu inimigo tiver fome, dê-lhe de comer; se tiver sede, dê-lhe de beber. Fazendo isso, você amontoará brasas vivas
@@ -119,7 +119,7 @@ input Romanos 12 20 - Pelo contrário  Se o seu inimigo tiver fome, dê-lhe de c
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 12 21 - Não se deixem vencer pelo mal, mas vençam o mal com o bem.
@@ -128,7 +128,7 @@ input Romanos 12 21 - Não se deixem vencer pelo mal, mas vençam o mal com o be
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Efésios 4 2 - Sejam humildes, delicados para com os outros e pacientes, numa base de compreensão mútua e com uma afeição sincera.
@@ -137,7 +137,7 @@ input Efésios 4 2 - Sejam humildes, delicados para com os outros e pacientes, n
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Efésios 4 26 - Não pequem, deixando que a ira vos domine. Antes que o dia acabe, façam com que a vossa irritação tenha fim.
@@ -146,7 +146,7 @@ input Efésios 4 26 - Não pequem, deixando que a ira vos domine. Antes que o di
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Efésios 4 32 -Em vez disso sejam uns para com os outros amáveis e compreensivos, perdoando-se mutuamente, tal como Cristo também vos perdoou.
@@ -155,7 +155,7 @@ input Efésios 4 32 -Em vez disso sejam uns para com os outros amáveis e compre
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 10 17 - Na verdade, a fé vem por ouvir esta mensagem de boas novas - as boas novas acerca de Cristo.
@@ -164,7 +164,7 @@ input Romanos 10 17 - Na verdade, a fé vem por ouvir esta mensagem de boas nova
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Isaías 58 5 - Será esse o jejum que escolhi, que apenas um dia o homem se humilhe, incline a cabeça como o junco e se deite sobre pano de saco e cinzas? É
@@ -173,7 +173,7 @@ input Isaías 58 5 - Será esse o jejum que escolhi, que apenas um dia o homem s
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Isaías 58 6 - O jejum que desejo é este  soltar as correntes da injustiça, desatar as cordas do jugo, pôr em liberdade os oprimidos e romper todo jugo
@@ -182,7 +182,7 @@ input Isaías 58 6 - O jejum que desejo é este  soltar as correntes da injusti�
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Isaías 58 7 - É partilhar sua comida com o faminto, abrigar o pobre desamparado, vestir o nu que você encontrou, e não recusar ajuda ao próximo
@@ -191,7 +191,7 @@ input Isaías 58 7 - É partilhar sua comida com o faminto, abrigar o pobre desa
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Isaías 58 8 - Aí sim, a sua luz irromperá como a alvorada, e prontamente surgirá a sua cura; a sua retidão irá adiante de você, e a glória do Senhor estará
@@ -200,7 +200,7 @@ input Isaías 58 8 - Aí sim, a sua luz irromperá como a alvorada, e prontament
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Isaías 58 9 - Aí sim, você clamará ao Senhor, e ele responderá; você gritará por socorro, e ele dirá  Aqui estou. Se você eliminar do seu meio o jugo
@@ -209,7 +209,7 @@ input Isaías 58 9 - Aí sim, você clamará ao Senhor, e ele responderá; você
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Isaías 58 10 - se com renúncia própria você beneficiar os famintos e satisfizer o anseio dos aflitos, então a sua luz despontará nas trevas, e a sua noite
@@ -218,7 +218,7 @@ input Isaías 58 10 - se com renúncia própria você beneficiar os famintos e s
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Isaías 58 11 - PARTE 1 - O Senhor o guiará constantemente; satisfará os seus desejos numa terra ressequida pelo sol e fortalecerá os seus ossos.
@@ -227,7 +227,7 @@ input Isaías 58 11 - PARTE 1 - O Senhor o guiará constantemente; satisfará os
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Isaías 58 11 - PARTE 2 - Você será como um jardim bem regado, como uma fonte cujas águas nunca faltam.
@@ -236,7 +236,7 @@ input Isaías 58 11 - PARTE 2 - Você será como um jardim bem regado, como uma 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 1 22 - Sejam praticantes da palavra, e não apenas ouvintes, enganando-se a si mesmos.
@@ -245,7 +245,7 @@ input Tiago 1 22 - Sejam praticantes da palavra, e não apenas ouvintes, enganan
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 1 23 - Aquele que ouve a palavra, mas não a põe em prática, é semelhante a quem olha a sua face num espelho
@@ -254,7 +254,7 @@ input Tiago 1 23 - Aquele que ouve a palavra, mas não a põe em prática, é se
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 1 24 - e, depois de olhar para si mesmo, sai e logo esquece a sua aparência.
@@ -263,7 +263,7 @@ input Tiago 1 24 - e, depois de olhar para si mesmo, sai e logo esquece a sua ap
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 1 25 - Mas quem observa atentamente a lei perfeita que traz a liberdade, e persevera na prática dessa lei, não esquecendo o que ouviu mas
@@ -272,7 +272,7 @@ input Tiago 1 25 - Mas quem observa atentamente a lei perfeita que traz a liberd
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 13 8 - Não devam nada a ninguém, a não ser o amor de uns pelos outros, pois aquele que ama seu próximo tem cumprido a lei.
@@ -281,7 +281,7 @@ input Romanos 13 8 - Não devam nada a ninguém, a não ser o amor de uns pelos 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 13 9 - PARTE 1 - Pois estes mandamentos  Não adulterarás, não matarás, não furtarás, não cobiçarás, 
@@ -290,7 +290,7 @@ input Romanos 13 9 - PARTE 1 - Pois estes mandamentos  Não adulterarás, não m
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 13 9 - PARTE 2 - e qualquer outro mandamento, todos se resumem neste preceito  Ame o seu próximo como a si mesmo.
@@ -299,7 +299,7 @@ input Romanos 13 9 - PARTE 2 - e qualquer outro mandamento, todos se resumem nes
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 13 10 - O amor não pratica o mal contra o próximo. Portanto, o amor é o cumprimento da lei.
@@ -308,7 +308,7 @@ input Romanos 13 10 - O amor não pratica o mal contra o próximo. Portanto, o a
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Hebreus 11 1 - Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos.
@@ -317,7 +317,7 @@ input Hebreus 11 1 - Ora, a fé é a certeza daquilo que esperamos e a prova das
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 
@@ -327,7 +327,7 @@ input Hebreus 11 6 - Sem fé é impossível agradar a Deus, pois quem dele se ap
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 
@@ -337,7 +337,7 @@ input Tiago 1:27 A religião que Deus, o nosso Pai aceita como pura e imaculada 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Romanos 8 28 - Sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito.
@@ -346,7 +346,7 @@ input Romanos 8 28 - Sabemos que Deus age em todas as coisas para o bem daqueles
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 2 14 - De que adianta, meus irmãos, alguém dizer que tem fé, se não tem obras? Acaso a fé pode salvá-lo?
@@ -355,7 +355,7 @@ input Tiago 2 14 - De que adianta, meus irmãos, alguém dizer que tem fé, se n
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 2 15 - Se um irmão ou irmã estiver necessitando de roupas e do alimento de cada dia
@@ -364,7 +364,7 @@ input Tiago 2 15 - Se um irmão ou irmã estiver necessitando de roupas e do ali
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 2 16 - e um de vocês lhe disser  Vá em paz, aqueça-se e alimente-se até satisfazer-se, sem porém lhe dar nada, de que adianta isso?
@@ -373,7 +373,7 @@ input Tiago 2 16 - e um de vocês lhe disser  Vá em paz, aqueça-se e alimente-
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 2 17 - Assim também a fé, por si só, se não for acompanhada de obras, está morta.	
@@ -382,7 +382,7 @@ input Tiago 2 17 - Assim também a fé, por si só, se não for acompanhada de o
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 1 1 - No princípio era aquele que é a Palavra. Ele estava com Deus, e era Deus.
@@ -391,7 +391,7 @@ input João 1 1 - No princípio era aquele que é a Palavra. Ele estava com Deus
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 1 14 - Aquele que é a Palavra tornou-se carne e viveu entre nós. Vimos a sua glória, glória como do Unigênito vindo do Pai, cheio de graça e de
@@ -400,7 +400,7 @@ input João 1 14 - Aquele que é a Palavra tornou-se carne e viveu entre nós. V
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 3 16 - Assim que Jesus foi batizado, saiu da água. Naquele momento os céus se abriram, e ele viu o Espírito de Deus descendo como pássaro e pousando
@@ -409,7 +409,7 @@ input Mateus 3 16 - Assim que Jesus foi batizado, saiu da água. Naquele momento
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 6 14 - Pois se perdoarem as ofensas uns dos outros, o Pai celestial também lhes perdoará.
@@ -418,7 +418,7 @@ input Mateus 6 14 - Pois se perdoarem as ofensas uns dos outros, o Pai celestial
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 6 15 - Mas se não perdoarem uns aos outros, o Pai celestial não lhes perdoará as ofensas. 
@@ -427,7 +427,7 @@ input Mateus 6 15 - Mas se não perdoarem uns aos outros, o Pai celestial não l
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 46 - Se vocês amarem aqueles que os amam, que recompensa receberão? Até os publicanos fazem isso.
@@ -436,7 +436,7 @@ input Mateus 5 46 - Se vocês amarem aqueles que os amam, que recompensa receber
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 47 - E se vocês saudarem apenas os seus irmãos, o que estarão fazendo de mais? Até os pagãos fazem isso.
@@ -445,7 +445,7 @@ input Mateus 5 47 - E se vocês saudarem apenas os seus irmãos, o que estarão 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 10 37 - Quem ama seu pai ou sua mãe mais do que a mim não é digno de mim; quem ama seu filho ou sua filha mais do que a mim não é digno de mim;
@@ -454,7 +454,7 @@ input Mateus 10 37 - Quem ama seu pai ou sua mãe mais do que a mim não é dign
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 10 38 - e quem não toma a sua cruz e não me segue, não é digno de mim.   
@@ -463,7 +463,7 @@ input Mateus 10 38 - e quem não toma a sua cruz e não me segue, não é digno 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 31 10 - Uma esposa exemplar; feliz quem a encontrar. É muito mais valiosa que os rubis.
@@ -472,7 +472,7 @@ input Provérbios 31 10 - Uma esposa exemplar; feliz quem a encontrar. É muito 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 31 11 - Seu marido tem plena confiança nela e nunca lhe falta coisa alguma.
@@ -481,7 +481,7 @@ input Provérbios 31 11 - Seu marido tem plena confiança nela e nunca lhe falta
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 31 12 - Ela só lhe faz o bem, e nunca o mal, todos os dias da sua vida.
@@ -490,7 +490,7 @@ input Provérbios 31 12 - Ela só lhe faz o bem, e nunca o mal, todos os dias da
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 31 26 - Fala com sabedoria e ensina com amor.
@@ -499,7 +499,7 @@ input Provérbios 31 26 - Fala com sabedoria e ensina com amor.
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 31 27 - Cuida dos negócios de sua casa e não dá lugar à preguiça.
@@ -508,7 +508,7 @@ input Provérbios 31 27 - Cuida dos negócios de sua casa e não dá lugar à pr
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 31 28 - Seus filhos se levantam e a elogiam; seu marido também a elogia, dizendo 
@@ -517,7 +517,7 @@ input Provérbios 31 28 - Seus filhos se levantam e a elogiam; seu marido també
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 31 29 - 'Muitas mulheres são exemplares, mas você a todas supera.'
@@ -526,7 +526,7 @@ input Provérbios 31 29 - 'Muitas mulheres são exemplares, mas você a todas su
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 31 30 - A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada.
@@ -535,7 +535,7 @@ input Provérbios 31 30 - A beleza é enganosa, e a formosura é passageira; mas
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Marcos 9 22 - E muitas vezes o tem lançado no fogo, e na água, para o destruir; mas, se tu podes fazer alguma coisa, tem compaixão de nós, e ajuda-nos.
@@ -544,7 +544,7 @@ input Marcos 9 22 - E muitas vezes o tem lançado no fogo, e na água, para o de
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Marcos 9 23 - E Jesus disse-lhe  Se tu podes crer, tudo é possível ao que crê.
@@ -553,7 +553,7 @@ input Marcos 9 23 - E Jesus disse-lhe  Se tu podes crer, tudo é possível ao qu
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Marcos 9 24 - E logo o pai do menino, clamando, com lágrimas, disse  Eu creio, Senhor. Ajuda a minha incredulidade.
@@ -562,7 +562,7 @@ input Marcos 9 24 - E logo o pai do menino, clamando, com lágrimas, disse  Eu c
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Marcos 9 28 - Depois de Jesus ter entrado em casa, seus discípulos lhe perguntaram em particular  'Por que não conseguimos expulsá-lo?'
@@ -571,7 +571,7 @@ input Marcos 9 28 - Depois de Jesus ter entrado em casa, seus discípulos lhe pe
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Marcos 9 29 - Ele respondeu  'Essa espécie só sai pela oração e pelo jejum'.
@@ -580,7 +580,7 @@ input Marcos 9 29 - Ele respondeu  'Essa espécie só sai pela oração e pelo j
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Lucas 11 23 - Quem não é por mim é contra mim, quem não ajunta comigo espalha.
@@ -589,7 +589,7 @@ input Lucas 11 23 - Quem não é por mim é contra mim, quem não ajunta comigo 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Lucas 12 47 - Aquele servo que conhece a vontade de seu senhor e não prepara o que ele deseja, nem o realiza, receberá muitos açoites.
@@ -598,7 +598,7 @@ input Lucas 12 47 - Aquele servo que conhece a vontade de seu senhor e não prep
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Lucas12 48-Mas aquele que não a conhece e pratica coisas merecedoras de castigo, receberá poucos açoites. A quem muito foi dado, muito será exigido;A quem
@@ -607,7 +607,7 @@ input Lucas12 48-Mas aquele que não a conhece e pratica coisas merecedoras de c
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input 1 Pedro 3 15 - Antes, santifiquem Cristo como Senhor no coração. Estejam sempre preparados para responder a qualquer que lhes pedir a razão da esperança
@@ -616,7 +616,7 @@ input 1 Pedro 3 15 - Antes, santifiquem Cristo como Senhor no coração. Estejam
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 8 3 - Acaso Deus torce a justiça? Será que o Todo-poderoso torce o que é direito?
@@ -625,7 +625,7 @@ input Jó 8 3 - Acaso Deus torce a justiça? Será que o Todo-poderoso torce o q
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 8 5 - Mas, se você procurar a Deus e implorar junto ao Todo-poderoso,
@@ -634,7 +634,7 @@ input Jó 8 5 - Mas, se você procurar a Deus e implorar junto ao Todo-poderoso,
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 8 6 - se você for íntegro e puro, ele se levantará agora mesmo em seu favor e o restabelecerá no lugar que por justiça cabe a você.
@@ -643,7 +643,7 @@ input Jó 8 6 - se você for íntegro e puro, ele se levantará agora mesmo em s
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 8 8 - Pergunte às gerações anteriores e veja o que os seus pais aprenderam,
@@ -652,7 +652,7 @@ input Jó 8 8 - Pergunte às gerações anteriores e veja o que os seus pais apr
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 8 10 - Acaso eles não o instruirão, não lhe falarão? Não proferirão palavras vindas do entendimento?
@@ -661,7 +661,7 @@ input Jó 8 10 - Acaso eles não o instruirão, não lhe falarão? Não proferir
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 8 20 - Pois o certo é que Deus não rejeita o íntegro, e não fortalece as mãos dos que fazem o mal.
@@ -670,7 +670,7 @@ input Jó 8 20 - Pois o certo é que Deus não rejeita o íntegro, e não fortal
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input 2Crônicas 7 14-se o meu povo, que se chama pelo meu nome, se humilhar e orar, buscar a minha face e se afastar dos seus maus caminhos, dos céus o ouvirei,
@@ -679,7 +679,7 @@ input 2Crônicas 7 14-se o meu povo, que se chama pelo meu nome, se humilhar e o
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 38 - Vocês ouviram o que foi dito  Olho por olho e dente por dente.
@@ -688,7 +688,7 @@ input Mateus 5 38 - Vocês ouviram o que foi dito  Olho por olho e dente por den
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 39 - Mas eu lhes digo  Não resistam ao perverso. Se alguém o ferir na face direita, ofereça-lhe também a outra.
@@ -697,7 +697,7 @@ input Mateus 5 39 - Mas eu lhes digo  Não resistam ao perverso. Se alguém o fe
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 40 - E se alguém quiser processá-lo e tirar-lhe a túnica, deixe que leve também a capa.
@@ -706,7 +706,7 @@ input Mateus 5 40 - E se alguém quiser processá-lo e tirar-lhe a túnica, deix
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 41 - Se alguém o forçar a caminhar com ele uma milha, vá com ele duas.
@@ -715,7 +715,7 @@ input Mateus 5 41 - Se alguém o forçar a caminhar com ele uma milha, vá com e
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 42 - Dê a quem lhe pede, e não volte as costas àquele que deseja pedir-lhe algo emprestado.
@@ -724,7 +724,7 @@ input Mateus 5 42 - Dê a quem lhe pede, e não volte as costas àquele que dese
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 43 - Vocês ouviram o que foi dito  Ame o seu próximo e odeie o seu inimigo.
@@ -733,7 +733,7 @@ input Mateus 5 43 - Vocês ouviram o que foi dito  Ame o seu próximo e odeie o 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 44 - Mas eu lhes digo  Amem os seus inimigos e orem por aqueles que os perseguem,
@@ -742,7 +742,7 @@ input Mateus 5 44 - Mas eu lhes digo  Amem os seus inimigos e orem por aqueles q
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 5 45 - para que vocês venham a ser filhos de seu Pai que está nos céus. Porque ele faz raiar o seu sol sobre maus e bons e derrama chuva sobre
@@ -751,7 +751,7 @@ input Mateus 5 45 - para que vocês venham a ser filhos de seu Pai que está nos
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 5 6 - Pois o sofrimento não brota do pó, e as dificuldades não nascem do chão.
@@ -760,7 +760,7 @@ input Jó 5 6 - Pois o sofrimento não brota do pó, e as dificuldades não nasc
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 5 7 - No entanto o homem nasce para as dificuldades tão certamente como as fagulhas voam para cima.
@@ -769,7 +769,7 @@ input Jó 5 7 - No entanto o homem nasce para as dificuldades tão certamente co
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 5 17 - Como é feliz o homem a quem Deus corrige; portanto, não despreze a disciplina do Todo-poderoso.
@@ -778,7 +778,7 @@ input Jó 5 17 - Como é feliz o homem a quem Deus corrige; portanto, não despr
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Jó 5 18 - Pois ele fere, mas dela vem tratar; ele machuca, mas suas mãos também curam.
@@ -787,7 +787,7 @@ input Jó 5 18 - Pois ele fere, mas dela vem tratar; ele machuca, mas suas mãos
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Atos 3 19 - Arrependam-se, pois, e voltem-se para Deus, para que os seus pecados sejam cancelados,
@@ -796,7 +796,7 @@ input Atos 3 19 - Arrependam-se, pois, e voltem-se para Deus, para que os seus p
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Atos 3 20 - para que venham tempos de descanso da parte do Senhor, e ele mande o Cristo, o qual lhes foi designado, Jesus.
@@ -805,7 +805,7 @@ input Atos 3 20 - para que venham tempos de descanso da parte do Senhor, e ele m
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 11 12 - Desde os dias de João Batista até agora, o Reino dos céus é tomado à força, e os que usam de força se apoderam dele.
@@ -814,7 +814,7 @@ input Mateus 11 12 - Desde os dias de João Batista até agora, o Reino dos céu
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 15 32 - Quem recusa a disciplina faz pouco caso de si mesmo, mas quem ouve a repreensão obtém entendimento.
@@ -823,7 +823,7 @@ input Provérbios 15 32 - Quem recusa a disciplina faz pouco caso de si mesmo, m
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Eclesiastes 2 24 - Para o homem não existe nada melhor do que comer, beber e encontrar prazer em seu trabalho. E vi que isso também vem da mão de Deus.
@@ -832,7 +832,7 @@ input Eclesiastes 2 24 - Para o homem não existe nada melhor do que comer, bebe
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Salmos 34 19 - O justo passa por muitas adversidades, mas o Senhor o livra de todas;
@@ -841,7 +841,7 @@ input Salmos 34 19 - O justo passa por muitas adversidades, mas o Senhor o livra
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Salmos 34 20 - protege todos os seus ossos; nenhum deles será quebrado.
@@ -850,7 +850,7 @@ input Salmos 34 20 - protege todos os seus ossos; nenhum deles será quebrado.
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Salmos 34 21 - A desgraça matará os ímpios; os que odeiam o justo serão condenados.
@@ -859,7 +859,7 @@ input Salmos 34 21 - A desgraça matará os ímpios; os que odeiam o justo serã
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 7 21 - Nem todo aquele que me diz  Senhor, Senhor, entrará no Reino dos céus, mas apenas aquele que faz a vontade de meu Pai que está nos céus.
@@ -868,7 +868,7 @@ input Mateus 7 21 - Nem todo aquele que me diz  Senhor, Senhor, entrará no Rein
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 7 22 - Muitos me dirão naquele dia  Senhor, Senhor, não profetizamos nós em teu nome? Em teu nome não expulsamos demônios e não realizamos muitos
@@ -877,7 +877,7 @@ input Mateus 7 22 - Muitos me dirão naquele dia  Senhor, Senhor, não profetiza
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 7 23 - Então eu lhes direi claramente  Nunca os conheci. Afastem-se de mim vocês, que praticam o mal.
@@ -886,7 +886,7 @@ input Mateus 7 23 - Então eu lhes direi claramente  Nunca os conheci. Afastem-s
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input 1 Coríntios 6 19 - Acaso não sabem que o corpo de vocês é santuário do Espírito Santo que habita em vocês, que lhes foi dado por Deus, e que vocês não são
@@ -895,7 +895,7 @@ input 1 Coríntios 6 19 - Acaso não sabem que o corpo de vocês é santuário d
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input 1 Coríntios 6 20 - Vocês foram comprados por alto preço. Portanto, glorifiquem a Deus com o corpo de vocês.
@@ -904,7 +904,7 @@ input 1 Coríntios 6 20 - Vocês foram comprados por alto preço. Portanto, glor
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Hebreus 5 7 - PARTE 1 - Durante os seus dias de vida na terra, Jesus ofereceu orações e súplicas, 
@@ -913,7 +913,7 @@ input Hebreus 5 7 - PARTE 1 - Durante os seus dias de vida na terra, Jesus ofere
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Hebreus 5 7 - PARTE 2 - em alta voz e com lágrimas, àquele que o podia salvar da morte, sendo ouvido por causa da sua reverente submissão.
@@ -922,7 +922,7 @@ input Hebreus 5 7 - PARTE 2 - em alta voz e com lágrimas, àquele que o podia s
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Marcos 1 35 - De madrugada, quando ainda estava escuro, Jesus levantou-se, saiu de casa e foi para um lugar deserto, onde ficou orando.
@@ -931,7 +931,7 @@ input Marcos 1 35 - De madrugada, quando ainda estava escuro, Jesus levantou-se,
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 
@@ -941,7 +941,7 @@ input Gálatas 6:2 - Levem os fardos pesados uns dos outros e, assim, cumpram a 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 
@@ -951,7 +951,7 @@ input Gálatas 6:9 E não nos cansemos de fazer o bem, pois no tempo próprio co
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 
@@ -961,7 +961,7 @@ input Oséias 6 1 - Venham, voltemos para o Senhor. Ele nos despedaçou, mas nos
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Oséias 6 2 - Depois de dois dias ele nos dará vida novamente; ao terceiro dia nos restaurará, para que vivamos em sua presença.
@@ -970,7 +970,7 @@ input Oséias 6 2 - Depois de dois dias ele nos dará vida novamente; ao terceir
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Oséias 6 3 - Conheçamos o Senhor; esforcemo-nos por conhecê-lo. Tão certo como nasce o sol, ele aparecerá; virá para nós como as chuvas de inverno, como as
@@ -979,7 +979,7 @@ input Oséias 6 3 - Conheçamos o Senhor; esforcemo-nos por conhecê-lo. Tão ce
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 17 3 - O ouro e a prata são purificados pelo fogo, mas só Deus é quem purifica os corações.
@@ -988,7 +988,7 @@ input Provérbios 17 3 - O ouro e a prata são purificados pelo fogo, mas só De
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 17 4 - Os pecadores procuram a companhia dos que falam e fazem como eles; todo o mentiroso se sente bem na companhia de outros mentirosos.
@@ -997,7 +997,7 @@ input Provérbios 17 4 - Os pecadores procuram a companhia dos que falam e fazem
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 17 5 - Desprezar os pobres é insultar Deus, que criou todos os homens. Não ficará sem castigo aquele que se alegra com a desgraça alheia.
@@ -1006,7 +1006,7 @@ input Provérbios 17 5 - Desprezar os pobres é insultar Deus, que criou todos o
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 17 9 - A amizade faz esquecer muita coisa mal feita. Mas os que andam sempre a discutir são capazes de separar os melhores amigos.
@@ -1015,7 +1015,7 @@ input Provérbios 17 9 - A amizade faz esquecer muita coisa mal feita. Mas os qu
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input 1 Coríntios 13 4 - O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha.
@@ -1024,7 +1024,7 @@ input 1 Coríntios 13 4 - O amor é paciente, o amor é bondoso. Não inveja, n�
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input 1 Coríntios 13 5 - Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor.
@@ -1033,7 +1033,7 @@ input 1 Coríntios 13 5 - Não maltrata, não procura seus interesses, não se i
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input 1 Coríntios 13 6 - O amor não se alegra com a injustiça, mas se alegra com a verdade.
@@ -1042,7 +1042,7 @@ input 1 Coríntios 13 6 - O amor não se alegra com a injustiça, mas se alegra 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input 1 Coríntios 13 7 - Tudo sofre, tudo crê, tudo espera, tudo suporta.
@@ -1051,7 +1051,7 @@ input 1 Coríntios 13 7 - Tudo sofre, tudo crê, tudo espera, tudo suporta.
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 22 37 - Respondeu Jesus  Ame o Senhor, o seu Deus de todo o seu coração, de toda a sua alma e de todo o seu entendimento.
@@ -1060,7 +1060,7 @@ input Mateus 22 37 - Respondeu Jesus  Ame o Senhor, o seu Deus de todo o seu cor
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 22 38 - Este é o primeiro e maior mandamento.
@@ -1069,7 +1069,7 @@ input Mateus 22 38 - Este é o primeiro e maior mandamento.
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 22 39 - E o segundo é semelhante a ele  Ame o seu próximo como a si mesmo.
@@ -1078,7 +1078,7 @@ input Mateus 22 39 - E o segundo é semelhante a ele  Ame o seu próximo como a 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 22 40 - Destes dois mandamentos dependem toda a Lei e os Profetas.
@@ -1087,7 +1087,7 @@ input Mateus 22 40 - Destes dois mandamentos dependem toda a Lei e os Profetas.
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 14 12 - Digo-lhes a verdade  Aquele que crê em mim fará também as obras que tenho realizado. Fará coisas ainda maiores do que estas, porque eu estou
@@ -1096,7 +1096,7 @@ input João 14 12 - Digo-lhes a verdade  Aquele que crê em mim fará também as
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 14 13 - E eu farei o que vocês pedirem em meu nome, para que o Pai seja glorificado no Filho.
@@ -1105,7 +1105,7 @@ input João 14 13 - E eu farei o que vocês pedirem em meu nome, para que o Pai 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 4 2 - Vocês cobiçam coisas, e não as têm; matam e invejam, mas não conseguem obter o que desejam. Vocês vivem a lutar e a fazer guerras. Não têm,
@@ -1114,7 +1114,7 @@ input Tiago 4 2 - Vocês cobiçam coisas, e não as têm; matam e invejam, mas n
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Tiago 4 3 - Quando pedem, não recebem, pois pedem por motivos errados, para gastar em seus prazeres.
@@ -1123,7 +1123,7 @@ input Tiago 4 3 - Quando pedem, não recebem, pois pedem por motivos errados, pa
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 13 3 - Quem guarda a sua boca guarda a sua vida, mas quem fala demais acaba se arruinando.
@@ -1132,7 +1132,7 @@ input Provérbios 13 3 - Quem guarda a sua boca guarda a sua vida, mas quem fala
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 18 21 - A língua tem poder sobre a vida e sobre a morte; os que gostam de usá-la comerão do seu fruto.
@@ -1141,7 +1141,7 @@ input Provérbios 18 21 - A língua tem poder sobre a vida e sobre a morte; os q
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 13 24 - Quem se nega a castigar seu filho não o ama; quem o ama não hesita em discipliná-lo.
@@ -1150,7 +1150,7 @@ input Provérbios 13 24 - Quem se nega a castigar seu filho não o ama; quem o a
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 3 3 - Em resposta, Jesus declarou  Digo-lhe a verdade  Ninguém pode ver o Reino de Deus, se não nascer de novo.
@@ -1159,7 +1159,7 @@ input João 3 3 - Em resposta, Jesus declarou  Digo-lhe a verdade  Ninguém pode
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 3 4 - Perguntou Nicodemos  Como alguém pode nascer, sendo velho? É claro que não pode entrar pela segunda vez no ventre de sua mãe e renascer. 
@@ -1168,7 +1168,7 @@ input João 3 4 - Perguntou Nicodemos  Como alguém pode nascer, sendo velho? É
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 3 5 - Respondeu Jesus  Digo-lhe a verdade  Ninguém pode entrar no Reino de Deus, se não nascer da água e do Espírito.
@@ -1177,7 +1177,7 @@ input João 3 5 - Respondeu Jesus  Digo-lhe a verdade  Ninguém pode entrar no R
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 3 6 - O que nasce da carne é carne, mas o que nasce do Espírito é espírito.
@@ -1186,7 +1186,7 @@ input João 3 6 - O que nasce da carne é carne, mas o que nasce do Espírito é
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 3 7 - Não se surpreenda pelo fato de eu ter dito  É necessário que vocês nasçam de novo.
@@ -1195,7 +1195,7 @@ input João 3 7 - Não se surpreenda pelo fato de eu ter dito  É necessário qu
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input João 3 8 - O vento sopra onde quer. Você o escuta, mas não pode dizer de onde vem nem para onde vai. Assim acontece com todos os nascidos do Espírito.
@@ -1204,7 +1204,7 @@ input João 3 8 - O vento sopra onde quer. Você o escuta, mas não pode dizer d
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Efésios 4 22 - Quanto à antiga maneira de viver, vocês foram ensinados a despir-se do velho homem, que se corrompe por desejos enganosos,
@@ -1213,7 +1213,7 @@ input Efésios 4 22 - Quanto à antiga maneira de viver, vocês foram ensinados 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Efésios 4 23 - a serem renovados no modo de pensar e
@@ -1222,7 +1222,7 @@ input Efésios 4 23 - a serem renovados no modo de pensar e
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Efésios 4 24 - a revestir-se do novo homem, criado para ser semelhante a Deus em justiça e em santidade provenientes da verdade.
@@ -1231,7 +1231,7 @@ input Efésios 4 24 - a revestir-se do novo homem, criado para ser semelhante a 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Efésios 4 25 - Portanto, cada um de vocês deve abandonar a mentira e falar a verdade ao seu próximo, pois todos somos membros de um mesmo corpo.
@@ -1240,7 +1240,7 @@ input Efésios 4 25 - Portanto, cada um de vocês deve abandonar a mentira e fal
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Efésios 4 26 - Quando vocês ficarem irados, não pequem. Apazigüem a sua ira antes que o sol se ponha,
@@ -1249,7 +1249,7 @@ input Efésios 4 26 - Quando vocês ficarem irados, não pequem. Apazigüem a su
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Efésios 4 27 - e não dêem lugar ao diabo.
@@ -1258,7 +1258,7 @@ input Efésios 4 27 - e não dêem lugar ao diabo.
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 25 17 - Não faça visitas freqüentes à casa do seu vizinho para que ele não se canse de você e passe a odiá-lo.
@@ -1267,7 +1267,7 @@ input Provérbios 25 17 - Não faça visitas freqüentes à casa do seu vizinho 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Provérbios 25 23 - Como o vento norte traz chuva, assim a língua fingida traz o olhar irado.  
@@ -1276,7 +1276,7 @@ input Provérbios 25 23 - Como o vento norte traz chuva, assim a língua fingida
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Colossenses 2 8 - Tenham cuidado para que ninguém os escravize a filosofias vãs e enganosas, que se fundamentam nas tradições humanas e nos princípios
@@ -1285,7 +1285,7 @@ input Colossenses 2 8 - Tenham cuidado para que ninguém os escravize a filosofi
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 9 10 - Estando Jesus em casa, foram comer com ele e seus discípulos muitos publicanos e pecadores.
@@ -1294,7 +1294,7 @@ input Mateus 9 10 - Estando Jesus em casa, foram comer com ele e seus discípulo
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 9 11 - Vendo isso, os fariseus perguntaram aos discípulos dele  Por que o mestre de vocês come com publicanos e pecadores? 
@@ -1303,7 +1303,7 @@ input Mateus 9 11 - Vendo isso, os fariseus perguntaram aos discípulos dele  Po
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 9 12 - Ouvindo isso, Jesus disse  Não são os que têm saúde que precisam de médico, mas sim os doentes.
@@ -1312,7 +1312,7 @@ input Mateus 9 12 - Ouvindo isso, Jesus disse  Não são os que têm saúde que 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Mateus 9 13 - Vão aprender o que significa isto  Desejo misericórdia, não sacrifícios. Pois eu não vim chamar justos, mas pecadores.
@@ -1321,7 +1321,7 @@ input Mateus 9 13 - Vão aprender o que significa isto  Desejo misericórdia, n�
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Filipenses 2 5 - Seja a atitude de vocês a mesma de Cristo Jesus,
@@ -1330,7 +1330,7 @@ input Filipenses 2 5 - Seja a atitude de vocês a mesma de Cristo Jesus,
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Filipenses 2 6 - que, embora sendo Deus, não considerou que o ser igual a Deus era algo a que devia apegar-se;
@@ -1339,7 +1339,7 @@ input Filipenses 2 6 - que, embora sendo Deus, não considerou que o ser igual a
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Filipenses 2 7 - mas esvaziou-se a si mesmo, vindo a ser servo, tornando-se semelhante aos homens.
@@ -1348,7 +1348,7 @@ input Filipenses 2 7 - mas esvaziou-se a si mesmo, vindo a ser servo, tornando-s
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Filipenses 2 8 - E, sendo encontrado em forma humana, humilhou-se a si mesmo e foi obediente até à morte, e morte de cruz.
@@ -1357,7 +1357,7 @@ input Filipenses 2 8 - E, sendo encontrado em forma humana, humilhou-se a si mes
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Filipenses 2 9 - Por isso Deus o exaltou à mais alta posição e lhe deu o nome que está acima de todo nome,
@@ -1366,7 +1366,7 @@ input Filipenses 2 9 - Por isso Deus o exaltou à mais alta posição e lhe deu 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Filipenses 2 10 - para que ao nome de Jesus se dobre todo joelho, no céu, na terra e debaixo da terra,
@@ -1375,7 +1375,7 @@ input Filipenses 2 10 - para que ao nome de Jesus se dobre todo joelho, no céu,
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Filipenses 2 11 - e toda língua confesse que Jesus Cristo é o Senhor, para a glória de Deus Pai.
@@ -1384,7 +1384,7 @@ input Filipenses 2 11 - e toda língua confesse que Jesus Cristo é o Senhor, pa
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Deuteronômio 11 18 - Gravem estas minhas palavras no coração e na mente; amarrem-nas como símbolos nas mãos e prendam-nas na testa.
@@ -1393,7 +1393,7 @@ input Deuteronômio 11 18 - Gravem estas minhas palavras no coração e na mente
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Deuteronômio 11 19 - Ensinem-nas a seus filhos, conversando a respeito delas quando estiverem sentados em casa e quando estiverem andando pelo caminho,
@@ -1402,7 +1402,7 @@ input Deuteronômio 11 19 - Ensinem-nas a seus filhos, conversando a respeito de
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Deuteronômio 11 20 - Escrevam-nas nos batentes das portas de suas casas, e nos seus portões,
@@ -1411,7 +1411,7 @@ input Deuteronômio 11 20 - Escrevam-nas nos batentes das portas de suas casas, 
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Deuteronômio 1   1 21 - PARTE 1 - para que, na terra que o Senhor jurou que daria aos seus antepassados, 
@@ -1420,7 +1420,7 @@ input Deuteronômio 1   1 21 - PARTE 1 - para que, na terra que o Senhor jurou q
 delay 550
 key R
 delay 20550
-click 84 931
+click 153 931
 delay 550
 
 input Deuteronômio 11 21 - PARTE 2 - os seus dias e os dias dos seus filhos sejam muitos, sejam tantos como os dias durante os quais o céu está acima da terra.
