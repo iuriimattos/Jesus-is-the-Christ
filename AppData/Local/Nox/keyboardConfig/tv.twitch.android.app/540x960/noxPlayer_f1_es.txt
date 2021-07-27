@@ -15,7 +15,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -27,7 +27,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -39,7 +39,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -51,7 +51,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -63,7 +63,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -75,7 +75,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -87,7 +87,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -99,7 +99,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -111,7 +111,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -123,7 +123,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -135,7 +135,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -147,7 +147,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -159,7 +159,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -171,7 +171,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -183,7 +183,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -195,7 +195,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -207,7 +207,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -219,7 +219,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -231,7 +231,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -243,7 +243,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -255,7 +255,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -267,7 +267,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -279,7 +279,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -291,7 +291,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -303,7 +303,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -315,7 +315,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -327,7 +327,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -339,7 +339,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -351,7 +351,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -363,7 +363,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -375,7 +375,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -387,7 +387,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -399,7 +399,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -411,7 +411,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -423,7 +423,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -435,7 +435,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -447,7 +447,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -459,7 +459,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -471,7 +471,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -483,7 +483,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -495,7 +495,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -507,7 +507,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -519,7 +519,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -531,7 +531,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -543,7 +543,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -555,7 +555,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -567,7 +567,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -579,7 +579,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -591,7 +591,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -603,7 +603,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -615,7 +615,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -627,7 +627,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -639,7 +639,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -651,7 +651,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -663,7 +663,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -675,7 +675,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -687,7 +687,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -699,7 +699,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -711,7 +711,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -723,7 +723,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -735,7 +735,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -747,7 +747,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -759,7 +759,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -771,7 +771,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -783,7 +783,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -795,7 +795,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -807,7 +807,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -819,7 +819,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -831,7 +831,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -843,7 +843,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -855,7 +855,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -867,7 +867,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -879,7 +879,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -891,7 +891,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -903,7 +903,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -915,7 +915,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -927,7 +927,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -939,7 +939,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -951,7 +951,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -963,7 +963,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -975,7 +975,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -987,7 +987,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -999,7 +999,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1011,7 +1011,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1023,7 +1023,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1035,7 +1035,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1047,7 +1047,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1059,7 +1059,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1071,7 +1071,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1083,7 +1083,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1095,7 +1095,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1107,7 +1107,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1119,7 +1119,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1131,7 +1131,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1143,7 +1143,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1155,7 +1155,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1167,7 +1167,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1179,7 +1179,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1191,7 +1191,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1203,7 +1203,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1215,7 +1215,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1227,7 +1227,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1239,7 +1239,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1251,7 +1251,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1263,7 +1263,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1275,7 +1275,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1287,7 +1287,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1299,7 +1299,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1311,7 +1311,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1323,7 +1323,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1335,7 +1335,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1347,7 +1347,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1359,7 +1359,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1371,7 +1371,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1383,7 +1383,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1395,7 +1395,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1407,7 +1407,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1419,7 +1419,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1431,7 +1431,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1443,7 +1443,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1455,7 +1455,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1467,7 +1467,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1479,7 +1479,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1491,7 +1491,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1503,7 +1503,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1515,7 +1515,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1527,7 +1527,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1539,7 +1539,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1551,7 +1551,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1563,7 +1563,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1575,7 +1575,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1587,7 +1587,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1599,7 +1599,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1611,7 +1611,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1623,7 +1623,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1635,7 +1635,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1647,7 +1647,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1659,7 +1659,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1671,7 +1671,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1683,7 +1683,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1695,7 +1695,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1707,7 +1707,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1719,7 +1719,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1731,7 +1731,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1743,7 +1743,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1755,7 +1755,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1767,7 +1767,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1779,7 +1779,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1791,7 +1791,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1803,7 +1803,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1815,7 +1815,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1827,7 +1827,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1839,7 +1839,7 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
 
@@ -1851,6 +1851,6 @@ delay 1550
 click 507 545
 delay 1550
 key R
-delay 1000
+delay 4500
 click 507 921
 delay 1550
