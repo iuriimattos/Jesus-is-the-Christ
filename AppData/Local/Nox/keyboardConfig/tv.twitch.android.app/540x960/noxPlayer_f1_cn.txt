@@ -5,1767 +5,1767 @@ click 115 931
 loop 123
 
 click 507 921
-delay 1550
+delay 7550
 
 input 罗马书 10 9 - 你若口里认耶稣为主，心里信神叫他从死里复活，就必得救。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 9 - 爱必须真诚。讨厌坏事；坚持什么是好的。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 10 - 以兄弟般的爱奉献自己。比起尊重自己，更喜欢尊重他人。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 11 - 永远不要缺乏热心，要心里热切，事奉主。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 12 - 在盼望中喜乐，在患难中忍耐，在祷告中恒切。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 13 - 与需要的圣徒分享你所拥有的。实践好客。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 14 - 祝福迫害你的人；祝福他们，不要诅咒他们。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 15 - 与喜乐的人一同喜乐；与哭泣的人一起哭泣。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 16 - 对彼此有相同的态度。不要骄傲，但要愿意与地位较低的人交往。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 17 - 不要以恶报恶。尝试做每个人眼中正确的事情。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 18 - 尽一切可能与每个人和平相处。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 19 - 亲爱的，永远不要寻求报复，而要把愤怒留给上帝，因为它写着复仇是我的；我会报答的，主说。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 20 - 相反，如果你的敌人饿了，就给他食物；如果他渴了，就给他喝点东西。通过这样做，您将堆积活的余烬
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 12 21 - 不要被恶所胜，要以善胜恶。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以弗所书 4 2 - 在相互理解和真诚感情的基础上，要谦虚、温和、耐心地对待他人。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以弗所书 4 26 - 不要犯罪，让忿怒临到你。在一天结束之前，让你的愤怒结束。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以弗所书 4 32 - 相反，要彼此友善和理解，彼此宽恕，就像基督也宽恕你一样。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 10 17 - 事实上，信心来自于听到这个好消息——关于基督的好消息。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以赛亚书 58 5 - 这是我选择的禁食，只是有一天，一个人会谦卑自己，像芦苇一样低头，躺在麻布和灰上？它是
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以赛亚书 58 6 - 我想要的禁食是松开不公正的锁链，松开轭的绳索，释放被压迫的人，并折断每一个轭
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以赛亚书 58 7 - 与饥饿的人分享你的食物，庇护赤贫的人，为你找到的赤身裸体穿上衣服，而不是拒绝帮助你的邻居
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以赛亚书 58 8 - 然后他的光会像黎明一样爆发，他的医治会迅速出现；你的公义必行在你前面，耶和华的荣耀必归于你
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以赛亚书 58 9 - 然后你们要呼求耶和华，他就应允；你会尖叫寻求帮助，他会说我在这里。如果你除去中间的轭
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以赛亚书 58 10 - 如果你舍己造福饥饿者，满足受苦者的渴望，那么你的光明将在黑暗中破晓，你的黑夜
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以赛亚书 58 11 - 第 1 部分 - 主会不断地引导你；它将满足您在阳光灼热的土地上的欲望，并增强您的骨骼。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以赛亚书 58 11 - 第 2 部分 - 你会像一个浇灌的花园，像一个永不枯竭的泉源。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 雅各书 1 22 - 要行道，不要只听道，要欺骗自己。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 雅各书 1 23 - 听道而不去实行的人，好比对着镜子看自己的脸
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 詹姆斯 1 24 - 看了看自己后，出去很快就忘记了自己的外表。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 雅各书 1 25 - 但谁仔细遵守带来自由的完美律法，并坚持实行那律法，不忘记所听到的，而是
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 13 8 - 除了彼此相爱之外，别无所欠，因为爱人如己，就已经完全了律法。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 13 9 - 第 1 部分 - 为这些诫命，不可奸淫，不可杀人，不可偷盗，不可贪恋，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 13 9 - 第 2 部分 - 以及任何其他诫命，都总结在这个戒律中。爱人如己。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 13 10 - 爱不会对邻舍作恶。因此，爱是律法的成全。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 希伯来书 11 1 - 信是我们所盼望之事的保证，是我们所未见之事的证据。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 希伯来书 11 6 - 没有信心就不可能取悦上帝，因为任何接近他的人都必须相信他的存在并且他会奖励那些寻求他的人。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 罗马书 8 28 - 我们知道神在万事上都为爱他的人，那些按他旨意被召的人的利益而工作。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 雅各书 2 14 - 我的兄弟们，如果他没有行为，有人说他有信心有什么好处？信心能救你吗？
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 雅各书 2 15 - 如果兄弟或姐妹需要日常的衣服和食物
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 雅各书 2 16 - 你们中的一个人对他说，平静地去，热身并喂饱自己，直到你满意为止，但不给他任何东西，那有什么好处？
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 雅各书 2 17 - 所以，如果没有行为相伴，唯有信心是死的。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 11 - 太初是道。他与上帝同在，他就是上帝。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 1 14 - 那位道成肉身，住在我们中间。我们看到了他的荣耀，如同从父而来的独生子的荣耀，充满恩典和
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 3 16 - 耶稣一受洗，就从水里出来。就在这时，天开了，他看见神的灵像鸟一样降落下来
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 6 14 - 因为如果他们饶恕彼此的过犯，天父也会饶恕他们。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 6 15 - 但如果他们不彼此宽恕，天父就不会宽恕他们的过犯。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 46 - 如果你爱那些爱你的人，你会得到什么奖励？连税吏都这样做。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 47 - 如果你只问候你的兄弟，你还会做什么？甚至异教徒也会这样做。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 10 37 - 爱父母过于爱我的，不配作我；爱儿女胜过爱我的，配不上我；
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 10 38 - 谁不背起他的十字架来跟从我，不配配我。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 31 30 - 美貌诡诈，美貌转瞬即逝；惟敬畏耶和华的妇人必得称赞。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马可福音 9 22 - 他多次把他扔在火里和水中，要灭掉他；但如果你能做任何事，请可怜我们，帮助我们。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马可福音 9 23 - 耶稣对他说，你若能信，在信的人，凡事都能。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马可福音 9 24 - 男孩的父亲立刻哭着说我相信，主。帮助我的不信。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马可福音 9 28 - 耶稣进屋后，门徒私下问他：“我们为什么不能把他赶出去？”
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马可福音 9 29 - 他回答说“这个物种只能通过祈祷和禁食出现”。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 路加福音 11 23 - 不支持我的就是反对我的，不与我聚集的就是分散的。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 路加福音 12 47 - 那个知道主人意愿而不准备他想要的东西的仆人，会受到很多鞭打。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 1 Peter 3 15 - 相反，在你的心中将基督圣化为主。随时准备回应任何询问希望理由的人
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约伯记 8 3 - 上帝会扭曲正义吗？全能者会扭曲什么是正确的吗？
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约伯记 8 5 - 但如果你寻求上帝并恳求全能者，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约伯记 8 6 - 如果你是公义和纯洁的，他会立刻起来支持你，让你回到正义属于你的地方。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 工作 8 8 - 询问前几代人，看看你的父母学到了什么，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约伯记 8 10 - 他们岂不教导他，不与他说话吗？难道他们不会说出悟性的话吗？
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约伯记 8 20 - 因为可以肯定的是，上帝不会拒绝义人，也不会加强作恶者的手。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 38 - 你听到了“以眼还眼，以牙还牙”的话。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 39 - 但我告诉他们，不要抵抗恶人。如果有人伤害了你的右脸颊，也请提供另一个。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 40 - 如果有人想起诉你并拿走你的外衣，让他们也拿走外衣。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 41 - 如果有人强迫你跟他走一英里，跟他走两英里。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 42 - 给那些问你的人，不要拒绝那些想向你借东西的人。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 43 - 你听到了爱你的邻居，恨你的敌人。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 44 - 但我告诉你，爱你的敌人，为迫害你的人祈祷，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 5 45 - 你可以成为你天父的孩子。因为他让他的阳光照在坏人和好人身上，把雨淋在身上
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约伯记 5 6 - 因为苦不是出自尘土，困难不是出自地。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 工作 5 7 - 然而，人为困难而生，就像火花向上飞一样。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约伯记 5 17 - 被上帝纠正的人是多么幸福；所以，不要藐视全能者的管教。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约伯记 5 18 - 因为他受伤，但他来处理它；它会痛，但你的手也会痊愈。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 使徒行传 3 19 - 所以你们要悔改，转向神，使你们的罪得以涂抹，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 使徒行传 3 20 - 安息的时间可能来自主，他可能会差遣被指定给他们的基督耶稣。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 11 12 - 从施洗约翰的日子到现在，天国是强行夺取的，强行夺取的。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 15 32 - 拒绝管教的，轻视自己；听见责备的，就明白。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 传道书 2 24 - 对人来说，没有什么比吃喝玩乐更好的了。我看到这也是出自上帝之手。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 诗篇 34 19 - 义人经历许多逆境，但耶和华救他脱离一切；
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 诗篇 34 20 - 保护你所有的骨头；他们都不会被打破。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 诗篇 34 21 - 耻辱必杀死恶人；恨恶义人的必被定罪。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 7 21 - 不是所有对我说主，主的人都能进入天国，只有遵行我天父旨意的人才能进入。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 7 22 - 那天很多人会告诉我主啊，主啊，我们不是奉你的名说预言吗？以你的名义，我们不赶鬼，我们不成就很多
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 7 23 - 然后我会清楚地告诉他们我从来不认识他们。离我远点，你们这些作恶的人。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 1 Corinthians 6 19 - 你不知道你的身体是住在你里面的圣灵的圣所，是上帝赐给你的，你不是
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 1 Corinthians 6 20 - 你被高价买来。因此，用你的身体荣耀上帝。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 希伯来书 5 7 - 第 1 部分 - 耶稣在世上的日子里，提供了祈祷和恳求，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 希伯来书 5 7 - PART 2 - 大声流泪，向那能救他脱离死亡的，因他虔诚的顺服而被垂听。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马可福音 1 35 - 黎明时分，天还黑着，耶稣就起来，离开房子，到旷野去祷告。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 加拉太书 6:2 - 彼此背负重担，从而完成基督的律法。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 何西阿书 6 1 - 来吧，让我们归向主。他破碎了我们，但他会给我们带来医治；他伤害了我们，但他会医治我们的伤口。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 何西阿书 6 2 - 两天后，他将再次赐给我们生命；第三天他必使我们恢复，使我们可以住在他面前。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 何西阿书 6 3 - 让我们认识主；让我们努力了解他。只要太阳升起，它就会出现；会像冬雨一样来到我们身边
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 17 3 - 金银被火净化，但只有上帝才能净化心灵。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 17 4 - 罪人寻求那些言行一致的人的陪伴；每个骗子在其他骗子的陪伴下都会感觉很好。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 17 5 - 藐视穷人就是侮辱创造万物的上帝。以他人的不幸为乐的人不会逍遥法外。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 17 9 - 友谊让你忘记很多不好的事情。但那些总是吵架的人，却能把最好的朋友分开。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 1 Corinthians 13 4 - 爱是耐心的，爱是善良的。不要嫉妒，不要吹嘘，不要骄傲。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 1 Corinthians 13 5 - 不要虐待，不要追求你的利益，不要轻易生气，不要怀恨在心。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 1 Corinthians 13 6 - 爱不因不义而欢喜，而因真理而欢喜。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 1 Corinthians 13 7 - 一切都受苦，一切相信，一切等待，一切支持。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 22 37 - 耶稣回答：尽心、尽性、尽意爱主你的神。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 22 38 - 这是第一条也是最大的诫命。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 22 39 - 第二个是像他一样爱你的邻居。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 22 40 - 所有的律法和先知都依赖于这两条诫命。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 14 章 12 节——我实实在在地告诉你们，信我的人也要作我所行的事。它会做比这些更大的事情，因为我
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 14 13 - 我会奉我的名做你们所求的，使父因子得荣耀。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 雅各书 4 2 - 你贪图东西，却没有；他们杀戮和嫉妒，但他们得不到他们想要的。你活着是为了战斗和制造战争。它没有，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 雅各书 4 3 - 当他们祈求时，他们得不到，因为他们祈求的理由错误，要花在他们的快乐上。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 13 3 - 守口的人保全性命，话多的人最终毁了自己。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 18 21 - 舌头掌管生死；喜欢用它的人会吃它的果实。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 13 24 - 不惩罚儿子的，就是不爱他；谁爱他，就毫不犹豫地管教他。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 3 3 - 作为回应，耶稣宣布我告诉你真相，除非他重生，否则没有人能看到神的国。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 3 4 - 尼哥底母问，人老了怎么能出生呢？当然，你不能第二次进入你的母腹并重生。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 3 5 - 耶稣回答我实话告诉你，除非人从水和圣灵生，否则没有人能进入神的国。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 3 6 - 从肉身生的就是肉身，从圣灵生的就是灵。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 3 7 - 不要惊讶我说你必须重生。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 约翰福音 3 8 - 风随心所欲地吹。你听着它，但你不知道它从哪里来或去哪里。所有从圣灵生的人也是如此。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以弗所书 4 22 - 至于旧的生活方式，你被教导要远离被诡计败坏的旧人，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以弗所书 4 23 - 在思想和方式上更新
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以弗所书 4 24 - 穿上新人，新人被造，在公义和圣洁上像上帝一样。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以弗所书 4 25 - 因此，你们每个人都必须放弃谎言，向邻居说实话，因为我们都是同一个身体的成员。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以弗所书 4 26 - 当你生气时，不要犯罪。在太阳下山之前抚平你的愤怒，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 以弗所书 4 27 - 不要给魔鬼留地步。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 25 17 - 不要经常去邻居家，以免他厌倦你并开始恨你。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 箴言 25 23 - 就像北风带来雨水一样，假舌头带来愤怒的表情。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 歌罗西书 2 8 - 要小心，不要让任何人奴役你，让你受制于基于人类传统和原则的虚妄和欺骗性的哲学
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 9 10 - 当耶稣在家时，有许多税吏和罪人与他和他的门徒一起吃饭。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 9 11 - 法利赛人看到这一点，就问他的门徒，为什么你们的老师和税吏和罪人一起吃饭？
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 9 12 - 耶稣听到这话时说，需要医生的不是健康人，而是病人。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 马太福音 9 13 - 他们将了解这意味着什么。我渴望怜悯，而不是牺牲。因为我来不是要召义人，而是要召罪人。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 腓立比书 2 5 - 让你的态度与基督耶稣一样，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 腓立比书 26 - 他虽然是神，但不认为与神同等是他应该坚持的；
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 腓立比书 27 - 但他倒空自己，成为仆人，变得像人。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 腓立比书 2 8 - 他既是人，就谦卑自己，顺服至死，死在十字架上。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 腓立比书 29 - 所以神将他升为至高，又赐给他那超乎万名之上的名，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 腓立比书 2 10 - 叫一切在天上、地上和地底下，因耶稣的名，无不屈膝，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 腓立比书 2 11 - 无不口称耶稣基督为主，使荣耀归与父神。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 申命记 11 18 - 将我的这些话铭刻在心上；将它们作为符号系在手上，然后系在额头上。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 申命记 11 19 - 教导你的孩子，当他们坐在家里和沿途行走时谈论他们，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 申命记 11 20 - 写在你房屋的门框和大门上，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 申命记 1 1 21 - 第 1 部分 - 在耶和华起誓要赐给他们祖先的土地上，
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
 
 
 input 申命记 11 21 - 第 2 部分 - 你和你孩子的日子很多，就像天高于地的日子一样多。
 
 
-delay 1550
+delay 7550
 click 507 545
-delay 1550
+delay 7550
 key R
 delay 1000
 click 507 921
-delay 1550
+delay 7550
