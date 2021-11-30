@@ -1,6 +1,6 @@
 size 379 675
 click 80 652
-loop 123tgi
+loop 123
 click 355 645
 delay 1010
 
