@@ -28,12 +28,10 @@ input Romans 12 9 - Love must be sincere. Hate what is bad; cling to what is goo
 
 
 
-
-delay 10000
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -46,11 +44,11 @@ input Romans 12 10 - Dedicate yourselves with brotherly love. Prefer to honor ot
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -63,11 +61,11 @@ input Romans 12 11 - Never lack zeal, be fervent in spirit, serve the Lord.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -80,11 +78,11 @@ input Romans 12 12 - Rejoice in hope, be patient in tribulation, persevere in pr
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -97,11 +95,11 @@ input Romans 12 13 - Share what you have with the saints in their needs. Practic
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -114,11 +112,11 @@ input Romans 12 14 - Bless those who persecute you; bless, and do not curse them
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -131,11 +129,11 @@ input Romans 12 15 - Rejoice with those who rejoice; cry with those who cry.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -149,11 +147,11 @@ of lower status.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -166,11 +164,11 @@ input Romans 12 17 - Do not return evil for evil to anyone. Try to do what is ri
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -183,11 +181,11 @@ input Romans 12 18 - Do everything possible to live in peace with everyone.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -201,11 +199,11 @@ repay, says the Lord.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -219,11 +217,11 @@ drink. By doing this, you will pile up live embers
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -236,11 +234,11 @@ input Romans 12 21 - Do not be overcome by evil, but overcome evil with good.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -254,11 +252,11 @@ affection.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -272,11 +270,11 @@ end.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -290,11 +288,11 @@ forgave you.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -307,11 +305,11 @@ input Romans 10 17 - In fact, faith comes by hearing this message of good news -
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -325,11 +323,11 @@ reed, and lie down on sackcloth and ashes? IT'S
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -343,11 +341,11 @@ oppressed, and break every yoke
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -361,11 +359,11 @@ found, and not refusing to help your neighbor
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -379,11 +377,11 @@ righteousness will go before you, and the glory of the Lord will be
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -397,11 +395,11 @@ am. If you eliminate the yoke from your midst
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -415,11 +413,11 @@ light will dawn in darkness, and your night
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -433,11 +431,11 @@ sun and will strengthen your bones.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -450,11 +448,11 @@ input Isaiah 58 11 - PART 2 - You will be like a well-watered garden, like a fou
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -467,11 +465,11 @@ input James 1 22 - Be doers of the word, not just hearers, deceiving yourselves.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -485,11 +483,11 @@ mirror
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -502,11 +500,11 @@ input James 1 24 - and, after looking at himself, goes out and soon forgets his 
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -520,11 +518,11 @@ that law, not forgetting what he heard but
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -537,11 +535,11 @@ input Romans 13 8 - Owe nothing to anyone but love for one another, for he who l
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -555,11 +553,11 @@ steal, you shall not covet,
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -572,11 +570,11 @@ input Romans 13 9 - PART 2 - and any other commandment, all summed up in this pr
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -589,11 +587,11 @@ input Romans 13 10 - Love does not do evil against its neighbor. Therefore, love
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -606,11 +604,11 @@ input Hebrews 11 1 - Now faith is the assurance of what we hope for, and the pro
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -624,11 +622,11 @@ exists and that he rewards those who seek him.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -644,11 +642,11 @@ according to his purpose.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -662,11 +660,11 @@ save you?
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -679,11 +677,11 @@ input James 2 15 - If a brother or sister is in need of daily clothing and food
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -697,11 +695,11 @@ without giving him anything, what good is that?
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -714,11 +712,11 @@ input James 2 17 - So faith alone, if not accompanied by works, is dead.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -731,11 +729,11 @@ input John 11 - In the beginning was the one who is the Word. He was with God, a
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -749,11 +747,11 @@ coming from the Father, full of grace and
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -767,11 +765,11 @@ saw the Spirit of God descending like a bird and landing
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -784,11 +782,11 @@ input Matthew 6 14 - For if they forgive one another's trespasses, the heavenly 
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -801,11 +799,11 @@ input Matthew 6 15 - But if they do not forgive one another, the heavenly Father
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -818,11 +816,11 @@ input Matthew 5 46 - If you love those who love you, what reward will you receiv
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -835,11 +833,11 @@ input Matthew 5 47 - And if you only greet your brothers, what will you be doing
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -853,11 +851,11 @@ daughter more than me is not worthy of me;
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -870,11 +868,11 @@ input Matthew 10 38 - And whoever does not take up his cross and follow me is no
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -887,11 +885,11 @@ input Proverbs 31 30 - Beauty is deceitful, and beauty is fleeting; but the woma
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -905,11 +903,11 @@ anything, have pity on us, and help us.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -922,11 +920,11 @@ input Mark 9 23 - And Jesus said to him If thou canst believe, all is possible t
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -939,11 +937,11 @@ input Mark 9 24 - And immediately the boy's father, crying with tears, said I be
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -956,11 +954,11 @@ input Mark 9 28 - After Jesus entered the house, his disciples asked him in priv
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -973,11 +971,11 @@ input Mark 9 29 - He replied 'This species only comes out by prayer and fasting'
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -990,11 +988,11 @@ input Luke 11 23 - Whoever is not for me is against me, whoever does not gather 
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1008,11 +1006,11 @@ receive many lashes.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1028,11 +1026,11 @@ the reason for hope
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1045,11 +1043,11 @@ input Job 8 3 - Does God twist justice? Does the Almighty twist what is right?
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1062,11 +1060,11 @@ input Job 8 5 - But if you seek God and plead with the Almighty,
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1080,11 +1078,11 @@ for justice belongs to you.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1097,11 +1095,11 @@ input Job 8 8 - Ask previous generations and see what your parents learned,
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1115,11 +1113,11 @@ understanding?
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1133,11 +1131,11 @@ those who do evil.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1152,11 +1150,11 @@ input Matthew 5 38 - You heard what was said An eye for an eye and a tooth for a
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1170,11 +1168,11 @@ other one as well.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1187,11 +1185,11 @@ input Matthew 5 40 - And if someone wants to sue you and take your tunic, let th
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1204,11 +1202,11 @@ input Matthew 5 41 - If someone forces you to walk a mile with him, go with him 
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1222,11 +1220,11 @@ you.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1239,11 +1237,11 @@ input Matthew 5 43 - You heard what was said Love your neighbor and hate your en
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1256,11 +1254,11 @@ input Matthew 5 44 - But I say to you Love your enemies and pray for those who p
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1274,11 +1272,11 @@ bad and the good and pours rain on
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1291,11 +1289,11 @@ input Job 5 6 - For suffering does not spring from dust, and difficulties do not
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1308,11 +1306,11 @@ input Job 5 7 - However, man is born for difficulties as surely as sparks fly up
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1325,11 +1323,11 @@ input Job 5 17 - How happy is the man whom God corrects; therefore, do not despi
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1342,11 +1340,11 @@ input Job 5 18 - For he wounds, but he comes to deal with it; it hurts, but your
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1359,11 +1357,11 @@ input Acts 3 19 - Repent therefore, and turn to God, that your sins may be blott
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1377,11 +1375,11 @@ Jesus.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1395,11 +1393,11 @@ who use force seize it.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1413,11 +1411,11 @@ understanding.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1431,11 +1429,11 @@ saw that this also comes from the hand of God.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1448,11 +1446,11 @@ input Psalm 34 19 - The righteous pass through many adversities, but the Lord de
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1465,11 +1463,11 @@ input Psalm 34 20 - protect all your bones; none of them will be broken.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1482,11 +1480,11 @@ input Psalm 34 21 - Disgrace shall kill the wicked; those who hate the righteous
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1500,11 +1498,11 @@ will of my Father who is in heaven.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1518,11 +1516,11 @@ cast out demons and we don't accomplish many
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1535,11 +1533,11 @@ input Matthew 7 23 - Then I'll tell them plainly I never knew them. Get away fro
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1553,11 +1551,11 @@ was given to you by God, and that you are not
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1570,11 +1568,11 @@ input 1 Corinthians 6 20 - You were bought with a high price. Therefore, glorify
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1587,11 +1585,11 @@ input Hebrews 5 7 - PART 1 - During his days of life on earth, Jesus offered pra
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1605,11 +1603,11 @@ reverent submission.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1623,11 +1621,11 @@ prayed.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1640,11 +1638,11 @@ input Galatians 6:2 - Carry one another's heavy burdens and thus fulfill the law
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1659,11 +1657,11 @@ he will heal our wounds.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1677,11 +1675,11 @@ his presence.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1695,11 +1693,11 @@ to us like the winter rains, like the
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1712,11 +1710,11 @@ input Proverbs 17 3 - Gold and silver are purified by fire, but God alone purifi
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1730,11 +1728,11 @@ company of other liars.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1748,11 +1746,11 @@ others will not go unpunished.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1766,11 +1764,11 @@ separating the best friends.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1783,11 +1781,11 @@ input 1 Corinthians 13 4 - Love is patient, love is kind. Don't envy, don't brag
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1800,11 +1798,11 @@ input 1 Corinthians 13 5 - Do not mistreat, do not seek your interests, do not g
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1817,11 +1815,11 @@ input 1 Corinthians 13 6 - Love does not rejoice in injustice, but rejoices in t
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1834,11 +1832,11 @@ input 1 Corinthians 13 7 - Everything suffers, everything believes, everything w
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1852,11 +1850,11 @@ mind.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1869,11 +1867,11 @@ input Matthew 22 38 - This is the first and greatest commandment.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1886,11 +1884,11 @@ input Matthew 22 39 - And the second is like him Love your neighbor as yourself.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1903,11 +1901,11 @@ input Matthew 22 40 - On these two commandments depend all the Law and the Proph
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1921,11 +1919,11 @@ bigger things than these, because I'm
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1938,11 +1936,11 @@ input John 14 13 - And I will do what you ask in my name, that the Father may be
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1956,11 +1954,11 @@ live to fight and make wars. It does not have,
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1974,11 +1972,11 @@ pleasures.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -1991,11 +1989,11 @@ input Proverbs 13 3 - Whoever keeps his mouth keeps his life, but whoever talks 
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2008,11 +2006,11 @@ input Proverbs 18 21 - The tongue has power over life and death; those who like 
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2026,11 +2024,11 @@ discipline him.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2044,11 +2042,11 @@ again.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2062,11 +2060,11 @@ second time and be reborn.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2080,11 +2078,11 @@ the Spirit.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2097,11 +2095,11 @@ input John 3 6 - What is born of the flesh is flesh, but what is born of the Spi
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2114,11 +2112,11 @@ input John 3 7 - Don't be surprised that I said You must be born again.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2132,11 +2130,11 @@ is going. So it is with all those born of the Spirit.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2150,11 +2148,11 @@ desires,
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2167,11 +2165,11 @@ input Ephesians 4 23 - to be renewed in the way of thinking and
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2184,11 +2182,11 @@ input Ephesians 4 24 - to put on the new man, created to be like God in righteou
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2202,11 +2200,11 @@ are all members of the same body.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2219,11 +2217,11 @@ input Ephesians 4 26 - When you are angry, do not sin. Soothe your anger before 
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2236,11 +2234,11 @@ input Ephesians 4 27 - and do not give place to the devil.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2254,11 +2252,11 @@ to hate you.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2271,11 +2269,11 @@ input Proverbs 25 23 - As the north wind brings rain, so the sham tongue brings 
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2289,11 +2287,11 @@ traditions and principles
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2306,11 +2304,11 @@ input Matthew 9 10 - While Jesus was at home, many tax collectors and sinners we
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2324,11 +2322,11 @@ sinners?
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2341,11 +2339,11 @@ input Matthew 9 12 - Hearing this, Jesus said It is not the healthy who need a d
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2359,11 +2357,11 @@ righteous, but sinners.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2376,11 +2374,11 @@ input Philippians 2 5 - Let your attitude be the same as that of Christ Jesus,
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2394,11 +2392,11 @@ to;
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2411,11 +2409,11 @@ input Philippians 27 - but he emptied himself, becoming a servant, becoming like
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2429,11 +2427,11 @@ cross.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2446,11 +2444,11 @@ input Philippians 29 - Therefore God exalted him to the highest position and gav
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2463,11 +2461,11 @@ input Philippians 2 10 - That at the name of Jesus every knee may bow, in heaven
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2480,11 +2478,11 @@ input Philippians 2 11 - And every tongue confess that Jesus Christ is Lord, to 
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2498,11 +2496,11 @@ them to your forehead.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2516,11 +2514,11 @@ are walking along the way,
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2533,11 +2531,11 @@ input Deuteronomy 11 20 - Write them on the doorposts of your houses, and on you
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2550,11 +2548,11 @@ input Deuteronomy 1 1 21 - PART 1 - that in the land which the Lord swore he wou
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
@@ -2568,11 +2566,11 @@ heaven is above the earth.
 
 
 
-delay 10000
+
 delay 1010
 click 355 381
 delay 1010
-delay 5000
+delay 3000
 key R
 delay 1010
 click 355 645
