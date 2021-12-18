@@ -194,6 +194,10 @@ Provérbios 15:32
 
 Para o homem não existe nada melhor do que comer, beber e encontrar prazer em seu trabalho. E vi que isso também vem da mão de Deus.
 
+Provérbios 13:10
+
+O orgulho só gera discussões, mas a sabedoria está com os que tomam conselho.
+
 Eclesiastes 2:24
 
 Que o próprio Deus da paz os santifique inteiramente. Que todo o espírito, alma e corpo de vocês seja conservado irrepreensível na vinda de nosso Senhor Jesus Cristo.
