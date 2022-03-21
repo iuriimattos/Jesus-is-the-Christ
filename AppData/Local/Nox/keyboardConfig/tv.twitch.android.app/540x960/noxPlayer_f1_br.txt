@@ -1,1838 +1,2598 @@
-size 379 674
+size 379 675
+click 80 652
 loop 123
-click 212 960
+click 158 647
 delay 1010
 
 
-
-input Romans 10 9 - If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from
-the dead, you will be saved.
+input Romanos 10 9 Se você confessar com sua boca que Jesus é o Senhor e crer em seu coração que Deus o ressuscitou dentre os mortos, você será salvo.
 
 
 delay 1010
+click 355 381
+delay 1010
 key R
+delay 1010
+click 158 647
 delay 1010
 
 
+input Romanos 12 9 - O amor deve ser sincero. Odeie o que é ruim; apegue-se ao que é bom.
 
-input Romans 12 9 - Love must be sincere. Hate what is bad; cling to what is good.
 
 
 
-delay 1111
-click 212 960
+
 delay 5000
+click 355 381
+delay 1111
 key R
+delay 1111
+click 158 647
 delay 1111
 
 
-input Romans 12 10 - Dedicate yourselves with brotherly love. Prefer to honor others more than yourself.
 
+input Romanos 12 10 - Dediquem-se com amor fraternal. Prefira honrar os outros mais do que a si mesmo.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Romans 12 11 - Never lack zeal, be fervent in spirit, serve the Lord.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Romans 12 12 - Rejoice in hope, be patient in tribulation, persevere in prayer.
 
+input Romanos 12 11 - Nunca falte zelo, seja fervoroso de espírito, sirva ao Senhor.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Romans 12 13 - Share what you have with the saints in their needs. Practice hospitality.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Romans 12 14 - Bless those who persecute you; bless, and do not curse them.
 
+input Romanos 12 12 - Alegrem-se na esperança, sejam pacientes nas tribulações, perseverem na oração.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Romans 12 15 - Rejoice with those who rejoice; cry with those who cry.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Romans 12 16 - Have the same attitude towards each other. Don't be proud, but be willing to associate with people
-of lower status.
 
+input Romanos 12 13 - Compartilhe o que você tem com os santos em suas necessidades. Pratique a hospitalidade.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Romans 12 17 - Do not return evil for evil to anyone. Try to do what is right in everyone's eyes.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Romans 12 18 - Do everything possible to live in peace with everyone.
 
+input Romanos 12 14 - Abençoe aqueles que te perseguem; abençoe e não os amaldiçoe.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Romans 12 19 - Beloved, never seek revenge, but leave wrath with God, for it is written Vengeance is Mine; I will
-repay, says the Lord.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Romans 12 20 - On the contrary If your enemy is hungry, give him food; if he is thirsty, give him something to
-drink. By doing this, you will pile up live embers
 
+input Romanos 12 15 - Alegrem-se com aqueles que se alegram; chore com quem chora.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Romans 12 21 - Do not be overcome by evil, but overcome evil with good.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Ephesians 4 2 - Be humble, gentle with others and patient, on the basis of mutual understanding and sincere
-affection.
 
+input Romanos 12 16 - Tenham a mesma atitude um para com o outro. Não se orgulhe, mas esteja disposto a se associar com pessoas de status inferior.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Ephesians 4 26 - Do not sin, and let wrath overtake you. Before the day is over, make your irritation come to an
-end.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Ephesians 4 32 - Instead, be kind and understanding to one another, forgiving one another, just as Christ also
-forgave you.
 
+input Romanos 12 17 - Não retribua mal com mal a ninguém. Tente fazer o que é certo aos olhos de todos.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Romans 10 17 - In fact, faith comes by hearing this message of good news - the good news about Christ.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Isaiah 58 5 - Is this the fast I have chosen, that just one day a man will humble himself, bow his head like a
-reed, and lie down on sackcloth and ashes? IT'S
 
+input Romanos 12 18 - Faça todo o possível para viver em paz com todos.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Isaiah 58 6 - The fast I desire is to loosen the chains of injustice, loosen the yoke ropes, set free the
-oppressed, and break every yoke
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Isaiah 58 7 - It's sharing your food with the hungry, sheltering the destitute poor, dressing the naked you've
-found, and not refusing to help your neighbor
 
+input Romanos 12 19 - Amado, nunca busque a vingança, mas deixe a ira com Deus, pois está escrito A vingança é minha; Eu retribuirei, diz o Senhor.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Isaiah 58 8 - And then his light will break forth like the dawn, and his healing will appear swiftly; your
-righteousness will go before you, and the glory of the Lord will be
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Isaiah 58 9 - Then ye shall cry unto the Lord, and he shall answer; you'll scream for help, and he'll say Here I
-am. If you eliminate the yoke from your midst
 
+input Romanos 12 20 - Ao contrário Se o seu inimigo estiver com fome, dê-lhe comida; se ele estiver com sede, dê-lhe de beber. Ao fazer isso, você vai empilhar brasas vivas
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Isaiah 58 10 - If with self-denial you benefit the hungry and satisfy the longing of the afflicted, then your
-light will dawn in darkness, and your night
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Isaiah 58 11 - PART 1 - The Lord will guide you constantly; it will satisfy your desires in a land parched by the
-sun and will strengthen your bones.
 
+input Romanos 12 21 - Não se deixe vencer pelo mal, mas vença o mal com o bem.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Isaiah 58 11 - PART 2 - You will be like a well-watered garden, like a fountain whose waters never fail.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input James 1 22 - Be doers of the word, not just hearers, deceiving yourselves.
 
+input Efésios 4 2 - Seja humilde, gentil com os outros e paciente, na base da compreensão mútua e do afeto sincero.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input James 1 23 - He who hears the word, but does not put it into practice, is like one who looks at his face in a
-mirror
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input James 1 24 - and, after looking at himself, goes out and soon forgets his appearance.
 
+input Efésios 4 26 - Não peques, e deixa que a ira te domine. Antes que o dia acabe, faça com que sua irritação chegue ao fim.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input James 1 25 - But whoever carefully observes the perfect law that brings freedom, and perseveres in the practice of
-that law, not forgetting what he heard but
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Romans 13 8 - Owe nothing to anyone but love for one another, for he who loves his neighbor has fulfilled the law.
 
+input Efésios 4 32 - Em vez disso, sejam bons e compreensivos uns com os outros, perdoando-se uns aos outros, assim como Cristo os perdoou.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Romans 13 9 - PART 1 - For these commandments you shall not commit adultery, you shall not kill, you shall not
-steal, you shall not covet,
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Romans 13 9 - PART 2 - and any other commandment, all summed up in this precept Love your neighbor as yourself.
 
+input Romanos 10 17 - Na verdade, a fé vem por ouvir esta mensagem de boas novas - as boas novas de Cristo.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Romans 13 10 - Love does not do evil against its neighbor. Therefore, love is the fulfillment of the law.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Hebrews 11 1 - Now faith is the assurance of what we hope for, and the proof of the things we do not see.
 
+input Isaías 58 5 - É este o jejum que escolhi, que um dia um homem se humilhe, abaixe a cabeça como uma cana e se deite sobre saco e cinza? ESTÁ
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Hebrews 11 6 - Without faith it is impossible to please God, because whoever approaches him must believe that he
-exists and that he rewards those who seek him.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-James 1:27 The religion that God our Father accepts as pure and undefiled is this: to care for the fatherless and widows
-in their difficulties and not to be corrupted by the world.
-input Romans 8 28 - We know that God works in all things for the good of those who love him, those who were called
-according to his purpose.
 
+input Isaías 58 6 - O jejum que desejo é afrouxar as correntes da injustiça, afrouxar as cordas do jugo, libertar os oprimidos e quebrar todo jugo
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input James 2 14 - What good is it, my brothers, for someone to say that he has faith, if he has no works? Can faith
-save you?
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input James 2 15 - If a brother or sister is in need of daily clothing and food
 
+input Isaías 58 7 - É dividir a comida com os famintos, abrigar os pobres desamparados, vestir os nus que encontrar, e não se recusar a ajudar o próximo
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input James 2 16 - and one of you says to him Go in peace, warm up and feed yourself until you are satisfied, but
-without giving him anything, what good is that?
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input James 2 17 - So faith alone, if not accompanied by works, is dead.
 
+input Isaías 58 8 - E então romperá a sua luz como a alvorada, e a sua cura aparecerá rapidamente; sua justiça irá adiante de você, e a glória do Senhor será
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input John 11 - In the beginning was the one who is the Word. He was with God, and he was God.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input John 1 14 - He who is the Word became flesh and lived among us. We saw his glory, glory as of the Only Begotten
-coming from the Father, full of grace and
 
+input Isaías 58 9 - Então clamarás ao Senhor, e ele responderá; você gritará por socorro e ele dirá Aqui estou. Se você eliminar o jugo do seu meio
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 3 16 - As soon as Jesus was baptized, he came out of the water. At that moment the heavens opened, and he
-saw the Spirit of God descending like a bird and landing
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 6 14 - For if they forgive one another's trespasses, the heavenly Father will also forgive them.
 
+input Isaías 58 10 - Se com a abnegação beneficias os famintos e sacias os anseios dos aflitos, então tua luz amanhecerá nas trevas, e tua noite
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 6 15 - But if they do not forgive one another, the heavenly Father will not forgive their trespasses.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 5 46 - If you love those who love you, what reward will you receive? Even publicans do that.
 
+input Isaías 58 11 - PARTE 1 - O Senhor te guiará constantemente; ele irá satisfazer seus desejos em uma terra seca pelo sol e irá fortalecer seus ossos.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 5 47 - And if you only greet your brothers, what will you be doing more? Even pagans do that.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 10 37 - Whoever loves his father or mother more than me is not worthy of me; whoever loves his son or
-daughter more than me is not worthy of me;
 
+input Isaías 58 11 - PARTE 2 - Você será como um jardim bem regado, como uma fonte cujas águas nunca faltam.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 10 38 - And whoever does not take up his cross and follow me is not worthy of me.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Proverbs 31 30 - Beauty is deceitful, and beauty is fleeting; but the woman who fears the Lord will be commended.
 
+input Tiago 1 22 - Sejam cumpridores da palavra, não apenas ouvintes, enganando-se a si mesmos.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Mark 9 22 - And he hath cast him many times into the fire, and into the water, to destroy him; but if you can do
-anything, have pity on us, and help us.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Mark 9 23 - And Jesus said to him If thou canst believe, all is possible to him that believeth.
 
+input Tiago 1 23 - Quem ouve a palavra, mas não a põe em prática, é como quem se olha no espelho
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Mark 9 24 - And immediately the boy's father, crying with tears, said I believe, Lord. Help my unbelief.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Mark 9 28 - After Jesus entered the house, his disciples asked him in private 'Why can't we drive him out?'
 
+input Tiago 1 25 - Mas quem observa atentamente a lei perfeita que traz liberdade e persevera na prática dessa lei, não esquecendo o que ouviu, mas
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Mark 9 29 - He replied 'This species only comes out by prayer and fasting'.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Luke 11 23 - Whoever is not for me is against me, whoever does not gather with me scatters.
 
+input Romanos 13 8 - Nada devamos a ninguém, a não ser amor uns pelos outros, pois quem ama o próximo cumpre a lei.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Luke 12 47 - That servant who knows his master's will and does not prepare what he desires, nor does it, will
-receive many lashes.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-Luke12 48-But he who does not know her and practices things deserving punishment, will receive few lashes. To whom much
-has been given, much will be demanded;
-input 1 Peter 3 15 - Rather, sanctify Christ as Lord in your heart. Always be prepared to respond to anyone who asks for
-the reason for hope
 
+input Romanos 13 9 - PARTE 1 - Por estes mandamentos não cometerás adultério, não matarás, não furtarás, não cobiçarás,
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Job 8 3 - Does God twist justice? Does the Almighty twist what is right?
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Job 8 5 - But if you seek God and plead with the Almighty,
 
+input Romanos 13 9 - PARTE 2 - e qualquer outro mandamento, tudo resumido neste preceito Ama o próximo como a ti mesmo.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Job 8 6 - if you are righteous and pure, he will rise up right now in your favor and restore you to the place that
-for justice belongs to you.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Job 8 8 - Ask previous generations and see what your parents learned,
 
+input Romanos 13 10 - O amor não faz mal ao próximo. Portanto, o amor é o cumprimento da lei.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Job 8 10 - Shall they not instruct him, will they not speak to him? Will they not speak words from the
-understanding?
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Job 8 20 - For what is certain is that God does not reject the righteous, and does not strengthen the hands of
-those who do evil.
 
+input Hebreus 11 1 - Ora, a fé é a certeza do que esperamos e a prova das coisas que não vemos.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-2Chronicles 7 14-If my people, which are called by my name, humble themselves and pray, seek my face, and depart from
-their evil ways, I will hear from heaven,
-input Matthew 5 38 - You heard what was said An eye for an eye and a tooth for a tooth.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 5 39 - But I say unto them, Do not resist the wicked. If someone hurts you on the right cheek, offer the
-other one as well.
 
+input Hebreus 11 6 - Sem fé é impossível agradar a Deus, porque quem se aproxima dele deve crer que ele existe e que recompensa quem o busca.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 5 40 - And if someone wants to sue you and take your tunic, let them also take the cloak.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 5 41 - If someone forces you to walk a mile with him, go with him two.
 
+input Romanos 8 28 - Sabemos que Deus opera em todas as coisas para o bem daqueles que o amam, daqueles que foram chamados segundo o seu propósito.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 5 42 - Give to those who ask you, and do not turn your back on those who want to borrow something from
-you.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 5 43 - You heard what was said Love your neighbor and hate your enemy.
 
+input Tiago 2 14 - De que adianta, meus irmãos, alguém dizer que tem fé, se não tem as obras? A fé pode te salvar?
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 5 44 - But I say to you Love your enemies and pray for those who persecute you,
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 5 45 - that you may become children of your Father who is in heaven. Because he makes his sun shine on the
-bad and the good and pours rain on
 
+input Tiago 2 15 - Se um irmão ou irmã precisa de roupas e alimentos diariamente
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Job 5 6 - For suffering does not spring from dust, and difficulties do not arise from the ground.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Job 5 7 - However, man is born for difficulties as surely as sparks fly upwards.
 
+input Tiago 2 16 - e um de vocês diz a ele Vá em paz, aqueça-se e alimente-se até ficar satisfeito, mas sem dar nada a ele, de que adianta?
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Job 5 17 - How happy is the man whom God corrects; therefore, do not despise the discipline of the Almighty.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Job 5 18 - For he wounds, but he comes to deal with it; it hurts, but your hands also heal.
 
+input Tiago 2 17 - Portanto, somente a fé, se não acompanhada pelas obras, está morta.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Acts 3 19 - Repent therefore, and turn to God, that your sins may be blotted out,
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Acts 3 20 - that times of rest may come from the Lord, and he may send the Christ, who was appointed to them,
-Jesus.
 
+input João 11 - No princípio era aquele que é a Palavra. Ele estava com Deus e ele era Deus.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 11 12 - From the days of John the Baptist until now, the kingdom of heaven is taken by force, and those
-who use force seize it.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Proverbs 15 32 - Whoever refuses discipline makes light of himself, but whoever hears the reproof gets
-understanding.
 
+input João 1 14 - Aquele que é a Palavra se fez carne e viveu entre nós. Vimos sua glória, glória como do Unigênito vindo do Pai, cheio de graça e
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Ecclesiastes 2 24 - For man there is nothing better than eating, drinking and finding pleasure in his work. And I
-saw that this also comes from the hand of God.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Psalm 34 19 - The righteous pass through many adversities, but the Lord delivers him from all;
 
+input Mateus 3 16 - Assim que Jesus foi batizado, ele saiu da água. Naquele momento os céus se abriram e ele viu o Espírito de Deus descendo como um pássaro e pousando
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Psalm 34 20 - protect all your bones; none of them will be broken.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Psalm 34 21 - Disgrace shall kill the wicked; those who hate the righteous will be condemned.
 
+input Mateus 6 14 - Porque se eles perdoarem as ofensas um do outro, o Pai celestial também os perdoará.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 7 21 - Not everyone who says to me Lord, Lord, will enter the kingdom of heaven, but only he who does the
-will of my Father who is in heaven.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 7 22 - Many will tell me in that day Lord, Lord, do we not prophesy in Your name? In your name we don't
-cast out demons and we don't accomplish many
 
+input Mateus 6 15 - Mas se eles não perdoarem um ao outro, o Pai celestial não perdoará suas ofensas.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 7 23 - Then I'll tell them plainly I never knew them. Get away from me, you who do evil.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input 1 Corinthians 6 19 - Do you not know that your body is the sanctuary of the Holy Spirit that dwells in you, which
-was given to you by God, and that you are not
 
+input Mateus 10 37 - Quem ama seu pai ou sua mãe mais do que a mim não é digno de mim; quem ama seu filho ou filha mais do que a mim não é digno de mim;
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input 1 Corinthians 6 20 - You were bought with a high price. Therefore, glorify God with your body.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Hebrews 5 7 - PART 1 - During his days of life on earth, Jesus offered prayers and supplications,
 
+input Mateus 10 38 - E quem não toma a sua cruz e não me segue não é digno de mim.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Hebrews 5 7 - PART 2 - loudly and with tears, to him who could save him from death, being heard because of his
-reverent submission.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Mark 1 35 - At dawn, when it was still dark, Jesus got up, left the house and went to a desert place, where he
-prayed.
 
+input Marcos 9 22 - E muitas vezes o lançou no fogo e na água para destruí-lo; mas se você pode fazer qualquer coisa, tenha piedade de nós e nos ajude.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Galatians 6:2 - Carry one another's heavy burdens and thus fulfill the law of Christ.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-Galatians 6:9 And let us not be weary in doing good, for in due time we shall reap, unless we be discouraged.
-input Hosea 6 1 - Come, let us return to the Lord. He has broken us, but He will bring us healing; he has hurt us, but
-he will heal our wounds.
 
+input Marcos 9 23 - E Jesus disse-lhe: Se podes crer, tudo é possível àquele que crê.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Hosea 6 2 - After two days he will give us life again; on the third day he will restore us, that we may live in
-his presence.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Hosea 6 3 - Let us know the Lord; let us strive to know him. As sure as the sun rises, it will appear; will come
-to us like the winter rains, like the
 
+input Marcos 9 24 - E imediatamente o pai do menino, chorando de lágrimas, disse eu creio, Senhor. Ajude minha incredulidade.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Proverbs 17 3 - Gold and silver are purified by fire, but God alone purifies hearts.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Proverbs 17 4 - Sinners seek the company of those who speak and do as they do; every liar feels good in the
-company of other liars.
 
+input Marcos 9 28 - Depois que Jesus entrou em casa, seus discípulos perguntaram-lhe em particular: 'Por que não podemos expulsá-lo?'
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Proverbs 17 5 - To despise the poor is to insult God, who created all men. He who rejoices in the misfortune of
-others will not go unpunished.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Proverbs 17 9 - Friendship makes you forget a lot of bad things. But those who are always arguing are capable of
-separating the best friends.
 
+input Marcos 9 29 - Ele respondeu 'Esta espécie só sai pela oração e jejum'.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input 1 Corinthians 13 4 - Love is patient, love is kind. Don't envy, don't brag, don't be proud.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input 1 Corinthians 13 5 - Do not mistreat, do not seek your interests, do not get angry easily, do not hold grudges.
 
+input Lucas 11 23 - Quem não é por mim é contra mim; quem não ajunta comigo, espalha.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input 1 Corinthians 13 6 - Love does not rejoice in injustice, but rejoices in the truth.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input 1 Corinthians 13 7 - Everything suffers, everything believes, everything waits, everything supports.
 
+input Lucas 12 47 - Aquele servo que conhece a vontade de seu senhor e não prepara o que deseja, nem o faz, receberá muitos açoites.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 22 37 - Jesus Answered Love the Lord your God with all your heart, with all your soul, and with all your
-mind.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 22 38 - This is the first and greatest commandment.
 
+input 1 Pedro 3 15 - Em vez disso, santifique Cristo como Senhor em seu coração. Esteja sempre preparado para responder a qualquer pessoa que perguntar o motivo da esperança
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Matthew 22 39 - And the second is like him Love your neighbor as yourself.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Matthew 22 40 - On these two commandments depend all the Law and the Prophets.
 
+input Jó 8 3 - Deus distorce a justiça? O Todo-Poderoso distorce o que é certo?
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input John 14 12 - I tell you the truth He that believeth in me will also do the works that I have done. It'll do even
-bigger things than these, because I'm
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input John 14 13 - And I will do what you ask in my name, that the Father may be glorified in the Son.
 
+input Jó 8 5 - Mas se você buscar a Deus e rogar ao Todo-Poderoso,
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input James 4 2 - You covet things, and don't have them; they kill and envy, but they cannot get what they want. You
-live to fight and make wars. It does not have,
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input James 4 3 - When they ask, they don't receive, because they ask for the wrong reasons, to spend on their
-pleasures.
 
+input Jó 8 6 - se você for justo e puro, ele se levantará agora mesmo em seu favor e o restaurará ao lugar que para a justiça pertence a você.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Proverbs 13 3 - Whoever keeps his mouth keeps his life, but whoever talks too much ends up ruining himself.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Proverbs 18 21 - The tongue has power over life and death; those who like to use it will eat of its fruit.
 
+input Trabalho 8 8 - Pergunte às gerações anteriores e veja o que seus pais aprenderam,
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Proverbs 13 24 - Whoever refuses to punish his son does not love him; whoever loves him does not hesitate to
-discipline him.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input John 3 3 - In response, Jesus declared I tell you the truth No one can see the Kingdom of God unless he is born
-again.
 
+input Jó 8 10 - Não o instruirão, não lhe falarão? Não falarão palavras do entendimento?
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input John 3 4 - Nicodemus asked How can anyone be born, being old? Of course, you cannot enter your mother's womb a
-second time and be reborn.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input John 3 5 - Jesus answered I tell you the truth No one can enter the Kingdom of God unless he is born of water and
-the Spirit.
 
+input Jó 8 20 - Pois o certo é que Deus não rejeita o justo, e não fortalece as mãos dos que praticam o mal.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input John 3 6 - What is born of the flesh is flesh, but what is born of the Spirit is spirit.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input John 3 7 - Don't be surprised that I said You must be born again.
 
+input Mateus 5 38 - Você ouviu o que foi dito Olho por olho e dente por dente.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input John 3 8 - The wind blows wherever it wants. You listen to it, but you cannot tell where it comes from or where it
-is going. So it is with all those born of the Spirit.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Ephesians 4 22 - As for the old way of life, you were taught to put off the old man, who is corrupted by deceitful
-desires,
 
+input Mateus 5 39 - Eu, porém, lhes digo: Não resistis aos ímpios. Se alguém machucar você na bochecha direita, ofereça também a outra.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Ephesians 4 23 - to be renewed in the way of thinking and
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Ephesians 4 24 - to put on the new man, created to be like God in righteousness and holiness from the truth.
 
+input Mateus 5 40 - E se alguém quiser processá-lo e tirar sua túnica, deixe-o também levar o manto.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Ephesians 4 25 - Therefore, each one of you must abandon the lie and speak the truth to your neighbor, because we
-are all members of the same body.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Ephesians 4 26 - When you are angry, do not sin. Soothe your anger before the sun goes down,
 
+input Mateus 5 43 - Você ouviu o que foi dito Ame o seu próximo e odeie o seu inimigo.
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Ephesians 4 27 - and do not give place to the devil.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
-
+click 158 647
+delay 1111
 
 
-input Proverbs 25 17 - Don't make frequent visits to your neighbor's house so that he doesn't get tired of you and start
-to hate you.
 
+input Mateus 5 44 - Mas eu digo a você Ame seus inimigos e ore por aqueles que perseguem você,
 
 
-delay 1111
-click 212 960
-delay 5000
-key R
-delay 1111
 
 
 
-input Proverbs 25 23 - As the north wind brings rain, so the sham tongue brings the angry look.
 
 
 
-delay 1111
-click 212 960
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
+
+
+input Trabalho 5 6 - Pois o sofrimento não nasce do pó e as dificuldades não surgem da terra.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Trabalho 5 7 - No entanto, o homem nasce para as dificuldades com a mesma certeza que as faíscas voam para cima.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Jó 5 17 - Quão feliz é o homem a quem Deus corrige; portanto, não despreze a disciplina do Todo-Poderoso.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Jó 5 18 - Pois ele fere, mas ele vem tratar disso; dói, mas suas mãos também curam.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Atos 3 19 - Arrependam-se, portanto, e voltem-se para Deus, para que seus pecados sejam apagados,
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Atos 3 20 - para que os tempos de descanso venham da parte do Senhor, e ele envie o Cristo, que foi designado para eles, Jesus.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Mateus 11 12 - Desde os dias de João Batista até agora, o reino dos céus é tomado à força, e quem usa a força o toma.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Provérbios 15 32 - Quem recusa a disciplina zomba de si mesmo, mas quem ouve a repreensão obtém entendimento.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Eclesiastes 2 24 - Para o homem nada melhor do que comer, beber e ter prazer no seu trabalho. E vi que isso também vem das mãos de Deus.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Salmos 34 19 - O justo passa por muitas adversidades, mas o Senhor o livra de todas;
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input do Salmo 34 20 - proteja todos os seus ossos; nenhum deles será quebrado.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Salmos 34 21 - A desgraça matará o ímpio; aqueles que odeiam os justos serão condenados.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Mateus 7 21 - Nem todo aquele que me diz Senhor, Senhor, entrará no reino dos céus, mas somente aquele que faz a vontade de meu Pai que está nos céus.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Mateus 7 22 - Muitos me dirão naquele dia Senhor, Senhor, não profetizamos em Teu nome? Em seu nome, não expulsamos demônios e não realizamos muitos
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input 1 Coríntios 6 19 - Você não sabe que o seu corpo é o santuário do Espírito Santo que habita em você, que foi dado a você por Deus, e que você não é
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input 1 Coríntios 6 20 - Você foi comprado por um preço alto. Portanto, glorifique a Deus com o seu corpo.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Hebreus 5 7 - PARTE 1 - Durante seus dias de vida na terra, Jesus ofereceu orações e súplicas,
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Hebreus 5 7 - PARTE 2 - em voz alta e com lágrimas, para aquele que poderia salvá-lo da morte, sendo ouvido por causa de sua submissão reverente.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Marcos 1 35 - Ao amanhecer, ainda escuro, Jesus se levantou, saiu de casa e foi para um lugar deserto, onde orou.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Gálatas 6: 2 - Carreguem os pesados ​​fardos uns dos outros e assim cumpram a lei de Cristo.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Oséias 6 1 - Vinde, voltemos para o Senhor. Ele nos quebrantou, mas nos trará cura; ele nos feriu, mas vai curar nossas feridas.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Oséias 6 2 - Depois de dois dias ele nos dará vida novamente; no terceiro dia ele nos restaurará, para que vivamos em sua presença.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Oséias 6 3 - Conheçamos o Senhor; vamos nos esforçar para conhecê-lo. Tão certo quanto o sol nasce, ele aparecerá; virá até nós como as chuvas de inverno, como o
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Provérbios 17 3 - Ouro e prata são purificados pelo fogo, mas somente Deus purifica os corações.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Provérbios 17 4 - Os pecadores procuram a companhia de quem fala e faz o que eles fazem; todo mentiroso se sente bem na companhia de outros mentirosos.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Provérbios 17 5 - Desprezar os pobres é insultar a Deus, que criou todos os homens. Aquele que se alegra com o infortúnio dos outros não ficará impune.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Provérbios 17 9 - A amizade faz você esquecer muitas coisas ruins. Mas quem está sempre discutindo é capaz de separar os melhores amigos.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input 1 Coríntios 13 4 - O amor é paciente, o amor é gentil. Não inveje, não se gabe, não se orgulhe.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input 1 Coríntios 13 5 - Não maltrate, não busque os seus interesses, não se zangue facilmente, não guarde rancores.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input 1 Coríntios 13 6 - O amor não se alegra com a injustiça, mas se alegra com a verdade.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input 1 Coríntios 13 7 - Tudo sofre, tudo acredita, tudo espera, tudo apóia.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Mateus 22 37 - Jesus respondeu Ame o Senhor seu Deus com todo o seu coração, com toda a sua alma e com toda a sua mente.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Mateus 22 38 - Este é o primeiro e maior mandamento.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Mateus 22 39 - E o segundo é como ele Ame o seu próximo como a si mesmo.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Mateus 22 40 - Destes dois mandamentos dependem toda a Lei e os Profetas.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input João 14 12 - Em verdade vos digo que quem crê em mim também fará as obras que tenho feito. Vai fazer coisas ainda maiores do que essas, porque eu estou
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input João 14 13 - E eu farei o que você pedir em meu nome, para que o Pai seja glorificado no Filho.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Tiago 4 2 - Você cobiça as coisas e não as possui; eles matam e invejam, mas não conseguem o que desejam. Você vive para lutar e fazer guerras. Não têm,
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Tiago 4 3 - Quando pedem, não recebem, porque pedem pelos motivos errados, para gastar com seus prazeres.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Provérbios 13 3 - Quem cala a boca guarda a vida, mas quem fala demais acaba se arruinando.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Provérbios 18 21 - A língua tem poder sobre a vida e a morte; quem gosta de usá-lo comerá de seus frutos.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Provérbios 13 24 - Quem se recusa a punir seu filho não o ama; quem o ama não hesita em discipliná-lo.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input João 3 3 - Em resposta, Jesus declarou que eu te digo a verdade Ninguém pode ver o Reino de Deus a menos que nasça de novo.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input João 3 4 - Nicodemos perguntou Como alguém pode nascer, sendo velho? Claro, você não pode entrar no ventre de sua mãe uma segunda vez e renascer.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input João 3 5 - Jesus respondeu Eu te digo a verdade Ninguém pode entrar no Reino de Deus a menos que nasça da água e do Espírito.
+
+
+
+
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input João 3 6 - O que é nascido da carne é carne, mas o que é nascido do Espírito é espírito.
+
+
+
+
+
+
 
 
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
+delay 1111
 
-input Colossians 2 8 - Be careful that no one enslaves you to vain and deceitful philosophies, which are based on human
-traditions and principles
 
 
+input João 3 7 - Não se surpreenda que eu disse que você deve nascer de novo.
 
-delay 1111
-click 212 960
+
+
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
 
 
 
-input Matthew 9 10 - While Jesus was at home, many tax collectors and sinners went to eat with him and his disciples.
+input João 3 8 - O vento sopra onde quer. Você ouve, mas não consegue dizer de onde vem ou para onde está indo. Assim é com todos os nascidos do Espírito.
 
 
 
-delay 1111
-click 212 960
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
 
 
 
-input Matthew 9 11 - Seeing this, the Pharisees asked his disciples Why does your teacher eat with tax collectors and
-sinners?
+input Efésios 4 22 - Quanto ao antigo modo de vida, você foi ensinado a desamparar o velho, que está corrompido por desejos enganosos,
 
 
 
-delay 1111
-click 212 960
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
 
 
 
-input Matthew 9 12 - Hearing this, Jesus said It is not the healthy who need a doctor, but the sick.
+input Efésios 4 23 - para ser renovada na maneira de pensar e
 
 
 
-delay 1111
-click 212 960
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
 
 
 
-input Matthew 9 13 - They will learn what this means. I desire mercy, not sacrifices. For I came not to call the
-righteous, but sinners.
+input Efésios 4 24 - para revestir-se do novo homem, criado para ser semelhante a Deus em justiça e santidade da verdade.
 
 
 
-delay 1111
-click 212 960
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
 
 
 
-input Philippians 2 5 - Let your attitude be the same as that of Christ Jesus,
+input Efésios 4 25 - Portanto, cada um de vocês deve abandonar a mentira e falar a verdade ao seu próximo, porque todos somos membros do mesmo corpo.
 
 
 
-delay 1111
-click 212 960
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
 
 
 
-input Philippians 26 - who, though being God, did not consider that being equal with God was something he should cling
-to;
+input Efésios 4 26 - Quando você está com raiva, não peque. Acalme sua raiva antes que o sol se ponha,
 
 
 
-delay 1111
-click 212 960
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
 
 
 
-input Philippians 27 - but he emptied himself, becoming a servant, becoming like men.
+input Provérbios 25 17 - Não faça visitas frequentes à casa do seu vizinho para que ele não se canse de você e comece a te odiar.
 
 
 
-delay 1111
-click 212 960
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
 
 
 
-input Philippians 2 8 - And being found in human form, he humbled himself and was obedient unto death, and death on a
-cross.
+input Provérbios 25 23 - Assim como o vento norte traz chuva, a língua falsa traz o olhar zangado.
 
 
 
-delay 1111
-click 212 960
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
 
 
+input Colossenses 2 8 - Cuidado para que ninguém os escravize a filosofias vãs e enganosas, que se baseiam em tradições e princípios humanos
 
-input Philippians 29 - Therefore God exalted him to the highest position and gave him the name that is above every name,
 
 
 
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
 delay 1111
-click 212 960
+
+
+
+input Mateus 9 10 - Enquanto Jesus estava em casa, muitos cobradores de impostos e pecadores foram comer com ele e seus discípulos.
+
+
+
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
+
+
+input Mateus 9 11 - Vendo isso, os fariseus perguntaram aos seus discípulos: Por que seu professor come com coletores de impostos e pecadores?
 
 
 
-input Philippians 2 10 - That at the name of Jesus every knee may bow, in heaven, on earth, and under the earth,
 
 
 
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
 delay 1111
-click 212 960
+
+
+
+input Mateus 9 12 - Ouvindo isso, Jesus disse que não são os sãos que precisam de médico, mas os enfermos.
+
+
+
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
+
+
+input Filipenses 2 5 - Seja a sua atitude a mesma de Cristo Jesus,
+
+
 
 
 
-input Philippians 2 11 - And every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
 
 
 
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
 delay 1111
-click 212 960
+
+
+
+input Filipenses 26 - que, embora sendo Deus, não considerou que ser igual a Deus era algo a que ele deveria se apegar;
+
+
+
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
+
+
+input Filipenses 27 - mas ele se esvaziou, tornando-se um servo, tornando-se como os homens.
 
 
 
-input Deuteronomy 11 18 - Engrave these words of mine upon heart and mind; tie them as symbols on your hands and fasten
-them to your forehead.
 
 
 
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
 delay 1111
-click 212 960
+
+
+
+input Filipenses 2 8 - E sendo achado em forma humana, ele se humilhou e foi obediente até a morte e morte de cruz.
+
+
+
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
 
 
+input Filipenses 29 - Portanto, Deus o exaltou à mais alta posição e deu-lhe o nome que está acima de todo nome,
 
-input Deuteronomy 11 19 - Teach them to your children, talking about them when they are sitting at home and when they
-are walking along the way,
 
 
 
+
+
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
 delay 1111
-click 212 960
+
+
+
+input Filipenses 2 10 - Para que ao nome de Jesus todo joelho se dobre, no céu, na terra e sob a terra,
+
+
+
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
+
+
+input Filipenses 2 11 - E todas as línguas confessam que Jesus Cristo é o Senhor, para glória de Deus Pai.
 
 
 
-input Deuteronomy 11 20 - Write them on the doorposts of your houses, and on your gates,
 
 
 
+
+
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
 delay 1111
-click 212 960
+
+
+
+input Deuteronômio 11 18 - Grave estas minhas palavras no coração e na mente; amarre-os como símbolos em suas mãos e prenda-os em sua testa.
+
+
+
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
+
+
+input Deuteronômio 11 19 - Ensine-os a seus filhos, falando sobre eles quando estão sentados em casa e quando estão caminhando pelo caminho,
+
+
 
 
 
-input Deuteronomy 1 1 21 - PART 1 - that in the land which the Lord swore he would give to their forefathers,
 
 
 
+delay 5000
+click 355 381
+delay 1111
+key R
+delay 1111
+click 158 647
 delay 1111
-click 212 960
+
+
+
+input Deuteronômio 11 20 - Escreva-os nas ombreiras das suas casas e nos seus portões,
+
+
+
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
+
+
+input Deuteronômio 1 1 21 - PARTE 1 - que na terra que o Senhor jurou que daria a seus antepassados,
 
 
 
-input Deuteronomy 11 21 - PART 2 - your days and the days of your children be many, be as many as the days during which
-heaven is above the earth.
 
 
+
+
+
+delay 5000
+click 355 381
 delay 1111
-click 212 960
+key R
+delay 1111
+click 158 647
+delay 1111
+
+
+
+input Deuteronômio 11 21 - PARTE 2 - seus dias e os dias de seus filhos sejam muitos, sejam tantos quanto os dias durante os quais o céu está acima da terra.
+
+
+
+
+
+
+
 delay 5000
+click 355 381
+delay 1111
 key R
 delay 1111
+click 158 647
+delay 1111
+
+
