@@ -1,8 +1,7 @@
 Romanos 12:16 - Tenham uma mesma atitude uns para com os outros. Não sejam orgulhosos, mas estejam dispostos a associar-se a pessoas de posição inferior. Não sejam sábios aos seus próprios olhos.
 
-fonte: https://www.bibliaonline.com.br/nvi/rm/12/9-21
-
-Romanos 12 do versículo 9 ao 21 trata-se das virtudades ( caráter ) que DEUS recomenda.
+Os versículos 9 ao 21 do Capitulo 12 e Livro Romanos falam das virtudades ( caráter ) que DEUS recomenda.
+neste link https://www.bibliaonline.com.br/nvi/rm/12/9-21 você pode meditar
 
 
 # Jesus-is-the-Christ
