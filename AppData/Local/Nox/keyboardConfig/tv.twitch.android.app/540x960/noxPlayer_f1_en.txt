@@ -1,2578 +1,1627 @@
-size 379 675
-click 80 652
+size 540 960
+
 loop 123
-click 157 653
-delay 1010
 
+click 220 927
+delay 1025
 
+input Romans 10 9 - If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.
 
-input Romans 10 9 - If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from
-the dead, you will be saved.
-
-
-
-delay 1010
-click 355 381
-delay 1010
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 9 - Love must be sincere. Hate what is bad; cling to what is good.
 
 
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 10 - Dedicate yourselves with brotherly love. Prefer to honor others more than yourself.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 11 - Never lack zeal, be fervent in spirit, serve the Lord.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 12 - Rejoice in hope, be patient in tribulation, persevere in prayer.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 13 - Share what you have with the saints in their needs. Practice hospitality.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 14 - Bless those who persecute you; bless, and do not curse them.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 15 - Rejoice with those who rejoice; cry with those who cry.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Romans 12 16 - Have the same attitude towards each other. Don't be proud, but be willing to associate with people of lower status.
 
 
-input Romans 12 16 - Have the same attitude towards each other. Don't be proud, but be willing to associate with people
-of lower status.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 17 - Do not return evil for evil to anyone. Try to do what is right in everyone's eyes.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 18 - Do everything possible to live in peace with everyone.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Romans 12 19 - Beloved, never seek revenge, but leave wrath with God, for it is written Vengeance is Mine; I will repay, says the Lord.
 
 
-input Romans 12 19 - Beloved, never seek revenge, but leave wrath with God, for it is written Vengeance is Mine; I will
-repay, says the Lord.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Romans 12 20 - On the contrary If your enemy is hungry, give him food; if he is thirsty, give him something to drink. By doing this, you will pile up live embers
 
 
-input Romans 12 20 - On the contrary If your enemy is hungry, give him food; if he is thirsty, give him something to
-drink. By doing this, you will pile up live embers
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 12 21 - Do not be overcome by evil, but overcome evil with good.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Ephesians 4 2 - Be humble, gentle with others and patient, on the basis of mutual understanding and sincere affection.
 
 
-input Ephesians 4 2 - Be humble, gentle with others and patient, on the basis of mutual understanding and sincere
-affection.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Ephesians 4 26 - Do not sin, and let wrath overtake you. Before the day is over, make your irritation come to an end.
 
 
-input Ephesians 4 26 - Do not sin, and let wrath overtake you. Before the day is over, make your irritation come to an
-end.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Ephesians 4 32 - Instead, be kind and understanding to one another, forgiving one another, just as Christ also forgave you.
 
 
-input Ephesians 4 32 - Instead, be kind and understanding to one another, forgiving one another, just as Christ also
-forgave you.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 10 17 - In fact, faith comes by hearing this message of good news - the good news about Christ.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Isaiah 58 5 - Is this the fast I have chosen, that just one day a man will humble himself, bow his head like a reed, and lie down on sackcloth and ashes? IT'S
 
 
-input Isaiah 58 5 - Is this the fast I have chosen, that just one day a man will humble himself, bow his head like a
-reed, and lie down on sackcloth and ashes? IT'S
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Isaiah 58 6 - The fast I desire is to loosen the chains of injustice, loosen the yoke ropes, set free the oppressed, and break every yoke
 
 
-input Isaiah 58 6 - The fast I desire is to loosen the chains of injustice, loosen the yoke ropes, set free the
-oppressed, and break every yoke
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Isaiah 58 7 - It's sharing your food with the hungry, sheltering the destitute poor, dressing the naked you've found, and not refusing to help your neighbor
 
 
-input Isaiah 58 7 - It's sharing your food with the hungry, sheltering the destitute poor, dressing the naked you've
-found, and not refusing to help your neighbor
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Isaiah 58 8 - And then his light will break forth like the dawn, and his healing will appear swiftly; your righteousness will go before you, and the glory of the Lord will be
 
 
-input Isaiah 58 8 - And then his light will break forth like the dawn, and his healing will appear swiftly; your
-righteousness will go before you, and the glory of the Lord will be
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Isaiah 58 9 - Then ye shall cry unto the Lord, and he shall answer; you'll scream for help, and he'll say Here I am. If you eliminate the yoke from your midst
 
 
-input Isaiah 58 9 - Then ye shall cry unto the Lord, and he shall answer; you'll scream for help, and he'll say Here I
-am. If you eliminate the yoke from your midst
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Isaiah 58 10 - If with self-denial you benefit the hungry and satisfy the longing of the afflicted, then your light will dawn in darkness, and your night
 
 
-input Isaiah 58 10 - If with self-denial you benefit the hungry and satisfy the longing of the afflicted, then your
-light will dawn in darkness, and your night
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Isaiah 58 11 - PART 1 - The Lord will guide you constantly; it will satisfy your desires in a land parched by the sun and will strengthen your bones.
 
 
-input Isaiah 58 11 - PART 1 - The Lord will guide you constantly; it will satisfy your desires in a land parched by the
-sun and will strengthen your bones.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Isaiah 58 11 - PART 2 - You will be like a well-watered garden, like a fountain whose waters never fail.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input James 1 22 - Be doers of the word, not just hearers, deceiving yourselves.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input James 1 23 - He who hears the word, but does not put it into practice, is like one who looks at his face in a mirror
 
 
-input James 1 23 - He who hears the word, but does not put it into practice, is like one who looks at his face in a
-mirror
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input James 1 24 - and, after looking at himself, goes out and soon forgets his appearance.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input James 1 25 - But whoever carefully observes the perfect law that brings freedom, and perseveres in the practice of that law, not forgetting what he heard but
 
 
-input James 1 25 - But whoever carefully observes the perfect law that brings freedom, and perseveres in the practice of
-that law, not forgetting what he heard but
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 13 8 - Owe nothing to anyone but love for one another, for he who loves his neighbor has fulfilled the law.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Romans 13 9 - PART 1 - For these commandments you shall not commit adultery, you shall not kill, you shall not steal, you shall not covet,
 
 
-input Romans 13 9 - PART 1 - For these commandments you shall not commit adultery, you shall not kill, you shall not
-steal, you shall not covet,
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 13 9 - PART 2 - and any other commandment, all summed up in this precept Love your neighbor as yourself.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Romans 13 10 - Love does not do evil against its neighbor. Therefore, love is the fulfillment of the law.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Hebrews 11 1 - Now faith is the assurance of what we hope for, and the proof of the things we do not see.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Hebrews 11 6 - Without faith it is impossible to please God, because whoever approaches him must believe that he exists and that he rewards those who seek him.
 
 
-input Hebrews 11 6 - Without faith it is impossible to please God, because whoever approaches him must believe that he
-exists and that he rewards those who seek him.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+James 1:27 The religion that God our Father accepts as pure and undefiled is this: to care for the fatherless and widows in their difficulties and not to be corrupted by the world.
+input Romans 8 28 - We know that God works in all things for the good of those who love him, those who were called according to his purpose.
 
 
-James 1:27 The religion that God our Father accepts as pure and undefiled is this: to care for the fatherless and widows
-in their difficulties and not to be corrupted by the world.
-input Romans 8 28 - We know that God works in all things for the good of those who love him, those who were called
-according to his purpose.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input James 2 14 - What good is it, my brothers, for someone to say that he has faith, if he has no works? Can faith save you?
 
 
-input James 2 14 - What good is it, my brothers, for someone to say that he has faith, if he has no works? Can faith
-save you?
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input James 2 15 - If a brother or sister is in need of daily clothing and food
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input James 2 16 - and one of you says to him Go in peace, warm up and feed yourself until you are satisfied, but without giving him anything, what good is that?
 
 
-input James 2 16 - and one of you says to him Go in peace, warm up and feed yourself until you are satisfied, but
-without giving him anything, what good is that?
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input James 2 17 - So faith alone, if not accompanied by works, is dead.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input John 11 - In the beginning was the one who is the Word. He was with God, and he was God.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input John 1 14 - He who is the Word became flesh and lived among us. We saw his glory, glory as of the Only Begotten coming from the Father, full of grace and
 
 
-input John 1 14 - He who is the Word became flesh and lived among us. We saw his glory, glory as of the Only Begotten
-coming from the Father, full of grace and
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 3 16 - As soon as Jesus was baptized, he came out of the water. At that moment the heavens opened, and he saw the Spirit of God descending like a bird and landing
 
 
-input Matthew 3 16 - As soon as Jesus was baptized, he came out of the water. At that moment the heavens opened, and he
-saw the Spirit of God descending like a bird and landing
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 6 14 - For if they forgive one another's trespasses, the heavenly Father will also forgive them.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 6 15 - But if they do not forgive one another, the heavenly Father will not forgive their trespasses.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 5 46 - If you love those who love you, what reward will you receive? Even publicans do that.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 5 47 - And if you only greet your brothers, what will you be doing more? Even pagans do that.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 10 37 - Whoever loves his father or mother more than me is not worthy of me; whoever loves his son or daughter more than me is not worthy of me;
 
 
-input Matthew 10 37 - Whoever loves his father or mother more than me is not worthy of me; whoever loves his son or
-daughter more than me is not worthy of me;
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 10 38 - And whoever does not take up his cross and follow me is not worthy of me.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
 
 
 input Proverbs 31 30 - Beauty is deceitful, and beauty is fleeting; but the woman who fears the Lord will be commended.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Mark 9 22 - And he hath cast him many times into the fire, and into the water, to destroy him; but if you can do anything, have pity on us, and help us.
 
 
-input Mark 9 22 - And he hath cast him many times into the fire, and into the water, to destroy him; but if you can do
-anything, have pity on us, and help us.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Mark 9 23 - And Jesus said to him If thou canst believe, all is possible to him that believeth.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Mark 9 24 - And immediately the boy's father, crying with tears, said I believe, Lord. Help my unbelief.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Mark 9 28 - After Jesus entered the house, his disciples asked him in private 'Why can't we drive him out?'
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Mark 9 29 - He replied 'This species only comes out by prayer and fasting'.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Luke 11 23 - Whoever is not for me is against me, whoever does not gather with me scatters.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Luke 12 47 - That servant who knows his master's will and does not prepare what he desires, nor does it, will receive many lashes.
 
 
-input Luke 12 47 - That servant who knows his master's will and does not prepare what he desires, nor does it, will
-receive many lashes.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+Luke12 48-But he who does not know her and practices things deserving punishment, will receive few lashes. To whom much has been given, much will be demanded;
+input 1 Peter 3 15 - Rather, sanctify Christ as Lord in your heart. Always be prepared to respond to anyone who asks for the reason for hope
 
 
-Luke12 48-But he who does not know her and practices things deserving punishment, will receive few lashes. To whom much
-has been given, much will be demanded;
-input 1 Peter 3 15 - Rather, sanctify Christ as Lord in your heart. Always be prepared to respond to anyone who asks for
-the reason for hope
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Job 8 3 - Does God twist justice? Does the Almighty twist what is right?
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Job 8 5 - But if you seek God and plead with the Almighty,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Job 8 6 - if you are righteous and pure, he will rise up right now in your favor and restore you to the place that for justice belongs to you.
 
 
-input Job 8 6 - if you are righteous and pure, he will rise up right now in your favor and restore you to the place that
-for justice belongs to you.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Job 8 8 - Ask previous generations and see what your parents learned,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Job 8 10 - Shall they not instruct him, will they not speak to him? Will they not speak words from the understanding?
 
 
-input Job 8 10 - Shall they not instruct him, will they not speak to him? Will they not speak words from the
-understanding?
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Job 8 20 - For what is certain is that God does not reject the righteous, and does not strengthen the hands of those who do evil.
 
 
-input Job 8 20 - For what is certain is that God does not reject the righteous, and does not strengthen the hands of
-those who do evil.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
 
-
-2Chronicles 7 14-If my people, which are called by my name, humble themselves and pray, seek my face, and depart from
-their evil ways, I will hear from heaven,
+2Chronicles 7 14-If my people, which are called by my name, humble themselves and pray, seek my face, and depart from their evil ways, I will hear from heaven,
 input Matthew 5 38 - You heard what was said An eye for an eye and a tooth for a tooth.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 5 39 - But I say unto them, Do not resist the wicked. If someone hurts you on the right cheek, offer the other one as well.
 
 
-input Matthew 5 39 - But I say unto them, Do not resist the wicked. If someone hurts you on the right cheek, offer the
-other one as well.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 5 40 - And if someone wants to sue you and take your tunic, let them also take the cloak.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 5 41 - If someone forces you to walk a mile with him, go with him two.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 5 42 - Give to those who ask you, and do not turn your back on those who want to borrow something from you.
 
 
-input Matthew 5 42 - Give to those who ask you, and do not turn your back on those who want to borrow something from
-you.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 5 43 - You heard what was said Love your neighbor and hate your enemy.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 5 44 - But I say to you Love your enemies and pray for those who persecute you,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 5 45 - that you may become children of your Father who is in heaven. Because he makes his sun shine on the bad and the good and pours rain on
 
 
-input Matthew 5 45 - that you may become children of your Father who is in heaven. Because he makes his sun shine on the
-bad and the good and pours rain on
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Job 5 6 - For suffering does not spring from dust, and difficulties do not arise from the ground.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Job 5 7 - However, man is born for difficulties as surely as sparks fly upwards.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Job 5 17 - How happy is the man whom God corrects; therefore, do not despise the discipline of the Almighty.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Job 5 18 - For he wounds, but he comes to deal with it; it hurts, but your hands also heal.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Acts 3 19 - Repent therefore, and turn to God, that your sins may be blotted out,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Acts 3 20 - that times of rest may come from the Lord, and he may send the Christ, who was appointed to them, Jesus.
 
 
-input Acts 3 20 - that times of rest may come from the Lord, and he may send the Christ, who was appointed to them,
-Jesus.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 11 12 - From the days of John the Baptist until now, the kingdom of heaven is taken by force, and those who use force seize it.
 
 
-input Matthew 11 12 - From the days of John the Baptist until now, the kingdom of heaven is taken by force, and those
-who use force seize it.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Proverbs 15 32 - Whoever refuses discipline makes light of himself, but whoever hears the reproof gets understanding.
 
 
-input Proverbs 15 32 - Whoever refuses discipline makes light of himself, but whoever hears the reproof gets
-understanding.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Ecclesiastes 2 24 - For man there is nothing better than eating, drinking and finding pleasure in his work. And I saw that this also comes from the hand of God.
 
 
-input Ecclesiastes 2 24 - For man there is nothing better than eating, drinking and finding pleasure in his work. And I
-saw that this also comes from the hand of God.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Psalm 34 19 - The righteous pass through many adversities, but the Lord delivers him from all;
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Psalm 34 20 - protect all your bones; none of them will be broken.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Psalm 34 21 - Disgrace shall kill the wicked; those who hate the righteous will be condemned.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 7 21 - Not everyone who says to me Lord, Lord, will enter the kingdom of heaven, but only he who does the will of my Father who is in heaven.
 
 
-input Matthew 7 21 - Not everyone who says to me Lord, Lord, will enter the kingdom of heaven, but only he who does the
-will of my Father who is in heaven.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 7 22 - Many will tell me in that day Lord, Lord, do we not prophesy in Your name? In your name we don't cast out demons and we don't accomplish many
 
 
-input Matthew 7 22 - Many will tell me in that day Lord, Lord, do we not prophesy in Your name? In your name we don't
-cast out demons and we don't accomplish many
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 7 23 - Then I'll tell them plainly I never knew them. Get away from me, you who do evil.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input 1 Corinthians 6 19 - Do you not know that your body is the sanctuary of the Holy Spirit that dwells in you, which was given to you by God, and that you are not
 
 
-input 1 Corinthians 6 19 - Do you not know that your body is the sanctuary of the Holy Spirit that dwells in you, which
-was given to you by God, and that you are not
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input 1 Corinthians 6 20 - You were bought with a high price. Therefore, glorify God with your body.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Hebrews 5 7 - PART 1 - During his days of life on earth, Jesus offered prayers and supplications,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Hebrews 5 7 - PART 2 - loudly and with tears, to him who could save him from death, being heard because of his reverent submission.
 
 
-input Hebrews 5 7 - PART 2 - loudly and with tears, to him who could save him from death, being heard because of his
-reverent submission.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Mark 1 35 - At dawn, when it was still dark, Jesus got up, left the house and went to a desert place, where he prayed.
 
 
-input Mark 1 35 - At dawn, when it was still dark, Jesus got up, left the house and went to a desert place, where he
-prayed.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Galatians 6:2 - Carry one another's heavy burdens and thus fulfill the law of Christ.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 Galatians 6:9 And let us not be weary in doing good, for in due time we shall reap, unless we be discouraged.
-input Hosea 6 1 - Come, let us return to the Lord. He has broken us, but He will bring us healing; he has hurt us, but
-he will heal our wounds.
+input Hosea 6 1 - Come, let us return to the Lord. He has broken us, but He will bring us healing; he has hurt us, but he will heal our wounds.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Hosea 6 2 - After two days he will give us life again; on the third day he will restore us, that we may live in his presence.
 
 
-input Hosea 6 2 - After two days he will give us life again; on the third day he will restore us, that we may live in
-his presence.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Hosea 6 3 - Let us know the Lord; let us strive to know him. As sure as the sun rises, it will appear; will come to us like the winter rains, like the
 
 
-input Hosea 6 3 - Let us know the Lord; let us strive to know him. As sure as the sun rises, it will appear; will come
-to us like the winter rains, like the
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Proverbs 17 3 - Gold and silver are purified by fire, but God alone purifies hearts.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Proverbs 17 4 - Sinners seek the company of those who speak and do as they do; every liar feels good in the company of other liars.
 
 
-input Proverbs 17 4 - Sinners seek the company of those who speak and do as they do; every liar feels good in the
-company of other liars.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Proverbs 17 5 - To despise the poor is to insult God, who created all men. He who rejoices in the misfortune of others will not go unpunished.
 
 
-input Proverbs 17 5 - To despise the poor is to insult God, who created all men. He who rejoices in the misfortune of
-others will not go unpunished.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Proverbs 17 9 - Friendship makes you forget a lot of bad things. But those who are always arguing are capable of separating the best friends.
 
 
-input Proverbs 17 9 - Friendship makes you forget a lot of bad things. But those who are always arguing are capable of
-separating the best friends.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input 1 Corinthians 13 4 - Love is patient, love is kind. Don't envy, don't brag, don't be proud.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input 1 Corinthians 13 5 - Do not mistreat, do not seek your interests, do not get angry easily, do not hold grudges.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input 1 Corinthians 13 6 - Love does not rejoice in injustice, but rejoices in the truth.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input 1 Corinthians 13 7 - Everything suffers, everything believes, everything waits, everything supports.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 22 37 - Jesus Answered Love the Lord your God with all your heart, with all your soul, and with all your mind.
 
 
-input Matthew 22 37 - Jesus Answered Love the Lord your God with all your heart, with all your soul, and with all your
-mind.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 22 38 - This is the first and greatest commandment.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 22 39 - And the second is like him Love your neighbor as yourself.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 22 40 - On these two commandments depend all the Law and the Prophets.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input John 14 12 - I tell you the truth He that believeth in me will also do the works that I have done. It'll do even bigger things than these, because I'm
 
 
-input John 14 12 - I tell you the truth He that believeth in me will also do the works that I have done. It'll do even
-bigger things than these, because I'm
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input John 14 13 - And I will do what you ask in my name, that the Father may be glorified in the Son.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input James 4 2 - You covet things, and don't have them; they kill and envy, but they cannot get what they want. You live to fight and make wars. It does not have,
 
 
-input James 4 2 - You covet things, and don't have them; they kill and envy, but they cannot get what they want. You
-live to fight and make wars. It does not have,
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input James 4 3 - When they ask, they don't receive, because they ask for the wrong reasons, to spend on their pleasures.
 
 
-input James 4 3 - When they ask, they don't receive, because they ask for the wrong reasons, to spend on their
-pleasures.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Proverbs 13 3 - Whoever keeps his mouth keeps his life, but whoever talks too much ends up ruining himself.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Proverbs 18 21 - The tongue has power over life and death; those who like to use it will eat of its fruit.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Proverbs 13 24 - Whoever refuses to punish his son does not love him; whoever loves him does not hesitate to discipline him.
 
 
-input Proverbs 13 24 - Whoever refuses to punish his son does not love him; whoever loves him does not hesitate to
-discipline him.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input John 3 3 - In response, Jesus declared I tell you the truth No one can see the Kingdom of God unless he is born again.
 
 
-input John 3 3 - In response, Jesus declared I tell you the truth No one can see the Kingdom of God unless he is born
-again.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input John 3 4 - Nicodemus asked How can anyone be born, being old? Of course, you cannot enter your mother's womb a second time and be reborn.
 
 
-input John 3 4 - Nicodemus asked How can anyone be born, being old? Of course, you cannot enter your mother's womb a
-second time and be reborn.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input John 3 5 - Jesus answered I tell you the truth No one can enter the Kingdom of God unless he is born of water and the Spirit.
 
 
-input John 3 5 - Jesus answered I tell you the truth No one can enter the Kingdom of God unless he is born of water and
-the Spirit.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input John 3 6 - What is born of the flesh is flesh, but what is born of the Spirit is spirit.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input John 3 7 - Don't be surprised that I said You must be born again.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input John 3 8 - The wind blows wherever it wants. You listen to it, but you cannot tell where it comes from or where it is going. So it is with all those born of the Spirit.
 
 
-input John 3 8 - The wind blows wherever it wants. You listen to it, but you cannot tell where it comes from or where it
-is going. So it is with all those born of the Spirit.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Ephesians 4 22 - As for the old way of life, you were taught to put off the old man, who is corrupted by deceitful desires,
 
 
-input Ephesians 4 22 - As for the old way of life, you were taught to put off the old man, who is corrupted by deceitful
-desires,
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Ephesians 4 23 - to be renewed in the way of thinking and
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Ephesians 4 24 - to put on the new man, created to be like God in righteousness and holiness from the truth.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Ephesians 4 25 - Therefore, each one of you must abandon the lie and speak the truth to your neighbor, because we are all members of the same body.
 
 
-input Ephesians 4 25 - Therefore, each one of you must abandon the lie and speak the truth to your neighbor, because we
-are all members of the same body.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Ephesians 4 26 - When you are angry, do not sin. Soothe your anger before the sun goes down,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Ephesians 4 27 - and do not give place to the devil.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Proverbs 25 17 - Don't make frequent visits to your neighbor's house so that he doesn't get tired of you and start to hate you.
 
 
-input Proverbs 25 17 - Don't make frequent visits to your neighbor's house so that he doesn't get tired of you and start
-to hate you.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Proverbs 25 23 - As the north wind brings rain, so the sham tongue brings the angry look.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Colossians 2 8 - Be careful that no one enslaves you to vain and deceitful philosophies, which are based on human traditions and principles
 
 
-input Colossians 2 8 - Be careful that no one enslaves you to vain and deceitful philosophies, which are based on human
-traditions and principles
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 9 10 - While Jesus was at home, many tax collectors and sinners went to eat with him and his disciples.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 9 11 - Seeing this, the Pharisees asked his disciples Why does your teacher eat with tax collectors and sinners?
 
 
-input Matthew 9 11 - Seeing this, the Pharisees asked his disciples Why does your teacher eat with tax collectors and
-sinners?
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Matthew 9 12 - Hearing this, Jesus said It is not the healthy who need a doctor, but the sick.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Matthew 9 13 - They will learn what this means. I desire mercy, not sacrifices. For I came not to call the righteous, but sinners.
 
 
-input Matthew 9 13 - They will learn what this means. I desire mercy, not sacrifices. For I came not to call the
-righteous, but sinners.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Philippians 2 5 - Let your attitude be the same as that of Christ Jesus,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Philippians 26 - who, though being God, did not consider that being equal with God was something he should cling to;
 
 
-input Philippians 26 - who, though being God, did not consider that being equal with God was something he should cling
-to;
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Philippians 27 - but he emptied himself, becoming a servant, becoming like men.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Philippians 2 8 - And being found in human form, he humbled himself and was obedient unto death, and death on a cross.
 
 
-input Philippians 2 8 - And being found in human form, he humbled himself and was obedient unto death, and death on a
-cross.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Philippians 29 - Therefore God exalted him to the highest position and gave him the name that is above every name,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Philippians 2 10 - That at the name of Jesus every knee may bow, in heaven, on earth, and under the earth,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Philippians 2 11 - And every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Deuteronomy 11 18 - Engrave these words of mine upon heart and mind; tie them as symbols on your hands and fasten them to your forehead.
 
 
-input Deuteronomy 11 18 - Engrave these words of mine upon heart and mind; tie them as symbols on your hands and fasten
-them to your forehead.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Deuteronomy 11 19 - Teach them to your children, talking about them when they are sitting at home and when they are walking along the way,
 
 
-input Deuteronomy 11 19 - Teach them to your children, talking about them when they are sitting at home and when they
-are walking along the way,
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Deuteronomy 11 20 - Write them on the doorposts of your houses, and on your gates,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
 
 input Deuteronomy 1 1 21 - PART 1 - that in the land which the Lord swore he would give to their forefathers,
 
 
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
+delay 1000
+click 220 927
+delay 1025
+
+input Deuteronomy 11 21 - PART 2 - your days and the days of your children be many, be as many as the days during which heaven is above the earth.
 
 
-input Deuteronomy 11 21 - PART 2 - your days and the days of your children be many, be as many as the days during which
-heaven is above the earth.
-
-
-
-
-
-
-delay 1010
-click 355 381
-delay 1010
-delay 14000
+delay 1025
+click 220 927
+delay 1025
 key R
-delay 1010
-click 157 653
-delay 1010
-
+delay 1000
+click 220 927
+delay 1025
