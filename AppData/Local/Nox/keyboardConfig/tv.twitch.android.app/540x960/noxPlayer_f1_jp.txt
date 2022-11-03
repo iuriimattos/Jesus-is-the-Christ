@@ -26,7 +26,7 @@ input Romans 10 9 --  あなたが口でイエスが主であることを告白�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -39,7 +39,7 @@ input Romans 12 9 --  愛は誠実でなければなりません。悪いこと�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -52,7 +52,7 @@ input Romans 12 10 --  兄弟愛をもって献身しなさい。自分よりも
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -65,7 +65,7 @@ input Romans 12 11 --  熱意を欠くことは決してなく、精神的に熱
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -78,7 +78,7 @@ input Romans 12 12 --  希望を持って喜び、苦難に耐え、祈りに耐
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -91,7 +91,7 @@ input Romans 12 13 --  あなたが持っているものを彼らの必要に応
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -104,7 +104,7 @@ input Romans 12 14 --  あなたを迫害する人々を祝福してください
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -117,7 +117,7 @@ input Romans 12 15 --  喜ぶ人たちと喜ぶ。泣く人と一緒に泣きな
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -130,7 +130,7 @@ input Romans 12 16 --  お互いに対して同じ態度を持っています。
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -143,7 +143,7 @@ input Romans 12 17 --  悪のために悪をだれにも返さないでくださ
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -156,7 +156,7 @@ input Romans 12 18 --  みんなと平和に暮らせるように、できる限
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -169,7 +169,7 @@ input Romans 12 19 --  最愛の人、決して復讐を求めないでくださ
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -182,7 +182,7 @@ input Romans 12 20 --  逆に、敵が空腹の場合は、食べ物を与えて
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -195,7 +195,7 @@ input Romans 12 21 --  悪に打ち勝たれるのではなく、善をもって
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -208,7 +208,7 @@ input Ephesians 4 2 --  相互理解と誠実さに基づいて、謙虚に、�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -221,7 +221,7 @@ input Ephesians 4 26 --  罪を犯さないでください、そして怒りが�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -234,7 +234,7 @@ input Ephesians 4 32 --  代わりに、キリストもそうであるように�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -247,7 +247,7 @@ input Romans 10 17 --  実際、信仰はこの良いたよりのメッセージ
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -260,7 +260,7 @@ input Isaiah 58 5 --  これは私が選んだ断食ですか、たった1日、
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -273,7 +273,7 @@ input Isaiah 58 6 --  私が望む断食は、不正の連鎖を緩め、ヨー�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -286,7 +286,7 @@ input Isaiah 58 7 --  それはあなたの食べ物を空腹の人と共有し�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -299,7 +299,7 @@ input Isaiah 58 8 --  そして、彼の光は夜明けのように爆発し、�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -312,7 +312,7 @@ input Isaiah 58 9 --  それからあなたがたは主に向かって叫び、�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -325,7 +325,7 @@ input Isaiah 58 10 --  自己否定であなたが空腹の人に利益をもた
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -338,7 +338,7 @@ input Isaiah 58 11 --  パート1-主は絶えずあなたを導きます。そ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -351,7 +351,7 @@ input Isaiah 58 11 --  パート2-あなたは、水が決して失敗しない�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -364,7 +364,7 @@ input James 1 22 --  自分をだまして、聞き手だけでなく、言葉�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -377,7 +377,7 @@ input James 1 23 --  言葉を聞いても実践しない人は、顔を見て�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -390,7 +390,7 @@ input James 1 24 --  そして、彼自身を見た後、外に出て、すぐ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -403,7 +403,7 @@ input James 1 25 --  しかし、自由をもたらす完全な法則を注意�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -416,7 +416,7 @@ input Romans 13 8 --  隣人を愛する者は律法を成就したので、お�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -429,7 +429,7 @@ input Romans 13 9 --  パート1-これらの戒めのために、あなたは�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -442,7 +442,7 @@ input Romans 13 9 --  パート2-そして他の戒め、すべてこの教訓�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -455,7 +455,7 @@ input Romans 13 10 --  愛は隣人に対して悪を行いません。したが
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -468,7 +468,7 @@ input Hebrews 11 1 --  今、信仰とは、私たちが望んでいることの
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -481,7 +481,7 @@ input Hebrews 11 6 --  信仰がなければ、神を喜ばせることは不可
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -495,7 +495,7 @@ input Romans 8 28 --  神は、神を愛する人々、召された人々のた�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -508,7 +508,7 @@ input James 2 14 --  兄弟たちよ、もし彼が仕事をしていなけれ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -521,7 +521,7 @@ input James 2 15 --  兄弟または姉妹が日常の衣服や食べ物を必�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -534,7 +534,7 @@ input James 2 16 --  そしてあなたの一人が彼に言います平和に�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -547,7 +547,7 @@ input James 2 17 --  ですから、信仰だけでは、仕事を伴わなけ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -560,7 +560,7 @@ input John 11 --  最初はみことばでした。彼は神と共にいまし�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -573,7 +573,7 @@ input John 1 14 --  みことばである彼は肉体になり、私たちの間
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -586,7 +586,7 @@ input Matthew 3 16 --  イエスはバプテスマを受けるとすぐに水か
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -599,7 +599,7 @@ input Matthew 6 14 --  彼らがお互いの不法侵入を許すなら、天の
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -612,7 +612,7 @@ input Matthew 6 15 --  しかし、彼らがお互いを許さなければ、天
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -625,7 +625,7 @@ input Matthew 5 46 --  あなたがあなたを愛している人を愛してい
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -638,7 +638,7 @@ input Matthew 5 47 --  そして、もしあなたが兄弟たちに挨拶する
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -651,7 +651,7 @@ input Matthew 10 37 --  私よりも父親や母親を愛する人は、私に�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -664,7 +664,7 @@ input Matthew 10 38 --  そして、十字架を背負って私について来�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -678,7 +678,7 @@ input Proverbs 31 30 --  美しさは欺瞞的であり、美しさはつかの�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -691,7 +691,7 @@ input Mark 9 22 --  そして彼は何度も彼を火と水に投げ込み、彼
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -704,7 +704,7 @@ input Mark 9 23 --  そしてイエスは彼に言われた、もしあなたが
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -717,7 +717,7 @@ input Mark 9 24 --  そしてすぐに、少年の父親は涙を流して泣き
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -730,7 +730,7 @@ input Mark 9 28 --  イエスが家に入った後、弟子たちは彼に個人
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -743,7 +743,7 @@ input Mark 9 29 --  彼は「この種は祈りと断食によってのみ出て
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -756,7 +756,7 @@ input Luke 11 23 --  私に合わない人は私に反対し、私と一緒に�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -769,7 +769,7 @@ input Luke 12 47 --  主人の意志を知っていて、彼が望むものを�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -783,7 +783,7 @@ input 1 Peter 3 15 --  むしろ、あなたの心の中で主としてキリス
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -796,7 +796,7 @@ input Job 8 3 --  神は正義をひねりますか？全能者は正しいこ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -809,7 +809,7 @@ input Job 8 5 --  しかし、もしあなたが神を求めて全能者に懇�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -822,7 +822,7 @@ input Job 8 6 --  あなたが正義で純粋であるならば、彼はあな�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -835,7 +835,7 @@ input Job 8 8 --  前の世代に聞いて、あなたの両親が学んだこ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -848,7 +848,7 @@ input Job 8 10 --  彼らは彼に指示しませんか、彼らは彼に話し�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -861,7 +861,7 @@ input Job 8 20 --  確かなことは、神は義人を拒絶せず、
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -875,7 +875,7 @@ input Matthew 5 38 --  目には目を、歯には歯という言葉を聞いた
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -888,7 +888,7 @@ input Matthew 5 39 --  しかし、私は彼らに言います、邪悪な者に
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -901,7 +901,7 @@ input Matthew 5 40 --  そして、誰かがあなたを訴えてあなたのチ
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -914,7 +914,7 @@ input Matthew 5 41 --  誰かがあなたに彼と一緒に1マイル歩くよ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -927,7 +927,7 @@ input Matthew 5 42 --  あなたに尋ねる人に与え、何かを借りたい
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -940,7 +940,7 @@ input Matthew 5 43 --  あなたは言われたことを聞いたあなたの隣
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -953,7 +953,7 @@ input Matthew 5 44 --  しかし、私はあなたに言いますあなたの敵
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -966,7 +966,7 @@ input Matthew 5 45 --  あなたが天国にいるあなたの父の子供にな
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -979,7 +979,7 @@ input Job 5 6 --  苦しみはほこりから湧き出ることはなく、地�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -992,7 +992,7 @@ input Job 5 7 --  しかし、火花が上向きに飛ぶのと同じくらい�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1005,7 +1005,7 @@ input Job 5 17 --  神が正される人はどれほど幸せですか。した�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1018,7 +1018,7 @@ input Job 5 18 --  彼は傷を負ったが、彼はそれに対処するよう�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1031,7 +1031,7 @@ input Acts 3 19 --  それゆえ、悔い改め、神に立ち返りなさい。
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1044,7 +1044,7 @@ input Acts 3 20 --  その休息の時は主から来るかもしれません、
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1057,7 +1057,7 @@ input Matthew 11 12 --  バプテスマのヨハネの時代から現在に至�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1070,7 +1070,7 @@ input Proverbs 15 32 --  しつけを拒否する人は誰でも自分を軽視�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1083,7 +1083,7 @@ input Ecclesiastes 2 24 --  人間にとって、彼の仕事に食べたり、�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1096,7 +1096,7 @@ input Psalm 34 19 --  義人は多くの逆境を通り抜けますが、主は�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1109,7 +1109,7 @@ input Psalm 34 20 --  すべての骨を保護します。それらのどれも�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1122,7 +1122,7 @@ input Psalm 34 21 --  恥辱は邪悪な者を殺します。義人を憎む者�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1135,7 +1135,7 @@ input Matthew 7 21 --  主よ、主よ、私に言うすべての人が天国に
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1148,7 +1148,7 @@ input Matthew 7 22 --  その日、多くの人が私に言うでしょう、主
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1161,7 +1161,7 @@ input Matthew 7 23 --  それなら、私は彼らに、私が彼らを知らな
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1174,7 +1174,7 @@ input 1 Corinthians 6 19 --  あなたの体があなたの中に宿る聖霊の
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1187,7 +1187,7 @@ input 1 Corinthians 6 20 --  高値で購入されました。ですから、あ
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1200,7 +1200,7 @@ input Hebrews 5 7 --  パート1-地上での生活の中で、イエスは祈�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1213,7 +1213,7 @@ input Hebrews 5 7 --  パート2-大声で涙を流しながら、彼を死か�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1226,7 +1226,7 @@ input Mark 1 35 --  夜明け、まだ暗いとき、イエスは起き上がっ
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1239,7 +1239,7 @@ input Galatians 6:2 --  お互いの重い重荷を背負って、キリスト�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1253,7 +1253,7 @@ input Hosea 6 1 --  さあ、主に戻りましょう。彼は私たちを壊し
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1266,7 +1266,7 @@ input Hosea 6 2 --  2日後、彼は私たちに再び命を与えるでしょ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1279,7 +1279,7 @@ input Hosea 6 3 --  主を知らせてください。彼を知るために努力
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1292,7 +1292,7 @@ input Proverbs 17 3 --  金と銀は火によって浄化されますが、神�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1305,7 +1305,7 @@ input Proverbs 17 4 --  罪人は、彼らがするように話し、行動す�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1318,7 +1318,7 @@ input Proverbs 17 5 --  貧しい人々を軽蔑することは、すべての�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1331,7 +1331,7 @@ input Proverbs 17 9 --  友情はあなたに多くの悪いことを忘れさ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1344,7 +1344,7 @@ input 1 Corinthians 13 4 --  愛は忍耐強く、愛は親切です。羨まし
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1357,7 +1357,7 @@ input 1 Corinthians 13 5 --  虐待したり、興味を求めたり、簡単に
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1370,7 +1370,7 @@ input 1 Corinthians 13 6 --  愛は不正を喜ぶのではなく、真実を喜
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1383,7 +1383,7 @@ input 1 Corinthians 13 7 --  すべてが苦しみ、すべてが信じ、すべ
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1396,7 +1396,7 @@ input Matthew 22 37 --  イエスは、心を尽くし、魂を尽くし、そ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1409,7 +1409,7 @@ input Matthew 22 38 --  これは最初で最大の戒めです。
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1422,7 +1422,7 @@ input Matthew 22 39 --  そして2番目は彼のようですあなたの隣人�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1435,7 +1435,7 @@ input Matthew 22 40 --  これらの2つの戒めは、すべての律法と預�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1448,7 +1448,7 @@ input John 14 12 --  私を信じる彼は、私がした仕事もするでし�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1461,7 +1461,7 @@ input John 14 13 --  そして、私はあなたが私の名前で求めるこ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1474,7 +1474,7 @@ input James 4 2 --  あなたは物事を切望し、それらを持っていま
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1487,7 +1487,7 @@ input James 4 3 --  彼らが尋ねるとき、彼らは間違った理由を求
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1500,7 +1500,7 @@ input Proverbs 13 3 --  口を開いている人は誰でも命を守ります�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1513,7 +1513,7 @@ input Proverbs 18 21 --  舌は生と死に対して力を持っています。�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1526,7 +1526,7 @@ input Proverbs 13 24 --  息子を罰することを拒否する人は誰でも�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1539,7 +1539,7 @@ input John 3 3 --  それに応えて、イエスは私があなたに真実を�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1552,7 +1552,7 @@ input John 3 4 --  ニコデモは、どうすれば誰もが生まれ、年を�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1565,7 +1565,7 @@ input John 3 5 --  イエスは答えました私はあなたに真実を言い�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1578,7 +1578,7 @@ input John 3 6 --  肉から生まれるのは肉ですが、霊から生まれ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1591,7 +1591,7 @@ input John 3 7 --  私があなたが新たに生まれなければならない�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1604,7 +1604,7 @@ input John 3 8 --  風はどこにでも吹く。あなたはそれを聞いて�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1617,7 +1617,7 @@ input Ephesians 4 22 --  昔の生き方は、騙されて堕落した老人を�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1630,7 +1630,7 @@ input Ephesians 4 23 --  考え方を一新し、
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1643,7 +1643,7 @@ input Ephesians 4 24 --  真理からの義と神聖さにおいて神のよう�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1656,7 +1656,7 @@ input Ephesians 4 25 --  したがって、あなた方一人一人は嘘を捨�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1669,7 +1669,7 @@ input Ephesians 4 26 --  怒っているときは、罪を犯さないでくだ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1682,7 +1682,7 @@ input Ephesians 4 27 --  そして悪魔に場所を与えないでください�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1695,7 +1695,7 @@ input Proverbs 25 17 --  隣人の家に頻繁に足を運ばないでくださ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1708,7 +1708,7 @@ input Proverbs 25 23 --  北風が雨を降らせるので、偽の舌は怒っ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1721,7 +1721,7 @@ input Colossians 2 8 --  人間に基づいた無駄で欺瞞的な哲学に誰�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1734,7 +1734,7 @@ input Matthew 9 10 --  イエスが家にいる間、多くの収税人や罪人
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1747,7 +1747,7 @@ input Matthew 9 11 --  これを見て、パリサイ人は弟子たちに、な
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1760,7 +1760,7 @@ input Matthew 9 12 --  これを聞いて、イエスは医者を必要とする
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1773,7 +1773,7 @@ input Matthew 9 13 --  彼らはこれが何を意味するのかを学びます
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1786,7 +1786,7 @@ input Philippians 2 5 --  あなたの態度をキリスト・イエスの態度
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1799,7 +1799,7 @@ input Philippians 26 --  神であるにもかかわらず、神と平等であ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1812,7 +1812,7 @@ input Philippians 27 --  しかし、彼は自分自身を空にし、しもべ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1825,7 +1825,7 @@ input Philippians 2 8 --  そして、人間の形で発見されたので、彼
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1838,7 +1838,7 @@ input Philippians 29 --  したがって、神は彼を最高の地位に高め�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1851,7 +1851,7 @@ input Philippians 2 10 --  イエスの名において、すべてのひざが�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1864,7 +1864,7 @@ input Philippians 2 11 --  そして、すべての舌は、イエス・キリ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1877,7 +1877,7 @@ input Deuteronomy 11 18 --  私のこれらの言葉を心と心に刻みます�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1890,7 +1890,7 @@ input Deuteronomy 11 19 --  子供たちに教えて、家に座っていると�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1903,7 +1903,7 @@ input Deuteronomy 11 20 --  あなたの家の玄関口とあなたの門にそ�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1916,7 +1916,7 @@ input Deuteronomy 1 1 21 --  パート1-主が彼らの先祖に与えると誓�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935
 
 
@@ -1929,5 +1929,5 @@ input Deuteronomy 11 21 --  パート2-あなたの日とあなたの子供た�
 click 194 935
 delay 500
 key R
-delay 60000
+delay 10000
 click 194 935

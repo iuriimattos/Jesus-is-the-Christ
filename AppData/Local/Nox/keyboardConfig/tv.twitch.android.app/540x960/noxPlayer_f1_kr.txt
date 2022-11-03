@@ -1,1991 +1,1562 @@
-size 379 674
-click 80 652
 loop 123
-click 355 645
-delay 3550
+click 190 929
+delay 100
+click 190 929
+delay 200
+click 190 929
+delay 300
+click 190 929
+delay 400
+click 190 929
+delay 500
+click 190 929
+delay 600
+click 190 929
+delay 700
+click 190 929
 
 
 
-input Romans 10 9 --- 예수를 주라 입으로 시인하고 또 하나님이 그를
+input Romans 10 9 - 예수를 주라 입으로 시인하고 또 하나님이 그를
 죽은 자, 당신은 구원을 받을 것입니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 9 - 사랑은 진심이어야 합니다. 나쁜 것을 미워하십시오. 좋은 것에 집착하십시오.
 
-input Romans 12 9 --- 사랑은 진심이어야 합니다. 나쁜 것을 미워하십시오. 좋은 것에 집착하십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 10 - 형제 사랑으로 헌신하십시오. 자신보다 다른 사람을 존중하는 것을 선호합니다.
 
-input Romans 12 10 --- 형제 사랑으로 헌신하십시오. 자신보다 다른 사람을 존중하는 것을 선호합니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 11 - 열심을 품지 아니하며 열심을 품고 주를 섬기라
 
-input Romans 12 11 --- 열심을 품지 아니하며 열심을 품고 주를 섬기라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 12 - 소망 중에 기뻐하고 환난 중에 참으며 기도에 힘쓰라.
 
-input Romans 12 12 --- 소망 중에 기뻐하고 환난 중에 참으며 기도에 힘쓰라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 13 - 당신이 가진 것을 성도들의 필요에 따라 나누십시오. 환대를 실천하십시오.
 
-input Romans 12 13 --- 당신이 가진 것을 성도들의 필요에 따라 나누십시오. 환대를 실천하십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 14 - 당신을 박해하는 자들을 축복하십시오. 축복하고 저주하지 마십시오.
 
-input Romans 12 14 --- 당신을 박해하는 자들을 축복하십시오. 축복하고 저주하지 마십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 15 - 기뻐하는 자들과 함께 기뻐하라. 우는 자와 함께 울어라.
 
-input Romans 12 15 --- 기뻐하는 자들과 함께 기뻐하라. 우는 자와 함께 울어라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Romans 12 16 --- 서로 같은 태도를 취하십시오. 자만하지 말고 기꺼이 사람들과 어울리십시오.
+input Romans 12 16 - 서로 같은 태도를 취하십시오. 자만하지 말고 기꺼이 사람들과 어울리십시오.
 낮은 지위의.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 17 - 누구에게도 악을 악으로 갚지 마십시오. 모든 사람의 눈에 옳은 일을 하려고 노력하십시오.
 
-input Romans 12 17 --- 누구에게도 악을 악으로 갚지 마십시오. 모든 사람의 눈에 옳은 일을 하려고 노력하십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 18 - 모든 사람과 평화롭게 살기 위해 가능한 모든 것을하십시오.
 
-input Romans 12 18 --- 모든 사람과 평화롭게 살기 위해 가능한 모든 것을하십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Romans 12 19 --- 사랑하는 자들아, 원수를 갚지 말고 진노를 하나님께 맡기라 기록된바 복수는 나의 ​​것이니라. 그럴 게요
+input Romans 12 19 - 사랑하는 자들아, 원수를 갚지 말고 진노를 하나님께 맡기라 기록된바 복수는 나의 ​​것이니라. 그럴 게요
 갚으라 여호와께서 말씀하시니라
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Romans 12 20 --- 반대로 적이 배가 고프면 음식을 주십시오. 그가 목마르거든 그에게 무엇을 주라
+input Romans 12 20 - 반대로 적이 배가 고프면 음식을 주십시오. 그가 목마르거든 그에게 무엇을 주라
 마시다. 이렇게 하면 살아있는 불씨가 쌓이게 됩니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 12 21 - 악에게 지지 말고 선으로 악을 이기십시오.
 
-input Romans 12 21 --- 악에게 지지 말고 선으로 악을 이기십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Ephesians 4 2 --- 겸손하고 남을 관대하게 대하며 인내하며 상호 이해와 성실을 바탕으로
+input Ephesians 4 2 - 겸손하고 남을 관대하게 대하며 인내하며 상호 이해와 성실을 바탕으로
 애정.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Ephesians 4 26 --- 죄를 짓지 말고 진노가 네게 임하게 하라. 하루가 가기 전에 짜증을 내
+input Ephesians 4 26 - 죄를 짓지 말고 진노가 네게 임하게 하라. 하루가 가기 전에 짜증을 내
 끝.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Ephesians 4 32 --- 도리어 서로 인자하게 하며 이해하며 서로 용서하기를 그리스도께서 하심과 같이 하라
+input Ephesians 4 32 - 도리어 서로 인자하게 하며 이해하며 서로 용서하기를 그리스도께서 하심과 같이 하라
 당신을 용서.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 10 17 - 사실, 믿음은 이 좋은 소식, 즉 그리스도에 관한 좋은 소식을 들을 때 옵니다.
 
-input Romans 10 17 --- 사실, 믿음은 이 좋은 소식, 즉 그리스도에 관한 좋은 소식을 들을 때 옵니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Isaiah 58 5 --- 이것이 내가 택한 금식이냐 하루만 사람이 자기를 낮추고 머리를 숙이는 것이니라
+input Isaiah 58 5 - 이것이 내가 택한 금식이냐 하루만 사람이 자기를 낮추고 머리를 숙이는 것이니라
 갈대와 굵은 베옷과 재 위에 누우시나이까 이것의
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Isaiah 58 6 --- 내가 바라는 금식은 불의의 사슬을 풀고, 멍에를 풀고, 자유케 하는 것이다.
+input Isaiah 58 6 - 내가 바라는 금식은 불의의 사슬을 풀고, 멍에를 풀고, 자유케 하는 것이다.
 압제를 받고 모든 멍에를 꺾으라
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Isaiah 58 7 --- 배고픈 사람들에게 음식을 나눠주고, 궁핍한 사람들을 보호하고, 벌거벗은 옷을 입히는 것입니다.
+input Isaiah 58 7 - 배고픈 사람들에게 음식을 나눠주고, 궁핍한 사람들을 보호하고, 벌거벗은 옷을 입히는 것입니다.
 발견하고 이웃을 돕기를 거부하지 않습니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Isaiah 58 8 --- 그 때에 그의 빛이 새벽 같이 비취고 그의 치료가 신속히 나타날 것이다. 당신의
+input Isaiah 58 8 - 그 때에 그의 빛이 새벽 같이 비취고 그의 치료가 신속히 나타날 것이다. 당신의
 의가 네 앞서 가고 여호와의 영광이
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Isaiah 58 9 --- 그러면 너희가 여호와께 부르짖으리니 그가 응답하시리라. 당신은 도움을 요청하고 그는 말할 것입니다 Here I
+input Isaiah 58 9 - 그러면 너희가 여호와께 부르짖으리니 그가 응답하시리라. 당신은 도움을 요청하고 그는 말할 것입니다 Here I
 오전. 너희 가운데에서 멍에를 제거하면
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Isaiah 58 10 --- 극기로 주린 자를 이롭게 하고 괴로움 받는 자의 사모함을 만족케 하면
+input Isaiah 58 10 - 극기로 주린 자를 이롭게 하고 괴로움 받는 자의 사모함을 만족케 하면
 어둠 속에서 빛이 나고 너의 밤이
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Isaiah 58 11 --- PART 1 - 주님은 당신을 끊임없이 인도하실 것입니다. 메마른 땅에서 네 소원을 이루리라
+input Isaiah 58 11 - PART 1 - 주님은 당신을 끊임없이 인도하실 것입니다. 메마른 땅에서 네 소원을 이루리라
 태양은 당신의 뼈를 강화할 것입니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Isaiah 58 11 - PART 2 - 당신은 물이 넉넉한 정원과 같고 물이 끊기지 않는 샘과 같을 것입니다.
 
-input Isaiah 58 11 --- PART 2 - 당신은 물이 넉넉한 정원과 같고 물이 끊기지 않는 샘과 같을 것입니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input James 1 22 - 말씀을 행하는 자가 되고 듣기만 하여 자기를 속이는 자가 되십시오.
 
-input James 1 22 --- 말씀을 행하는 자가 되고 듣기만 하여 자기를 속이는 자가 되십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input James 1 23 --- 말씀을 듣고도 행하지 아니하는 자는 자기 얼굴을 보는 사람과 같으니라
+input James 1 23 - 말씀을 듣고도 행하지 아니하는 자는 자기 얼굴을 보는 사람과 같으니라
 거울
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input James 1 24 - 그리고 자신의 모습을 본 후 외출을 하고 이내 자신의 모습을 잊는다.
 
-input James 1 24 --- 그리고 자신의 모습을 본 후 외출을 하고 이내 자신의 모습을 잊는다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input James 1 25 --- 그러나 누구든지 자유를 가져오는 온전한 율법을 잘 지켜 행하는 자는
+input James 1 25 - 그러나 누구든지 자유를 가져오는 온전한 율법을 잘 지켜 행하는 자는
 그 율법은 들은 바를 잊지 아니하고
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 13 8 - 서로 사랑하는 것 외에 아무에게든지 아무 빚도 지지 아니하십시오. 이웃을 사랑하는 자는 율법을 다 이루었습니다.
 
-input Romans 13 8 --- 서로 사랑하는 것 외에 아무에게든지 아무 빚도 지지 아니하십시오. 이웃을 사랑하는 자는 율법을 다 이루었습니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Romans 13 9 --- PART 1 - 이 계명을 인하여 간음하지 말라, 살인하지 말라, 살인하지 말라
+input Romans 13 9 - PART 1 - 이 계명을 인하여 간음하지 말라, 살인하지 말라, 살인하지 말라
 도둑질하라 탐내지 말라
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 13 9 - 2부 - 이 계명에 요약된 다른 모든 계명 네 이웃을 네 몸과 같이 사랑하라.
 
-input Romans 13 9 --- 2부 - 이 계명에 요약된 다른 모든 계명 네 이웃을 네 몸과 같이 사랑하라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Romans 13 10 - 사랑은 이웃에게 악을 행하지 않습니다. 그러므로 사랑은 율법의 완성입니다.
 
-input Romans 13 10 --- 사랑은 이웃에게 악을 행하지 않습니다. 그러므로 사랑은 율법의 완성입니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Hebrews 11 1 - 이제 믿음은 바라는 것들의 실상이요 보지 못하는 것들의 증거니라.
 
-input Hebrews 11 1 --- 이제 믿음은 바라는 것들의 실상이요 보지 못하는 것들의 증거니라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Hebrews 11 6 --- 믿음이 없이는 하나님을 기쁘시게 하지 못하나니 누구든지 그에게 가까이 가는 자는 반드시 그가
+input Hebrews 11 6 - 믿음이 없이는 하나님을 기쁘시게 하지 못하나니 누구든지 그에게 가까이 가는 자는 반드시 그가
 존재하고 자기를 찾는 자들에게 상을 주신다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
-
+delay 15000
+click 194 935
 
 
 James 1:27 The religion that God our Father accepts as pure and undefiled is this: to care for the fatherless and widows
 in their difficulties and not to be corrupted by the world.
-input Romans 8 28 --- 하나님이 범사에 자기를 사랑하는 자 곧 부르심을 입은 자들의 유익을 위하여 하시는 줄을 우리가 아노라
+input Romans 8 28 - 하나님이 범사에 자기를 사랑하는 자 곧 부르심을 입은 자들의 유익을 위하여 하시는 줄을 우리가 아노라
 그의 목적에 따라.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input James 2 14 --- 형제들아, 행함이 없으면 믿음이 있다고 하는 것이 무슨 소용이 있겠습니까? 믿음을 가질 수 있는가
+input James 2 14 - 형제들아, 행함이 없으면 믿음이 있다고 하는 것이 무슨 소용이 있겠습니까? 믿음을 가질 수 있는가
 구해?
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input James 2 15 - 형제자매가 일용할 양식과 식량이 필요한 경우
 
-input James 2 15 --- 형제자매가 일용할 양식과 식량이 필요한 경우
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input James 2 16 --- 너희 중에 한 사람이 그에게 이르되 평안히 가라, 몸을 따뜻하게 하고 배불리 먹을 때까지 먹으라 하되
+input James 2 16 - 너희 중에 한 사람이 그에게 이르되 평안히 가라, 몸을 따뜻하게 하고 배불리 먹을 때까지 먹으라 하되
 그에게 아무것도 주지 않고 그것이 무슨 소용이 있겠습니까?
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input James 2 17 - 그러므로 행함이 없는 믿음은 죽은 것입니다.
 
-input James 2 17 --- 그러므로 행함이 없는 믿음은 죽은 것입니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input John 11 - 태초에 말씀이신 이가 계시니라. 그는 하나님과 함께 있었고 그는 하나님이었습니다.
 
-input John 11 --- 태초에 말씀이신 이가 계시니라. 그는 하나님과 함께 있었고 그는 하나님이었습니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input John 1 14 --- 말씀이신 그가 육신이 되어 우리 가운데 사셨습니다. 우리가 그의 영광을 보니 독생자의 영광이로다
+input John 1 14 - 말씀이신 그가 육신이 되어 우리 가운데 사셨습니다. 우리가 그의 영광을 보니 독생자의 영광이로다
 은총과 은혜가 충만하신 아버지께로부터
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 3 16 --- 예수님은 세례를 받으시고 곧 물에서 올라오셨습니다. 그 순간 하늘이 열리고 그는
+input Matthew 3 16 - 예수님은 세례를 받으시고 곧 물에서 올라오셨습니다. 그 순간 하늘이 열리고 그는
 하나님의 영이 새처럼 내려와 내려오는 것을 보았다
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 6 14 - 그들이 서로 잘못을 용서하면 하늘 아버지께서도 용서해 주실 것입니다.
 
-input Matthew 6 14 --- 그들이 서로 잘못을 용서하면 하늘 아버지께서도 용서해 주실 것입니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 6 15 - 그러나 그들이 서로 용서하지 않으면 하늘 아버지께서도 그들의 잘못을 용서하지 않으실 것입니다.
 
-input Matthew 6 15 --- 그러나 그들이 서로 용서하지 않으면 하늘 아버지께서도 그들의 잘못을 용서하지 않으실 것입니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 5 46 - 사랑하는 사람을 사랑한다면 어떤 상을 받게 될까요? 세리들도 그렇게 합니다.
 
-input Matthew 5 46 --- 사랑하는 사람을 사랑한다면 어떤 상을 받게 될까요? 세리들도 그렇게 합니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 5 47 - 그리고 형들에게 인사만 하면 뭘 더 하실 건가요? 심지어 이교도들도 그렇게 합니다.
 
-input Matthew 5 47 --- 그리고 형들에게 인사만 하면 뭘 더 하실 건가요? 심지어 이교도들도 그렇게 합니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 10 37 --- 자기 아버지나 어머니를 나보다 더 사랑하는 사람은 내게 합당하지 않습니다. 자기 아들을 사랑하는 사람이나
+input Matthew 10 37 - 자기 아버지나 어머니를 나보다 더 사랑하는 사람은 내게 합당하지 않습니다. 자기 아들을 사랑하는 사람이나
 나보다 더 많은 딸은 나에게 합당하지 않습니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 10 38 - 그리고 자기 십자가를 지고 나를 좇지 않는 자도 내게 합당하지 아니하니라.
 
-input Matthew 10 38 --- 그리고 자기 십자가를 지고 나를 좇지 않는 자도 내게 합당하지 아니하니라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Proverbs 31 30 - 아름다움은 기만적이며 아름다움은 덧없는 것입니다. 그러나 여호와를 경외하는 여자는 칭찬을 받을 것이다.
 
-input Proverbs 31 30 --- 아름다움은 기만적이며 아름다움은 덧없는 것입니다. 그러나 여호와를 경외하는 여자는 칭찬을 받을 것이다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Mark 9 22 --- 그리고 그는 그를 멸하려고 여러 번 그를 불과 물에 던졌습니다. 하지만 당신이 할 수 있다면
+input Mark 9 22 - 그리고 그는 그를 멸하려고 여러 번 그를 불과 물에 던졌습니다. 하지만 당신이 할 수 있다면
 무엇이든 저희를 불쌍히 여기시고 도와주십시오.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Mark 9 23 - 예수께서 이르시되 네가 믿을 수 있거든 믿는 자에게는 다 할 수 있느니라
 
-input Mark 9 23 --- 예수께서 이르시되 네가 믿을 수 있거든 믿는 자에게는 다 할 수 있느니라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Mark 9 24 - 그리고 즉시 그 소년의 아버지는 눈물을 흘리며 말했습니다. 주님, 저는 믿습니다. 나의 불신앙을 도우소서.
 
-input Mark 9 24 --- 그리고 즉시 그 소년의 아버지는 눈물을 흘리며 말했습니다. 주님, 저는 믿습니다. 나의 불신앙을 도우소서.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Mark 9 28 - 예수님이 집에 들어가신 후 제자들이 은밀히 '어찌하여 우리는 그를 쫓아내지 못하겠느냐'고 물었습니다.
 
-input Mark 9 28 --- 예수님이 집에 들어가신 후 제자들이 은밀히 '어찌하여 우리는 그를 쫓아내지 못하겠느냐'고 물었습니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Mark 9 29 - '이 종은 기도와 금식으로만 나온다'고 대답했다.
 
-input Mark 9 29 --- '이 종은 기도와 금식으로만 나온다'고 대답했다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Luke 11 23 - 나를 위하지 아니하는 자는 나를 반대하는 자요 나와 함께 모으지 아니하는 자는 헤치는 자니라
 
-input Luke 11 23 --- 나를 위하지 아니하는 자는 나를 반대하는 자요 나와 함께 모으지 아니하는 자는 헤치는 자니라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Luke 12 47 --- 주인의 뜻을 알고도 자기 뜻대로 하지도 않고 하지도 않는 종은
+input Luke 12 47 - 주인의 뜻을 알고도 자기 뜻대로 하지도 않고 하지도 않는 종은
 많은 속눈썹을 받습니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
-
+delay 15000
+click 194 935
 
 
 Luke12 48-But he who does not know her and practices things deserving punishment, will receive few lashes. To whom much
 has been given, much will be demanded;
-input 1 Peter 3 15 --- 오히려 마음으로 그리스도를 주로 거룩하게 하십시오. 요청하는 모든 사람에게 항상 응답할 준비가 되어 있습니다.
+input 1 Peter 3 15 - 오히려 마음으로 그리스도를 주로 거룩하게 하십시오. 요청하는 모든 사람에게 항상 응답할 준비가 되어 있습니다.
 희망의 이유
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Job 8 3 - 신은 정의를 왜곡하는가? 전능하신 분이 옳은 것을 왜곡시키십니까?
 
-input Job 8 3 --- 신은 정의를 왜곡하는가? 전능하신 분이 옳은 것을 왜곡시키십니까?
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Job 8 5 - 그러나 너희가 하나님을 구하고 전능자에게 간구하면
 
-input Job 8 5 --- 그러나 너희가 하나님을 구하고 전능자에게 간구하면
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Job 8 6 --- 만일 네가 의롭고 순결하면 그가 지금 네게 은혜를 베풀어 일어나 너를
+input Job 8 6 - 만일 네가 의롭고 순결하면 그가 지금 네게 은혜를 베풀어 일어나 너를
 정의는 당신의 것이기 때문입니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Job 8 8 - 이전 세대에게 물어보고 부모님이 무엇을 배웠는지 확인하십시오.
 
-input Job 8 8 --- 이전 세대에게 물어보고 부모님이 무엇을 배웠는지 확인하십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Job 8 10 --- 그들이 그에게 가르치지 아니하겠느냐, 그에게 말하지 아니하겠느냐? 그들이 말을 하지 아니하겠느냐
+input Job 8 10 - 그들이 그에게 가르치지 아니하겠느냐, 그에게 말하지 아니하겠느냐? 그들이 말을 하지 아니하겠느냐
 이해?
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Job 8 20 --- 확실한 것은 하나님은 의인을 버리지 아니하시고 의인의 손을 강하게 하지
+input Job 8 20 - 확실한 것은 하나님은 의인을 버리지 아니하시고 의인의 손을 강하게 하지
 악을 행하는 자.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
-
+delay 15000
+click 194 935
 
 
 2Chronicles 7 14-If my people, which are called by my name, humble themselves and pray, seek my face, and depart from
 their evil ways, I will hear from heaven,
-input Matthew 5 38 --- 눈에는 눈, 이에는 이로 라는 말을 들었을 것입니다.
+input Matthew 5 38 - 눈에는 눈, 이에는 이로 라는 말을 들었을 것입니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 5 39 --- 그러나 내가 그들에게 이르노니, 악인을 대적하지 말라. 누가 오른쪽 뺨을 다치면
+input Matthew 5 39 - 그러나 내가 그들에게 이르노니, 악인을 대적하지 말라. 누가 오른쪽 뺨을 다치면
 다른 하나도.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 5 40 - 그리고 누군가가 당신을 고소하고 당신의 튜닉을 빼앗고 싶다면, 그들도 망토를 가져가게 하십시오.
 
-input Matthew 5 40 --- 그리고 누군가가 당신을 고소하고 당신의 튜닉을 빼앗고 싶다면, 그들도 망토를 가져가게 하십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 5 41 - 누군가가 당신에게 그와 함께 1마일을 걷도록 강요한다면, 그와 함께 2마일을 가십시오.
 
-input Matthew 5 41 --- 누군가가 당신에게 그와 함께 1마일을 걷도록 강요한다면, 그와 함께 2마일을 가십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 5 42 --- 구하는 자에게 주고 빌리려는 자에게 등을 돌리지 말라
+input Matthew 5 42 - 구하는 자에게 주고 빌리려는 자에게 등을 돌리지 말라
 너.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 5 43 - 이웃을 사랑하고 원수를 미워하라는 말씀을 들었습니다.
 
-input Matthew 5 43 --- 이웃을 사랑하고 원수를 미워하라는 말씀을 들었습니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 5 44 - 그러나 내가 너희에게 이르노니 너희 원수를 사랑하며 너희를 핍박하는 자를 위하여 기도하라
 
-input Matthew 5 44 --- 그러나 내가 너희에게 이르노니 너희 원수를 사랑하며 너희를 핍박하는 자를 위하여 기도하라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 5 45 --- 이는 너희로 하늘에 계신 너희 아버지의 자녀가 되게 하려 함이라. 그가 태양을 비추게 하기 때문이다.
+input Matthew 5 45 - 이는 너희로 하늘에 계신 너희 아버지의 자녀가 되게 하려 함이라. 그가 태양을 비추게 하기 때문이다.
 나쁜 것과 좋은 것 그리고 비를 퍼붓는다
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Job 5 6 - 괴로움은 티끌에서 나지 않고 고난은 땅에서 나지 않기 때문이다.
 
-input Job 5 6 --- 괴로움은 티끌에서 나지 않고 고난은 땅에서 나지 않기 때문이다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Job 5 7 - 그러나 인간은 불꽃이 위로 치솟듯이 반드시 고난을 위해 태어난다.
 
-input Job 5 7 --- 그러나 인간은 불꽃이 위로 치솟듯이 반드시 고난을 위해 태어난다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Job 5 17 - 하나님의 징계를 받는 사람은 얼마나 행복합니까? 그러므로 전능자의 징계를 멸시하지 말라.
 
-input Job 5 17 --- 하나님의 징계를 받는 사람은 얼마나 행복합니까? 그러므로 전능자의 징계를 멸시하지 말라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Job 5 18 - 그가 상처를 입었지만 그는 그것을 다루기 위해 온다. 아프지만 손도 치유됩니다.
 
-input Job 5 18 --- 그가 상처를 입었지만 그는 그것을 다루기 위해 온다. 아프지만 손도 치유됩니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Acts 3 19 - 그런즉 회개하고 하나님께로 돌아와서 너희 죄 없이 함을 받으라
 
-input Acts 3 19 --- 그런즉 회개하고 하나님께로 돌아와서 너희 죄 없이 함을 받으라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Acts 3 20 --- 이는 안식의 때가 주께로부터 이르러 그들에게 작정하신 그리스도를 보내사
+input Acts 3 20 - 이는 안식의 때가 주께로부터 이르러 그들에게 작정하신 그리스도를 보내사
 예수.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 11 12 --- 세례 요한의 때부터 지금까지 천국은 빼앗기고 그
+input Matthew 11 12 - 세례 요한의 때부터 지금까지 천국은 빼앗기고 그
 힘을 사용하는 사람은 그것을 차지합니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Proverbs 15 32 --- 징계를 거절하는 자는 자기를 경멸히 여기거니와 책망을 듣는 자는
+input Proverbs 15 32 - 징계를 거절하는 자는 자기를 경멸히 여기거니와 책망을 듣는 자는
 이해.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Ecclesiastes 2 24 --- 사람에게는 먹고 마시고 일에서 즐거움을 찾는 것보다 더 나은 것이 없습니다. 그리고 나
+input Ecclesiastes 2 24 - 사람에게는 먹고 마시고 일에서 즐거움을 찾는 것보다 더 나은 것이 없습니다. 그리고 나
 이 또한 하나님의 손에서 난 것을 보았다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Psalm 34 19 - 의인은 많은 역경을 통과하나 여호와께서 그를 모든 것에서 건지시느니라.
 
-input Psalm 34 19 --- 의인은 많은 역경을 통과하나 여호와께서 그를 모든 것에서 건지시느니라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Psalm 34 20 - 모든 뼈를 보호하십시오. 그들 중 누구도 부서지지 않을 것입니다.
 
-input Psalm 34 20 --- 모든 뼈를 보호하십시오. 그들 중 누구도 부서지지 않을 것입니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Psalm 34 21 - 불명예는 악인을 죽일 것이다. 의인을 미워하는 자는 심판을 받을 것이다.
 
-input Psalm 34 21 --- 불명예는 악인을 죽일 것이다. 의인을 미워하는 자는 심판을 받을 것이다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 7 21 --- 나더러 주여 주여 하는 자마다 다 천국에 다 들어갈 것이 아니요 다만 행하는 자라야 들어가리라
+input Matthew 7 21 - 나더러 주여 주여 하는 자마다 다 천국에 다 들어갈 것이 아니요 다만 행하는 자라야 들어가리라
 하늘에 계신 내 아버지의 뜻이다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 7 22 --- 그 날에 많은 사람이 내게 말할 것이요 주여 주여 우리가 주의 이름으로 예언하지 아니하오리이까 당신의 이름으로 우리는
+input Matthew 7 22 - 그 날에 많은 사람이 내게 말할 것이요 주여 주여 우리가 주의 이름으로 예언하지 아니하오리이까 당신의 이름으로 우리는
 귀신을 쫓아내도 많은 일을 이루지 못하노라
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 7 23 - 그러면 나는 그들을 결코 알지 못했다고 분명히 말할 것입니다. 악을 행하는 자들아 내게서 물러가라
 
-input Matthew 7 23 --- 그러면 나는 그들을 결코 알지 못했다고 분명히 말할 것입니다. 악을 행하는 자들아 내게서 물러가라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input 1 Corinthians 6 19 --- 너희 몸은 너희 안에 거하시는 성령의 성소인 줄을 알지 못하느냐
+input 1 Corinthians 6 19 - 너희 몸은 너희 안에 거하시는 성령의 성소인 줄을 알지 못하느냐
 하나님께서 너희에게 주신 것이요 너희는 그렇지 아니하니라
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input 1 Corinthians 6 20 - 비싼 값에 사셨습니다. 그러므로 몸으로 하나님께 영광을 돌리십시오.
 
-input 1 Corinthians 6 20 --- 비싼 값에 사셨습니다. 그러므로 몸으로 하나님께 영광을 돌리십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Hebrews 5 7 - PART 1 - 예수님은 지상 생애 동안 기도와 간구를 하셨습니다.
 
-input Hebrews 5 7 --- PART 1 - 예수님은 지상 생애 동안 기도와 간구를 하셨습니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Hebrews 5 7 --- 2부 - 자기를 죽음에서 능히 구원하실 이에게 큰 소리로 눈물로
+input Hebrews 5 7 - 2부 - 자기를 죽음에서 능히 구원하실 이에게 큰 소리로 눈물로
 경건한 제출.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Mark 1 35 --- 아직 어두울 때에 예수께서 일어나 집을 떠나 한적한 곳으로 가시니
+input Mark 1 35 - 아직 어두울 때에 예수께서 일어나 집을 떠나 한적한 곳으로 가시니
 기도했다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Galatians 6:2 - 무거운 짐을 서로 지고 그리스도의 법을 성취하라.
 
-input Galatians 6:2 --- 무거운 짐을 서로 지고 그리스도의 법을 성취하라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
-
+delay 15000
+click 194 935
 
 
 Galatians 6:9 And let us not be weary in doing good, for in due time we shall reap, unless we be discouraged.
-input Hosea 6 1 --- 자, 주님께로 돌아가자. 그분은 우리를 상하게 하셨지만 치유를 가져다주실 것입니다. 그는 우리에게 상처를 주었지만
+input Hosea 6 1 - 자, 주님께로 돌아가자. 그분은 우리를 상하게 하셨지만 치유를 가져다주실 것입니다. 그는 우리에게 상처를 주었지만
 그는 우리의 상처를 치료할 것입니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Hosea 6 2 --- 이틀 후에 그는 우리에게 다시 생명을 주실 것입니다. 제 삼일에 그가 우리를 회복시켜 우리로 살게 하시리니
+input Hosea 6 2 - 이틀 후에 그는 우리에게 다시 생명을 주실 것입니다. 제 삼일에 그가 우리를 회복시켜 우리로 살게 하시리니
 그의 존재.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Hosea 6 3 --- 주님을 알게 하소서. 그를 알기 위해 노력합시다. 해가 뜨면 반드시 나타나리라. 올 것이다
+input Hosea 6 3 - 주님을 알게 하소서. 그를 알기 위해 노력합시다. 해가 뜨면 반드시 나타나리라. 올 것이다
 겨울비처럼 우리에게
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Proverbs 17 3 - 금과 은은 불로 정결케 하되 오직 하나님만이 마음을 정결케 하시느니라.
 
-input Proverbs 17 3 --- 금과 은은 불로 정결케 하되 오직 하나님만이 마음을 정결케 하시느니라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Proverbs 17 4 --- 죄인들은 말과 행동을 하는 자들과 함께 하기를 원합니다. 모든 거짓말쟁이는 기분이 좋다
+input Proverbs 17 4 - 죄인들은 말과 행동을 하는 자들과 함께 하기를 원합니다. 모든 거짓말쟁이는 기분이 좋다
 다른 거짓말 쟁이 회사.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Proverbs 17 5 --- 가난한 사람을 멸시하는 것은 만물을 창조하신 하나님을 모독하는 것입니다. 불행을 기뻐하는 자는
+input Proverbs 17 5 - 가난한 사람을 멸시하는 것은 만물을 창조하신 하나님을 모독하는 것입니다. 불행을 기뻐하는 자는
 다른 사람들은 처벌받지 않을 것입니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Proverbs 17 9 --- 우정은 나쁜 일을 많이 잊게 합니다. 그러나 항상 논쟁하는 사람들은
+input Proverbs 17 9 - 우정은 나쁜 일을 많이 잊게 합니다. 그러나 항상 논쟁하는 사람들은
 가장 친한 친구를 분리합니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input 1 Corinthians 13 4 - 사랑은 인내하고 사랑은 친절합니다. 부러워하지 말고 자랑하지 말고 자랑하지 마십시오.
 
-input 1 Corinthians 13 4 --- 사랑은 인내하고 사랑은 친절합니다. 부러워하지 말고 자랑하지 말고 자랑하지 마십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input 1 Corinthians 13 5 - 학대하지 말고, 이익을 구하지 말고, 쉽게 화내지 말고, 원한을 품지 마십시오.
 
-input 1 Corinthians 13 5 --- 학대하지 말고, 이익을 구하지 말고, 쉽게 화내지 말고, 원한을 품지 마십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input 1 Corinthians 13 6 - 사랑은 불의를 기뻐하지 않고 진리를 기뻐합니다.
 
-input 1 Corinthians 13 6 --- 사랑은 불의를 기뻐하지 않고 진리를 기뻐합니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input 1 Corinthians 13 7 - 모든 것이 고통받고, 모든 것이 믿고, 모든 것이 기다리고, 모든 것이 지원됩니다.
 
-input 1 Corinthians 13 7 --- 모든 것이 고통받고, 모든 것이 믿고, 모든 것이 기다리고, 모든 것이 지원됩니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 22 37 --- 예수께서 대답하시되 네 마음을 다하고 목숨을 다하고 목숨을 다하여 주 너의 하나님을 사랑하라
+input Matthew 22 37 - 예수께서 대답하시되 네 마음을 다하고 목숨을 다하고 목숨을 다하여 주 너의 하나님을 사랑하라
 정신.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 22 38 - 이것이 가장 크고 첫째 되는 계명입니다.
 
-input Matthew 22 38 --- 이것이 가장 크고 첫째 되는 계명입니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 22 39 - 둘째는 그와 같으니 네 이웃을 네 몸과 같이 사랑하라
 
-input Matthew 22 39 --- 둘째는 그와 같으니 네 이웃을 네 몸과 같이 사랑하라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 22 40 - 이 두 계명에 모든 율법과 선지자가 달려 있습니다.
 
-input Matthew 22 40 --- 이 두 계명에 모든 율법과 선지자가 달려 있습니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input John 14 12 --- 내가 진실로 너희에게 이르노니 나를 믿는 자는 내가 한 일을 그도 하실 것이요 심지어 할거야
+input John 14 12 - 내가 진실로 너희에게 이르노니 나를 믿는 자는 내가 한 일을 그도 하실 것이요 심지어 할거야
 나는 이것들보다 더 큰 것들을
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input John 14 13 - 또 너희가 내 이름으로 구하는 것을 내가 행하리니 이는 아버지로 하여금 아들로 말미암아 영광을 받으시게 하려 함이라
 
-input John 14 13 --- 또 너희가 내 이름으로 구하는 것을 내가 행하리니 이는 아버지로 하여금 아들로 말미암아 영광을 받으시게 하려 함이라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input James 4 2 --- 당신은 물건을 탐내지만 가지고 있지 않습니다. 그들은 죽이고 부러워하지만 원하는 것을 얻을 수 없습니다. 너
+input James 4 2 - 당신은 물건을 탐내지만 가지고 있지 않습니다. 그들은 죽이고 부러워하지만 원하는 것을 얻을 수 없습니다. 너
 싸우고 전쟁을 일으키기 위해 산다. 그것은 가지고 있지 않습니다,
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input James 4 3 --- 그들이 요청할 때, 그들은 잘못된 이유를 요구하기 때문에 그들의 비용에 지출을 받지 않습니다.
+input James 4 3 - 그들이 요청할 때, 그들은 잘못된 이유를 요구하기 때문에 그들의 비용에 지출을 받지 않습니다.
 즐거움.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Proverbs 13 3 - 입을 지키는 자는 목숨을 지키지만 말을 너무 많이 하는 자는 자기를 망친다.
 
-input Proverbs 13 3 --- 입을 지키는 자는 목숨을 지키지만 말을 너무 많이 하는 자는 자기를 망친다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Proverbs 18 21 - 혀는 삶과 죽음을 다스리는 권세가 있습니다. 그것을 사용하기를 좋아하는 사람들은 그 열매를 먹을 것입니다.
 
-input Proverbs 18 21 --- 혀는 삶과 죽음을 다스리는 권세가 있습니다. 그것을 사용하기를 좋아하는 사람들은 그 열매를 먹을 것입니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Proverbs 13 24 --- 자기 아들을 처벌하기를 거부하는 자는 그를 사랑하지 않는다. 그를 사랑하는 사람은 주저하지 않는다
+input Proverbs 13 24 - 자기 아들을 처벌하기를 거부하는 자는 그를 사랑하지 않는다. 그를 사랑하는 사람은 주저하지 않는다
 그를 징계하십시오.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input John 3 3 --- 이에 대해 예수께서는 내가 진실로 너희에게 이르노니 사람이 나지 아니하면 하나님의 나라를 볼 수 없다고 선언하셨다
+input John 3 3 - 이에 대해 예수께서는 내가 진실로 너희에게 이르노니 사람이 나지 아니하면 하나님의 나라를 볼 수 없다고 선언하셨다
 다시.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input John 3 4 --- 니고데모가 물었습니다. 사람이 늙어서 어떻게 날 수 있겠습니까? 물론 어머니의 뱃속에 들어갈 수는 없다.
+input John 3 4 - 니고데모가 물었습니다. 사람이 늙어서 어떻게 날 수 있겠습니까? 물론 어머니의 뱃속에 들어갈 수는 없다.
 두 번째로 다시 태어나다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input John 3 5 --- 예수께서 대답하시되 내가 진실로 너희에게 이르노니 물에서 나지 아니하고는 하나님 나라에 들어갈 자가 없느니라
+input John 3 5 - 예수께서 대답하시되 내가 진실로 너희에게 이르노니 물에서 나지 아니하고는 하나님 나라에 들어갈 자가 없느니라
 정신.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input John 3 6 - 육으로 난 것은 육이요 영으로 난 것은 영입니다.
 
-input John 3 6 --- 육으로 난 것은 육이요 영으로 난 것은 영입니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input John 3 7 - 내가 당신이 거듭나야 한다고 말한 것에 놀라지 마십시오.
 
-input John 3 7 --- 내가 당신이 거듭나야 한다고 말한 것에 놀라지 마십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input John 3 8 --- 바람은 어디든지 분다. 당신은 그것을 들어도 그것이 어디서 왔는지, 어디에서 왔는지 알 수 없습니다.
+input John 3 8 - 바람은 어디든지 분다. 당신은 그것을 들어도 그것이 어디서 왔는지, 어디에서 왔는지 알 수 없습니다.
 가고있다. 성령으로 난 모든 사람도 마찬가지입니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Ephesians 4 22 --- 너희는 옛 생활 방식으로 교훈을 받았으니 속임수에 패하는 옛 사람을 벗어 버리라
+input Ephesians 4 22 - 너희는 옛 생활 방식으로 교훈을 받았으니 속임수에 패하는 옛 사람을 벗어 버리라
 욕망,
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Ephesians 4 23 - 사고 방식을 새롭게 하고
 
-input Ephesians 4 23 --- 사고 방식을 새롭게 하고
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Ephesians 4 24 - 의와 진리 안에서 하나님과 같이 되도록 지으심을 받은 새 사람을 입으라
 
-input Ephesians 4 24 --- 의와 진리 안에서 하나님과 같이 되도록 지으심을 받은 새 사람을 입으라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Ephesians 4 25 --- 그런즉 너희가 각각 거짓을 버리고 너희 이웃에게 참된 것을 말하라 이는 우리가
+input Ephesians 4 25 - 그런즉 너희가 각각 거짓을 버리고 너희 이웃에게 참된 것을 말하라 이는 우리가
 모두 같은 몸의 구성원입니다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Ephesians 4 26 - 화가 났을 때 죄를 짓지 마십시오. 해가 지기 전에 분노를 가라앉히고,
 
-input Ephesians 4 26 --- 화가 났을 때 죄를 짓지 마십시오. 해가 지기 전에 분노를 가라앉히고,
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Ephesians 4 27 - 그리고 마귀에게 자리를 양보하지 마십시오.
 
-input Ephesians 4 27 --- 그리고 마귀에게 자리를 양보하지 마십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Proverbs 25 17 --- 이웃집에 자주 방문하여 그가 당신에게 질려 시작하지 않도록 하십시오.
+input Proverbs 25 17 - 이웃집에 자주 방문하여 그가 당신에게 질려 시작하지 않도록 하십시오.
 당신을 싫어.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Proverbs 25 23 - 북풍이 비를 내리듯 가짜 혀가 화난 표정을 짓는다.
 
-input Proverbs 25 23 --- 북풍이 비를 내리듯 가짜 혀가 화난 표정을 짓는다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Colossians 2 8 --- 누구든지 너희를 헛되고 속이는 철학에 종노릇하지 않도록 주의하라 이는
+input Colossians 2 8 - 누구든지 너희를 헛되고 속이는 철학에 종노릇하지 않도록 주의하라 이는
 전통과 원칙
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 9 10 - 예수께서 집에 계실 때에 많은 세리와 죄인들이 그와 그의 제자들과 함께 먹으러 가니라.
 
-input Matthew 9 10 --- 예수께서 집에 계실 때에 많은 세리와 죄인들이 그와 그의 제자들과 함께 먹으러 가니라.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 9 11 --- 바리새인들이 이것을 보고 제자들에게 물으니 어찌하여 너희 선생은 세리와 함께 먹느냐
+input Matthew 9 11 - 바리새인들이 이것을 보고 제자들에게 물으니 어찌하여 너희 선생은 세리와 함께 먹느냐
 죄인?
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Matthew 9 12 - 예수님은 이것을 들으시고 건강한 자에게 의사가 필요하지 않고 병든 자에게 필요하다고 말씀하셨습니다.
 
-input Matthew 9 12 --- 예수님은 이것을 들으시고 건강한 자에게 의사가 필요하지 않고 병든 자에게 필요하다고 말씀하셨습니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Matthew 9 13 --- 그들은 이것이 무엇을 의미하는지 배울 것입니다. 나는 희생이 아니라 자비를 원합니다. 내가 부르러 온 것이 아니라
+input Matthew 9 13 - 그들은 이것이 무엇을 의미하는지 배울 것입니다. 나는 희생이 아니라 자비를 원합니다. 내가 부르러 온 것이 아니라
 의인이지만 죄인이다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Philippians 2 5 - 여러분의 태도를 그리스도 예수의 태도와 동일하게 하십시오.
 
-input Philippians 2 5 --- 여러분의 태도를 그리스도 예수의 태도와 동일하게 하십시오.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Philippians 26 --- 신이면서도 신과 동등됨을 취해야 한다고 생각하지 않은 자
+input Philippians 26 - 신이면서도 신과 동등됨을 취해야 한다고 생각하지 않은 자
 에게;
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Philippians 27 - 그러나 그는 자기를 비워 종이 되어 사람들과 같이 되셨습니다.
 
-input Philippians 27 --- 그러나 그는 자기를 비워 종이 되어 사람들과 같이 되셨습니다.
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Philippians 2 8 --- 그가 사람의 모양으로 나타나사 자기를 낮추시고 죽기까지 복종하셨으니 그가 죽기까지 복종하셨으니
+input Philippians 2 8 - 그가 사람의 모양으로 나타나사 자기를 낮추시고 죽기까지 복종하셨으니 그가 죽기까지 복종하셨으니
 십자가.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Philippians 29 - 그러므로 하나님이 그를 지극히 높여 모든 이름 위에 뛰어난 이름을 주사
 
-input Philippians 29 --- 그러므로 하나님이 그를 지극히 높여 모든 이름 위에 뛰어난 이름을 주사
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Philippians 2 10 - 하늘에 있는 자들과 땅에 있는 자들과 땅 아래에 있는 자들로 모든 무릎을 예수의 이름에 꿇게 하시고
 
-input Philippians 2 10 --- 하늘에 있는 자들과 땅에 있는 자들과 땅 아래에 있는 자들로 모든 무릎을 예수의 이름에 꿇게 하시고
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Philippians 2 11 - 모든 입으로 예수 그리스도를 주라 시인하여 하나님 아버지께 영광을 돌리느니라
 
-input Philippians 2 11 --- 모든 입으로 예수 그리스도를 주라 시인하여 하나님 아버지께 영광을 돌리느니라
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Deuteronomy 11 18 --- 내 이 말을 마음과 생각에 새기십시오. 손에 상징으로 묶고 고정하십시오.
+input Deuteronomy 11 18 - 내 이 말을 마음과 생각에 새기십시오. 손에 상징으로 묶고 고정하십시오.
 당신의 이마에.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Deuteronomy 11 19 --- 자녀에게 가르치고 집에 앉아 있을 때나
+input Deuteronomy 11 19 - 자녀에게 가르치고 집에 앉아 있을 때나
 길을 걷고 있다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Deuteronomy 11 20 - 너희 집의 문설주와 너희 대문과
 
-input Deuteronomy 11 20 --- 너희 집의 문설주와 너희 대문과
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
+input Deuteronomy 1 1 21 - PART 1 - 여호와께서 그들의 조상들에게 맹세하신 땅에서
 
-input Deuteronomy 1 1 21 --- PART 1 - 여호와께서 그들의 조상들에게 맹세하신 땅에서
 
-
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935
 
 
-
-input Deuteronomy 11 21 --- PART 2 - 네 날과 네 자녀의 날이 많되 그 날만큼 많아지라
+input Deuteronomy 11 21 - PART 2 - 네 날과 네 자녀의 날이 많되 그 날만큼 많아지라
 하늘은 땅 위에 있다.
 
 
-delay 4550
-click 355 381
-delay 4550
+click 194 935
+delay 500
 key R
-delay 3000
-click 355 645
-delay 3550
+delay 15000
+click 194 935

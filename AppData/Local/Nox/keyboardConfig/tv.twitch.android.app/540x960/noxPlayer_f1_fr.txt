@@ -1,7 +1,19 @@
-size 379 674
-click 80 652
 loop 123
-click 355 645
+click 190 929
+delay 100
+click 190 929
+delay 200
+click 190 929
+delay 300
+click 190 929
+delay 400
+click 190 929
+delay 500
+click 190 929
+delay 600
+click 190 929
+delay 700
+click 190 929
 
 
 
@@ -9,486 +21,378 @@ input Romans 10 9- Si tu confesses de ta bouche que Jésus est Seigneur et crois
 les morts, tu seras sauvé.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 9- L'amour doit être sincère. Détestez ce qui est mauvais ; s'accrocher à ce qui est bon.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 10- Consacrez-vous à l'amour fraternel. Vous préférez honorer les autres plus que vous-même.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 11- Ne manquez jamais de zèle, soyez fervents d'esprit, servez le Seigneur.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 12- Réjouissez-vous dans l'espérance, soyez patient dans les tribulations, persévérez dans la prière.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 13- Partagez ce que vous avez avec les saints dans leurs besoins. Pratiquez l'hospitalité.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 14- Bénis ceux qui te persécutent ; bénissez et ne les maudissez pas.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 15- Réjouissez-vous avec ceux qui se réjouissent; pleure avec ceux qui pleurent.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 16- Avoir la même attitude les uns envers les autres. Ne soyez pas fier, mais soyez prêt à vous associer aux gens
 de statut inférieur.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 17- Ne rendez à personne le mal pour le mal. Essayez de faire ce qui est juste aux yeux de tout le monde.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 18- Faire tout son possible pour vivre en paix avec tout le monde.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 19- Bien-aimés, ne cherche jamais à te venger, mais laisse la colère à Dieu, car il est écrit que la vengeance est à moi ; je le ferai
 rembourser, dit le Seigneur.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 20- Au contraire Si votre ennemi a faim, donnez-lui à manger ; s'il a soif, donnez-lui quelque chose à
 boire. En faisant cela, vous accumulerez des braises vives
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 12 21- Ne vous laissez pas vaincre par le mal, mais surmontez le mal par le bien.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ephesians 4 2- Être humble, doux avec les autres et patient, sur la base d'une compréhension mutuelle et sincère
 affection.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ephesians 4 26- Ne péchez pas, et laissez la colère vous envahir. Avant la fin de la journée, faites monter votre irritation
 finir.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ephesians 4 32- Au lieu de cela, soyez bons et compréhensifs les uns envers les autres, en vous pardonnant les uns les autres, tout comme le Christ aussi
 vous a pardonné.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 10 17- En fait, la foi vient en entendant ce message de bonne nouvelle - la bonne nouvelle du Christ.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Isaiah 58 5- Est-ce le jeûne que j'ai choisi, qu'un jour un homme s'humiliera, inclinera la tête comme un
 roseau, et s'allonger sur un sac et de la cendre? C'EST
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Isaiah 58 6- Le jeûne que je désire est de desserrer les chaînes de l'injustice, de desserrer les cordes du joug, de libérer les
 opprimé, et brise tout joug
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Isaiah 58 7- C'est partager sa nourriture avec les affamés, abriter les pauvres démunis, habiller les nus que tu as
 trouvé, et ne pas refuser d'aider son voisin
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Isaiah 58 8- Et alors sa lumière éclatera comme l'aurore, et sa guérison apparaîtra rapidement ; ton
 la justice marchera devant toi, et la gloire du Seigneur sera
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Isaiah 58 9- Alors vous crierez au Seigneur, et il répondra; tu crieras à l'aide, et il dira Ici je
 un m. Si vous éliminez le joug du milieu de vous
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Isaiah 58 10- Si, par l'abnégation, tu profites aux affamés et satisfaits le désir ardent des affligés, alors ton
 la lumière se lèvera dans les ténèbres, et ta nuit
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Isaiah 58 11- PARTIE 1 - Le Seigneur vous guidera constamment ; il satisfera vos envies dans une terre desséchée par la
 soleil et renforcera vos os.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Isaiah 58 11- PARTIE 2 - Vous serez comme un jardin bien arrosé, comme une fontaine dont les eaux ne manquent jamais.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 1 22- Soyez des acteurs de la parole, pas seulement des auditeurs, en vous trompant.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 1 23- Celui qui entend la parole, mais ne la met pas en pratique, est comme celui qui regarde son visage dans un
 miroir
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 1 24- et, après s'être regardé, sort et oublie bientôt son apparence.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 1 25- Mais celui qui observe attentivement la loi parfaite qui apporte la liberté, et persévère dans la pratique de
 cette loi, n'oubliant pas ce qu'il a entendu mais
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 13 8- Ne devez à personne que de l'amour les uns pour les autres, car celui qui aime son prochain a accompli la loi.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 13 9- PARTIE 1 - Pour ces commandements tu ne commettras pas d'adultère, tu ne tueras pas, tu ne
 vole, tu ne convoiteras pas,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 13 9- PARTIE 2 - et tout autre commandement, le tout résumé dans ce précepte Aimez votre prochain comme vous-même.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Romans 13 10- L'amour ne fait pas de mal contre son prochain. Par conséquent, l'amour est l'accomplissement de la loi.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Hebrews 11 1- Or la foi est l'assurance de ce que nous espérons, et la preuve des choses que nous ne voyons pas.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Hebrews 11 6- Sans la foi, il est impossible de plaire à Dieu, car celui qui l'approche doit croire qu'il
 existe et qu'il récompense ceux qui le cherchent.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 James 1:27 The religion that God our Father accepts as pure and undefiled is this: to care for the fatherless and widows
@@ -497,294 +401,228 @@ input Romans 8 28- Nous savons que Dieu travaille en toutes choses pour le bien 
 selon son but.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 2 14- A quoi bon, mes frères, que quelqu'un dise qu'il a la foi, s'il n'a pas d'œuvres ? La foi peut-elle
 vous sauve?
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 2 15- Si un frère ou une sœur a besoin de vêtements et de nourriture au quotidien
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 2 16- et l'un de vous lui dit Va en paix, réchauffe-toi et nourris-toi jusqu'à ce que tu sois rassasié, mais
 sans rien lui donner, à quoi bon ?
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 2 17- Ainsi la foi seule, si elle n'est pas accompagnée d'œuvres, est morte.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 11- Au commencement était celui qui est la Parole. Il était avec Dieu, et il était Dieu.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 1 14- Celui qui est le Verbe s'est fait chair et a vécu parmi nous. Nous avons vu sa gloire, la gloire du Fils unique
 venant du Père, plein de grâce et
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 3 16- Dès que Jésus fut baptisé, il sortit de l'eau. A ce moment, les cieux s'ouvrirent et il
 vu l'Esprit de Dieu descendre comme un oiseau et atterrir
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 6 14- Car s'ils se pardonnent les fautes les uns aux autres, le Père céleste leur pardonnera aussi.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 6 15- Mais s'ils ne se pardonnent pas, le Père céleste ne pardonnera pas leurs fautes.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 5 46- Si vous aimez ceux qui vous aiment, quelle récompense recevrez-vous ? Même les publicains le font.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 5 47- Et si vous ne saluez que vos frères, que ferez-vous de plus ? Même les païens font ça.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 10 37- Celui qui aime son père ou sa mère plus que moi n'est pas digne de moi ; celui qui aime son fils ou
 fille plus que moi n'est pas digne de moi;
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 10 38- Et quiconque ne prend pas sa croix et ne me suit pas n'est pas digne de moi.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 31 30- La beauté est trompeuse, et la beauté est éphémère ; mais la femme qui craint le Seigneur sera louée.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Mark 9 22- Et il l'a jeté plusieurs fois dans le feu et dans l'eau, pour le détruire; mais si tu peux faire
 n'importe quoi, aie pitié de nous et aide-nous.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Mark 9 23- Et Jésus lui dit Si tu peux croire, tout est possible à celui qui croit.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Mark 9 24- Et aussitôt le père du garçon, pleurant de larmes, dit je crois, Seigneur. Aide mon incrédulité.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Mark 9 28- Après que Jésus soit entré dans la maison, ses disciples lui ont demandé en privé 'Pourquoi ne pouvons-nous pas le chasser ?'
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Mark 9 29- Il a répondu 'Cette espèce ne sort que par la prière et le jeûne'.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Luke 11 23- Celui qui n'est pas pour moi est contre moi, celui qui ne s'assemble pas avec moi disperse.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Luke 12 47- Ce serviteur qui connaît la volonté de son maître et ne prépare pas ce qu'il désire, ni ne le fait, le fera
 recevoir de nombreux cils.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 Luke12 48-But he who does not know her and practices things deserving punishment, will receive few lashes. To whom much
@@ -793,95 +631,74 @@ input 1 Peter 3 15- Au contraire, sanctifiez Christ comme Seigneur dans votre c�
 la raison de l'espoir
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 8 3- Dieu déforme-t-il la justice ? Le Tout-Puissant déforme-t-il ce qui est juste ?
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 8 5- Mais si vous cherchez Dieu et implorez le Tout-Puissant,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 8 6- si vous êtes juste et pur, il se lèvera maintenant en votre faveur et vous ramènera à l'endroit qui
 car la justice t'appartient.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 8 8- Demandez aux générations précédentes et voyez ce que vos parents ont appris,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 8 10- Ne l'instruiront-ils pas, ne lui parleront-ils pas ? Ne diront-ils pas les mots du
 entente?
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 8 20- Car ce qui est certain, c'est que Dieu ne rejette pas les justes, et ne fortifie pas les mains des
 ceux qui font le mal.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 2Chronicles 7 14-If my people, which are called by my name, humble themselves and pray, seek my face, and depart from
@@ -889,390 +706,303 @@ their evil ways, I will hear from heaven,
 input Matthew 5 38- Vous avez entendu ce qui a été dit il pour œil et dent pour dent.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 5 39- Mais je leur dis : Ne résistez pas aux méchants. Si quelqu'un vous fait mal à la joue droite, offrez-lui
 l'autre aussi.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 5 40- Et si quelqu'un veut te poursuivre et prendre ta tunique, qu'il prenne aussi la cape.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 5 41- Si quelqu'un vous oblige à marcher un kilomètre avec lui, allez avec lui à deux.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 5 42- Donnez à ceux qui vous le demandent, et ne tournez pas le dos à ceux qui veulent emprunter quelque chose à
 tu.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 5 43- Vous avez entendu ce qui a été dit Aimez votre prochain et détestez votre ennemi.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 5 44- Mais je vous dis Aimez vos ennemis et priez pour ceux qui vous persécutent,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 5 45- afin que vous deveniez enfants de votre Père qui est aux cieux. Parce qu'il fait briller son soleil sur le
 mauvais et le bon et verse la pluie sur
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 5 6- Car la souffrance ne jaillit pas de la poussière, et les difficultés ne naissent pas du sol.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 5 7- Cependant, l'homme est né pour les difficultés aussi sûrement que des étincelles volent vers le haut.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 5 17- Comme est heureux l'homme que Dieu corrige ; par conséquent, ne méprisez pas la discipline du Tout-Puissant.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Job 5 18- Car il blesse, mais il vient s'en occuper ; ça fait mal, mais tes mains guérissent aussi.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Acts 3 19- Repentez-vous donc et tournez-vous vers Dieu, afin que vos péchés soient effacés,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Acts 3 20- que des temps de repos viennent du Seigneur, et qu'il envoie le Christ, qui leur a été assigné,
 Jésus.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 11 12- Depuis l'époque de Jean-Baptiste jusqu'à maintenant, le royaume des cieux est pris de force, et ceux
 qui use de force s'en empare.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 15 32- Celui qui refuse la discipline se moque de lui-même, mais celui qui entend la réprimande obtient
 entente.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ecclesiastes 2 24- Pour l'homme, il n'y a rien de mieux que de manger, de boire et de trouver du plaisir dans son travail. Et moi
 vu que cela aussi vient de la main de Dieu.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Psalm 34 19- Le juste traverse beaucoup d'adversités, mais le Seigneur le délivre de tout ;
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Psalm 34 20- protégez tous vos os ; aucun d'eux ne sera brisé.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Psalm 34 21- La disgrâce tuera les méchants ; ceux qui haïssent les justes seront condamnés.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 7 21- Ce ne sont pas tous ceux qui me disent Seigneur, Seigneur, qui entreront dans le royaume des cieux, mais seulement celui qui fait le
 volonté de mon Père qui est aux cieux.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 7 22- Beaucoup me diront en ce jour-là Seigneur, Seigneur, ne prophétisons-nous pas en ton nom ? En ton nom, nous ne
 chasser les démons et nous n'en accomplissons pas beaucoup
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 7 23- Alors je leur dirai clairement que je ne les ai jamais connus. Éloignez-vous de moi, vous qui faites le mal.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input 1 Corinthians 6 19- Ne sais-tu pas que ton corps est le sanctuaire du Saint-Esprit qui habite en toi, qui
 vous a été donné par Dieu, et que vous n'êtes pas
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input 1 Corinthians 6 20- Vous avez été acheté à un prix élevé. Par conséquent, glorifiez Dieu avec votre corps.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Hebrews 5 7- PARTIE 1 - Pendant ses jours de vie sur terre, Jésus a offert des prières et des supplications,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Hebrews 5 7- PARTIE 2 - bruyamment et avec des larmes, à celui qui a pu le sauver de la mort, étant entendu à cause de son
 soumission respectueuse.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Mark 1 35- A l'aube, alors qu'il faisait encore nuit, Jésus se leva, quitta la maison et se rendit dans un endroit désert, où il
 prié.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Galatians 6:2- Portez les lourds fardeaux les uns des autres et accomplissez ainsi la loi du Christ.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 Galatians 6:9 And let us not be weary in doing good, for in due time we shall reap, unless we be discouraged.
@@ -1280,711 +1010,553 @@ input Hosea 6 1- Viens, retournons au Seigneur. Il nous a brisés, mais Il nous 
 il guérira nos blessures.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Hosea 6 2- Au bout de deux jours il nous redonnera la vie ; le troisième jour, il nous restaurera, afin que nous vivions dans
 sa présence.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Hosea 6 3- Fais-nous connaître le Seigneur; efforçons-nous de le connaître. Aussi sûr que le soleil se lèvera, il apparaîtra ; viendra
 à nous comme les pluies d'hiver, comme la
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 17 3- L'or et l'argent sont purifiés par le feu, mais Dieu seul purifie les cœurs.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 17 4- Les pécheurs recherchent la compagnie de ceux qui parlent et font ce qu'ils font ; chaque menteur se sent bien dans le
 compagnie d'autres menteurs.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 17 5- Mépriser les pauvres, c'est insulter Dieu, qui a créé tous les hommes. Celui qui se réjouit du malheur de
 d'autres ne resteront pas impunis.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 17 9- L'amitié fait oublier beaucoup de mauvaises choses. Mais ceux qui se disputent toujours sont capables de
 séparer les meilleurs amis.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input 1 Corinthians 13 4- L'amour est patient, l'amour est aimable. N'envie pas, ne te vante pas, ne sois pas fier.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input 1 Corinthians 13 5- Ne maltraitez pas, ne cherchez pas vos intérêts, ne vous fâchez pas facilement, ne gardez pas rancune.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input 1 Corinthians 13 6- L'amour ne se réjouit pas de l'injustice, mais se réjouit de la vérité.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input 1 Corinthians 13 7- Tout souffre, tout croit, tout attend, tout supporte.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 22 37- Jésus a répondu Aimez le Seigneur votre Dieu de tout votre cœur, de toute votre âme et de tout votre
 dérange.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 22 38- Ceci est le premier et le plus grand commandement.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 22 39- Et le second est comme lui Aimez votre prochain comme vous-même.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 22 40- De ces deux commandements dépendent toute la Loi et les Prophètes.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 14 12- Je vous dis la vérité. Celui qui croit en moi fera aussi les oeuvres que j'ai faites. ça ira même
 des choses plus grandes que celles-ci, parce que je suis
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 14 13- Et je ferai ce que vous demanderez en mon nom, afin que le Père soit glorifié dans le Fils.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 4 2- Vous convoitez les choses, et ne les avez pas ; ils tuent et envient, mais ils ne peuvent pas obtenir ce qu'ils veulent. Tu
 vivre pour combattre et faire des guerres. Cela n'a pas,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input James 4 3- Quand ils demandent, ils ne reçoivent pas, parce qu'ils demandent pour de mauvaises raisons, de dépenser pour leur
 les plaisirs.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 13 3- Celui qui garde sa bouche garde sa vie, mais celui qui parle trop finit par se ruiner.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 18 21- La langue a pouvoir sur la vie et la mort ; ceux qui aiment l'utiliser mangeront de ses fruits.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 13 24- Celui qui refuse de punir son fils ne l'aime pas ; celui qui l'aime n'hésite pas à
 le discipliner.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 3 3- En réponse, Jésus a déclaré que je vous dis la vérité Personne ne peut voir le Royaume de Dieu s'il n'est pas né
 de nouveau.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 3 4- Nicodème a demandé Comment peut-on naître, étant vieux ? Bien sûr, vous ne pouvez pas entrer dans le ventre de votre mère un
 deuxième fois et renaître.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 3 5- Jésus répondit je vous dis la vérité Nul ne peut entrer dans le Royaume de Dieu s'il n'est né d'eau et
 l'esprit.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 3 6- Ce qui est né de la chair est chair, mais ce qui est né de l'Esprit est esprit.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 3 7- Ne sois pas surpris que j'aie dit que tu dois naître de nouveau.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input John 3 8- Le vent souffle où il veut. Vous l'écoutez, mais vous ne pouvez pas dire d'où il vient ni d'où il
 en train d'aller. Il en est ainsi de tous ceux qui sont nés de l'Esprit.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ephesians 4 22- Quant à l'ancien mode de vie, on vous a appris à repousser le vieil homme, qui est corrompu par la tromperie
 désirs,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ephesians 4 23- se renouveler dans sa façon de penser et
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ephesians 4 24- revêtir l'homme nouveau, créé pour être comme Dieu en justice et en sainteté à partir de la vérité.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ephesians 4 25- Par conséquent, chacun de vous doit abandonner le mensonge et dire la vérité à son prochain, car nous
 sont tous membres du même corps.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ephesians 4 26- Lorsque vous êtes en colère, ne péchez pas. Apaisez votre colère avant que le soleil ne se couche,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Ephesians 4 27- et ne cédez pas au diable.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 25 17- Ne fais pas de visites fréquentes chez ton voisin pour qu'il ne se lasse pas de toi et commence
 de te détester.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Proverbs 25 23- Comme le vent du nord apporte la pluie, la fausse langue apporte le regard en colère.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Colossians 2 8- Faites attention à ce que personne ne vous asservit à des philosophies vaines et trompeuses, qui sont basées sur l'humain
 traditions et principes
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 9 10- Pendant que Jésus était à la maison, de nombreux collecteurs d'impôts et pécheurs sont allés manger avec lui et ses disciples.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 9 11- Voyant cela, les Pharisiens demandèrent à ses disciples Pourquoi ton maître mange-t-il avec les collecteurs d'impôts et
 pécheurs ?
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 9 12- En entendant cela, Jésus dit Ce ne sont pas les bien portants qui ont besoin d'un médecin, mais les malades.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Matthew 9 13- Ils apprendront ce que cela signifie. Je désire la miséricorde, pas les sacrifices. Car je suis venu ne pas appeler le
 justes, mais pécheurs.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Philippians 2 5- Que ton attitude soit la même que celle du Christ Jésus,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Philippians 26- qui, bien qu'étant Dieu, ne considérait pas qu'être égal à Dieu était quelque chose auquel il devait s'accrocher
 à;
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Philippians 27- mais il s'est vidé, devenant serviteur, devenant comme les hommes.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Philippians 2 8- Et étant trouvé sous forme humaine, il s'est humilié et a été obéissant jusqu'à la mort, et la mort sur un
 traverser.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Philippians 29- C'est pourquoi Dieu l'a élevé à la position la plus élevée et lui a donné le nom qui est au-dessus de tout nom,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Philippians 2 10- Qu'au nom de Jésus tout genou fléchisse, dans le ciel, sur la terre et sous la terre,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Philippians 2 11- Et toute langue confesse que Jésus-Christ est Seigneur, à la gloire de Dieu le Père.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Deuteronomy 11 18- Gravez ces mots dans mon cœur et dans votre esprit ; attachez-les comme des symboles sur vos mains et attachez
 les à votre front.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Deuteronomy 11 19- Enseignez-les à vos enfants, en parlant d'eux lorsqu'ils sont assis à la maison et lorsqu'ils
 marchent le long du chemin,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Deuteronomy 11 20- Écris-les sur les poteaux de tes maisons, et sur tes grilles,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Deuteronomy 1 1 21- PARTIE 1 - que dans le pays que le Seigneur a juré de donner à leurs ancêtres,
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
-
+delay 3500
+click 194 935
 
 
 input Deuteronomy 11 21- PARTIE 2 - vos jours et les jours de vos enfants soient nombreux, autant que les jours pendant lesquels
 le ciel est au-dessus de la terre.
 
 
-delay 5550
-click 355 381
-delay 5550
+click 194 935
+delay 500
 key R
-delay 1111
-click 355 645
-delay 1010
+delay 3500
+click 194 935
