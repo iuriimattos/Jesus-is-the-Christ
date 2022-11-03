@@ -1,21 +1,21 @@
 size 540 960
 
 loop 123
-click 190 929
+click 188 926
 delay 100
-click 190 929
+click 188 926
 delay 200
-click 190 929
+click 188 926
 delay 300
-click 190 929
+click 188 926
 delay 400
-click 190 929
+click 188 926
 delay 500
-click 190 929
+click 188 926
 delay 600
-click 190 929
+click 188 926
 delay 700
-click 190 929
+click 188 926
 
 
 input Romans 10 9 - If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.
