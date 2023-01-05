@@ -1,0 +1,1202 @@
+loop 123
+click 190 929
+delay 100
+click 190 929
+delay 200
+click 190 929
+delay 300
+click 190 929
+delay 400
+click 190 929
+delay 500
+click 190 929
+delay 600
+click 190 929
+delay 700
+click 190 929
+
+
+input Romans 10 9 Если вы исповедуете устами, что Иисус есть Господь, и сердцем верите, что Бог воскресил Его из мертвых, вы будете спасены.
+
+
+click 194 935
+delay 500
+key R
+delay 5000
+click 194 935
+
+input Romans 10 9 - Wenn Sie mit Ihrem Mund bekennen, dass Jesus der Herr ist, und in Ihrem Herzen glauben, dass Gott ihn von den Toten auferweckt hat, werden Sie gerettet.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 9 - Liebe muss aufrichtig sein. Hasse, was schlecht ist; klammere dich an das Gute.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 10 - Widmet euch in brüderlicher Liebe. Ehre lieber andere als dich selbst.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 11 - Lasst es niemals an Eifer mangeln, seid inbrünstig im Geist, dient dem Herrn.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 12 - Freut euch in der Hoffnung, seid geduldig in der Trübsal, beharrt im Gebet.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 13 - Teile das, was du hast, mit den Heiligen in ihren Nöten. Praktiziere Gastfreundschaft.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 14 - Segne diejenigen, die dich verfolgen; segne und verfluche sie nicht.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 15 - Freut euch mit denen, die sich freuen; Weine mit denen, die weinen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 16 - Die gleiche Einstellung zueinander haben. Seien Sie nicht stolz, aber seien Sie bereit, mit Menschen von niedrigerem Status Umgang zu haben.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 17 - Vergelte niemandem Böses mit Bösem. Versuchen Sie, das zu tun, was in den Augen aller richtig ist.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 18 - Tun Sie alles, um mit allen in Frieden zu leben.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 19 - Geliebte, sucht niemals Rache, sondern lasst den Zorn bei Gott, denn es steht geschrieben, Rache ist mein; Ich werde zurückzahlen, spricht der Herr.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 20 - Im Gegenteil, wenn dein Feind hungrig ist, gib ihm zu essen; wenn er durstig ist, gib ihm etwas zu trinken. Auf diese Weise häufen Sie lebendige Glut an
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 12 21 - Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit Gutem.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ephesians 4 2 - Seien Sie demütig, sanft zu anderen und geduldig, auf der Grundlage gegenseitigen Verständnisses und aufrichtiger Zuneigung.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ephesians 4 26 - Sündige nicht und lass den Zorn dich überkommen. Bevor der Tag vorbei ist, lassen Sie Ihren Ärger ein Ende haben.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ephesians 4 32 - Seid stattdessen freundlich und verständnisvoll zueinander und vergebt einander, so wie auch Christus euch vergeben hat.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 10 17 - In fact, faith comes by hearing this message of good news - Tatsächlich kommt der Glaube durch das Hören dieser Botschaft der guten Nachricht – der guten Nachricht über Christus.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Isaiah 58 5 - Ist dies das Fasten, das ich gewählt habe, dass nur eines Tages ein Mann sich demütigen wird, sein Haupt wie ein Rohr beugen und sich auf Sackleinen und Asche legen wird? ES IST
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Isaiah 58 6 - Das Fasten, das ich mir wünsche, ist, die Ketten der Ungerechtigkeit zu lockern, die Jochseile zu lockern, die Unterdrückten zu befreien und jedes Joch zu zerbrechen
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Isaiah 58 7 - Es bedeutet, dein Essen mit den Hungrigen zu teilen, den mittellosen Armen Schutz zu bieten, die Nackten, die du gefunden hast, anzuziehen und dich nicht zu weigern, deinem Nächsten zu helfen
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Isaiah 58 8 - Und dann wird sein Licht hervorbrechen wie die Morgenröte, und seine Heilung wird schnell erscheinen; deine Gerechtigkeit wird vor dir hergehen, und die Herrlichkeit des Herrn wird sein
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Isaiah 58 9 - Dann werdet ihr zum Herrn rufen, und er wird antworten; Du wirst um Hilfe schreien und er wird sagen: Hier bin ich. Wenn du das Joch aus deiner Mitte beseitigst
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Isaiah 58 10 - Wenn du mit Selbstverleugnung den Hungrigen nützst und die Sehnsucht der Bedrängten stillst, dann wird dein Licht in der Dunkelheit aufgehen und deine Nacht
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Isaiah 58 11 - PART 1 - TEIL 1 - Der Herr wird dich ständig führen; es wird Ihre Wünsche in einem von der Sonne ausgedörrten Land befriedigen und Ihre Knochen stärken.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Isaiah 58 11 - PART 2 - TEIL 2 - Du wirst wie ein gut bewässerter Garten sein, wie ein Brunnen, dessen Wasser niemals versiegt.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 1 22 - Seid Täter des Wortes, nicht nur Hörer, die sich selbst betrügen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 1 23 - Wer das Wort hört, aber nicht in die Tat umsetzt, ist wie jemand, der sein Gesicht im Spiegel betrachtet
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 1 24 - und nachdem er sich angesehen hat, geht er hinaus und vergisst bald sein Erscheinen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 1 25 - Aber wer das vollkommene Gesetz, das Freiheit bringt, sorgfältig beachtet und in der Ausübung dieses Gesetzes beharrlich bleibt, ohne zu vergessen, was er gehört hat
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 13 8 - Schuldet niemandem außer der Liebe zueinander, denn wer seinen Nächsten liebt, hat das Gesetz erfüllt.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 13 9 - PART 1 - TEIL 1 - Für diese Gebote sollst du nicht ehebrechen, du sollst nicht töten, du sollst nicht stehlen, du sollst nicht begehren,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 13 9 - PART 2 - TEIL 2 – und alle anderen Gebote, alles zusammengefasst in diesem Gebot Liebe deinen Nächsten wie dich selbst.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 13 10 - Die Liebe tut ihrem Nächsten nichts Böses. Daher ist die Liebe die Erfüllung des Gesetzes.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Hebrews 11 1 - Nun ist der Glaube die Gewissheit dessen, worauf wir hoffen, und der Beweis für die Dinge, die wir nicht sehen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Hebrews 11 6 - Ohne Glauben ist es unmöglich, Gott zu gefallen, denn wer sich ihm nähert, muss glauben, dass er existiert und dass er diejenigen belohnt, die ihn suchen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Romans 8 28 - Wir wissen, dass Gott in allen Dingen zum Wohle derer wirkt, die ihn lieben, die nach seinem Vorsatz berufen sind.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 2 14 - Was nützt es, meine Brüder, wenn jemand sagt, er habe Glauben, wenn er keine Werke hat? Kann der Glaube dich retten?
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 2 15 - Wenn ein Bruder oder eine Schwester tägliche Kleidung und Nahrung benötigt
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 2 16 - und einer von euch sagt zu ihm: Geh in Frieden, wärme dich auf und füttere dich, bis du satt bist, aber ohne ihm etwas zu geben, was nützt das?
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 2 17 - Der Glaube allein ist also tot, wenn er nicht von Werken begleitet wird.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 11 - Am Anfang war derjenige, der das Wort ist. Er war bei Gott, und er war Gott.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 1 14 - Er, der das Wort ist, wurde Fleisch und lebte unter uns. Wir sahen seine Herrlichkeit, die Herrlichkeit des Einziggezeugten, vom Vater kommend, voller Gnade und
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 3 16 - Gleich nach der Taufe kam Jesus aus dem Wasser. In diesem Moment öffnete sich der Himmel und er sah den Geist Gottes wie einen Vogel herabsteigen und landen
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 6 14 - Denn wenn sie einander die Schuld vergeben, wird ihnen auch der himmlische Vater vergeben.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 6 15 - Aber wenn sie einander nicht vergeben, wird der himmlische Vater ihre Übertretungen nicht vergeben.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 46 - Wenn du die liebst, die dich lieben, welche Belohnung wirst du erhalten? Sogar Zöllner tun das.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 47 - Und wenn du nur deine Brüder grüßt, was wirst du dann noch tun? Sogar Heiden tun das.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 10 37 - Wer seinen Vater oder seine Mutter mehr liebt als mich, ist meiner nicht würdig; wer seinen Sohn oder seine Tochter mehr liebt als mich, ist meiner nicht würdig;
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 10 38 - Und wer nicht sein Kreuz auf sich nimmt und mir nachfolgt, ist meiner nicht würdig.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 31 30 - Schönheit ist trügerisch, und Schönheit ist vergänglich; aber die Frau, die den Herrn fürchtet, wird gelobt werden.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Mark 9 22 - Und er hat ihn viele Male ins Feuer und ins Wasser geworfen, um ihn zu vernichten; aber wenn du etwas tun kannst, habe Mitleid mit uns und hilf uns.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Mark 9 23 - Und Jesus sagte zu ihm: Wenn du glauben kannst, ist alles möglich dem, der glaubt.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Mark 9 24 - Und sofort sagte der Vater des Jungen, der vor Tränen weinte, Ich glaube, Herr. Hilf meinem Unglauben.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Mark 9 28 - Nachdem Jesus das Haus betreten hatte, fragten ihn seine Jünger unter vier Augen: ‚Warum können wir ihn nicht vertreiben?'
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Mark 9 29 - Er antwortete: „Diese Art kommt nur durch Gebet und Fasten heraus“.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Luke 11 23 - Wer nicht für mich ist, ist gegen mich, wer nicht mit mir sammelt, zerstreut sich.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Luke 12 47 - Der Diener, der den Willen seines Herrn kennt und nicht bereitet, was er wünscht, und es auch nicht tut, wird viele Peitschenhiebe erhalten.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input 1 Peter 3 15 - Heilige vielmehr Christus als Herrn in deinem Herzen. Seien Sie immer bereit, auf jeden zu antworten, der nach dem Grund der Hoffnung fragt
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 8 3 - Verdreht Gott die Gerechtigkeit? Verdreht der Allmächtige, was richtig ist?
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 8 5 - Aber wenn du Gott suchst und den Allmächtigen anflehst,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 8 6 - wenn du gerecht und rein bist, wird er sich sofort zu deinen Gunsten erheben und dich an den Ort zurückbringen, der dir für Gerechtigkeit gehört.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 8 8 - Fragen Sie frühere Generationen und sehen Sie, was Ihre Eltern gelernt haben,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 8 10 - Sollen sie ihn nicht belehren, sollen sie nicht mit ihm sprechen? Werden sie nicht Worte aus dem Verstand sprechen?
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 8 20 - Denn sicher ist, dass Gott die Gerechten nicht verwirft und die Hände der Bösen nicht stärkt.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 38 - Sie haben gehört, was gesagt wurde: Auge um Auge und Zahn um Zahn.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 39 - Ich aber sage ihnen: Widersteht nicht den Gottlosen. Wenn dir jemand an der rechten Wange wehtut, biete auch die andere an.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 40 - Und wenn dich jemand verklagen und dir deine Tunika nehmen will, soll er auch den Umhang nehmen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 41 - Wenn dich jemand zwingt, eine Meile mit ihm zu gehen, geh zwei mit ihm.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 42 - Gib denen, die dich bitten, und wende denen nicht den Rücken zu, die etwas von dir leihen wollen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 43 - Du hast gehört, was gesagt wurde: Liebe deinen Nächsten und hasse deinen Feind.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 44 - Aber ich sage dir: Liebt eure Feinde und betet für die, die euch verfolgen,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 5 45 - damit ihr Kinder eures Vaters im Himmel werdet. Denn er lässt seine Sonne scheinen auf die Bösen und die Guten und gießt Regen auf
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 5 6 - Denn Leid entsteht nicht aus Staub, und Schwierigkeiten entstehen nicht aus der Erde.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 5 7 - Der Mensch ist jedoch so sicher für Schwierigkeiten geboren, wie Funken nach oben fliegen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 5 17 - Wie glücklich ist der Mann, den Gott korrigiert; deshalb verachte nicht die Disziplin des Allmächtigen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Job 5 18 - Denn er verwundet, aber er kommt, um damit fertig zu werden; Es tut weh, aber deine Hände heilen auch.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Acts 3 19 - Darum bereue und wende dich Gott zu, damit deine Sünden getilgt werden,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Acts 3 20 - dass Zeiten der Ruhe vom Herrn kommen und er den Christus sende, der zu ihnen bestimmt ist, Jesus.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 11 12 - Von den Tagen Johannes des Täufers bis heute wird das Himmelreich mit Gewalt eingenommen, und diejenigen, die Gewalt anwenden, ergreifen es.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 15 32 - Wer Disziplin verweigert, macht sich klein, wer aber den Tadel hört, bekommt Verständnis.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ecclesiastes 2 24 - Für den Menschen gibt es nichts Schöneres, als zu essen, zu trinken und Freude an seiner Arbeit zu finden. Und ich sah, dass auch dies aus der Hand Gottes kommt.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Psalm 34 19 - Der Gerechte geht durch viele Widrigkeiten, aber der Herr befreit ihn von allem;
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Psalm 34 20 - schütze alle deine Knochen; keiner von ihnen wird kaputt gehen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Psalm 34 21 - Schande soll die Gottlosen töten; diejenigen, die die Gerechten hassen, werden verurteilt werden.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 7 21 - Nicht jeder, der zu mir Herr, Herr sagt, wird in das Himmelreich eingehen, sondern nur der, der den Willen meines Vaters im Himmel tut.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 7 22 - Viele werden mir an jenem Tag sagen, Herr, Herr, prophezeien wir nicht in deinem Namen? In deinem Namen treiben wir keine Dämonen aus und wir erreichen nicht viele
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 7 23 - Dann werde ich ihnen klar sagen, dass ich sie nie gekannt habe. Geh weg von mir, du Übeltäter.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input 1 Corinthians 6 19 - Weißt du nicht, dass dein Körper das Heiligtum des Heiligen Geistes ist, der in dir wohnt, der dir von Gott gegeben wurde, und dass du es nicht bist?
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input 1 Corinthians 6 20 - Du wurdest teuer erkauft. Verherrliche deshalb Gott mit deinem Körper.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Hebrews 5 7 - PART 1 - TEIL 1 - Während seiner Tage auf der Erde brachte Jesus Gebete und Bittgebete dar,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Hebrews 5 7 - PART 2 - TEIL 2 - laut und unter Tränen dem, der ihn vor dem Tod retten konnte, Gehör verschafft wegen seiner ehrfürchtigen Unterwerfung.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Mark 1 35 - Bei Tagesanbruch, als es noch dunkel war, stand Jesus auf, verließ das Haus und ging an einen einsamen Ort, wo er betete.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Galatians 6:2 - Tragt einander die schweren Lasten und erfüllt so das Gesetz Christi.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Hosea 6 1 - Komm, lass uns zum Herrn zurückkehren. Er hat uns gebrochen, aber er wird uns Heilung bringen; Er hat uns wehgetan, aber er wird unsere Wunden heilen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Hosea 6 2 - Nach zwei Tagen wird er uns wieder Leben geben; am dritten Tag wird er uns wiederherstellen, damit wir in seiner Gegenwart leben können.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Hosea 6 3 - Lass uns den Herrn wissen; lasst uns danach streben, ihn zu kennen. So sicher wie die Sonne aufgeht, wird sie erscheinen; wird zu uns kommen wie der Winterregen, wie der
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 17 3 - Gold und Silber werden durch Feuer gereinigt, aber Gott allein reinigt die Herzen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 17 4 - Sünder suchen die Gesellschaft von denen, die sprechen und tun, was sie tun; Jeder Lügner fühlt sich in der Gesellschaft anderer Lügner wohl.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 17 5 - Die Armen zu verachten bedeutet, Gott zu beleidigen, der alle Menschen erschaffen hat. Wer sich über das Unglück anderer freut, wird nicht ungestraft bleiben.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 17 9 - Freundschaft lässt viele schlechte Dinge vergessen. Aber wer immer streitet, ist in der Lage, die besten Freunde zu trennen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input 1 Corinthians 13 4 - Liebe ist geduldig, Liebe ist gütig. Neide nicht, prahle nicht, sei nicht stolz.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input 1 Corinthians 13 5 - Misshandeln Sie nicht, suchen Sie nicht Ihre Interessen, werden Sie nicht leicht wütend, hegen Sie keinen Groll.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input 1 Corinthians 13 6 - Liebe freut sich nicht über Ungerechtigkeit, sondern freut sich über die Wahrheit.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input 1 Corinthians 13 7 - Alles leidet, alles glaubt, alles wartet, alles unterstützt.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 22 37 - Jesus antwortete: Liebe den Herrn, deinen Gott, von ganzem Herzen, von ganzer Seele und von ganzem Gemüt.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 22 38 - Dies ist das erste und größte Gebot.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 22 39 - Und der zweite ist wie er Liebe deinen Nächsten wie dich selbst.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 22 40 - Von diesen beiden Geboten hängen das ganze Gesetz und die Propheten ab.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 14 12 - Ich sage euch die Wahrheit. Wer an mich glaubt, wird auch die Werke tun, die ich getan habe. Es wird noch größere Dinge tun als diese, weil ich es bin
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 14 13 - Und ich werde tun, was du in meinem Namen verlangst, damit der Vater im Sohn verherrlicht werde.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 4 2 - Du begehrst Dinge und hast sie nicht; sie töten und beneiden, aber sie können nicht bekommen, was sie wollen. Du lebst, um zu kämpfen und Kriege zu führen. Es hat nicht,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input James 4 3 - Wenn sie darum bitten, erhalten sie nichts, weil sie aus den falschen Gründen darum bitten, um sie für ihre Vergnügungen auszugeben.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 13 3 - Wer den Mund hält, behält sein Leben, aber wer zu viel redet, ruiniert sich am Ende.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 18 21 - Die Zunge hat Macht über Leben und Tod; wer ihn gerne benutzt, wird von seiner Frucht essen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 13 24 - Wer sich weigert, seinen Sohn zu bestrafen, liebt ihn nicht; wer ihn liebt, zögert nicht, ihn zu züchtigen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 3 3 - Als Antwort erklärte Jesus: Ich sage euch die Wahrheit. Niemand kann das Reich Gottes sehen, wenn er nicht wiedergeboren ist.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 3 4 - Nikodemus fragte: Wie kann jemand geboren werden, der alt ist? Natürlich können Sie nicht ein zweites Mal in den Schoß Ihrer Mutter eintreten und wiedergeboren werden.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 3 5 - Jesus antwortete: Ich sage euch die Wahrheit. Niemand kann in das Reich Gottes eintreten, es sei denn, er ist aus Wasser und Geist geboren.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 3 6 - Was aus dem Fleisch geboren wird, ist Fleisch, aber was aus dem Geist geboren wird, ist Geist.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 3 7 - Wundern Sie sich nicht, dass ich sagte, Sie müssen wiedergeboren werden.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input John 3 8 - Der Wind weht wo er will. Man hört es sich an, aber man kann nicht sagen, woher es kommt oder wohin es geht. So ist es mit allen, die aus dem Geist geboren sind.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ephesians 4 22 - Was die alte Lebensweise betrifft, so wurde dir beigebracht, den alten Mann, der von trügerischen Begierden verdorben ist, abzulegen,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ephesians 4 23 - im Denken erneuert werden und
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ephesians 4 24 - den neuen Menschen anzuziehen, geschaffen, um Gott ähnlich zu sein in Gerechtigkeit und Heiligkeit aus der Wahrheit.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ephesians 4 25 - Deshalb muss jeder von euch die Lüge aufgeben und seinem Nächsten die Wahrheit sagen, weil wir alle Mitglieder desselben Körpers sind.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ephesians 4 26 - Wenn du wütend bist, sündige nicht. Beruhige deinen Zorn, bevor die Sonne untergeht,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Ephesians 4 27 - und gebt dem Teufel keinen Raum.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 25 17 - Besuche nicht häufig das Haus deines Nachbarn, damit er dich nicht satt bekommt und dich zu hassen beginnt.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Proverbs 25 23 - Wie der Nordwind Regen bringt, so bringt die Scheinzunge den zornigen Blick.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Colossians 2 8 - Passen Sie auf, dass Sie niemand in eitle und betrügerische Philosophien versklavt, die auf menschlichen Traditionen und Prinzipien beruhen
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 9 10 - Während Jesus zu Hause war, gingen viele Zöllner und Sünder mit ihm und seinen Jüngern essen.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 9 11 - Als die Pharisäer dies sahen, fragten sie seine Jünger: Warum isst euer Lehrer mit Zöllnern und Sündern?
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 9 12 - Als Jesus das hörte, sagte er: Nicht die Gesunden brauchen einen Arzt, sondern die Kranken.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Matthew 9 13 - Sie werden lernen, was das bedeutet. Ich will Barmherzigkeit, keine Opfer. Denn ich bin nicht gekommen, Gerechte zu rufen, sondern Sünder.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Philippians 2 5 - Lass deine Einstellung dieselbe sein wie die von Christus Jesus,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Philippians 26 - der, obwohl er Gott war, nicht der Meinung war, dass es etwas sei, an dem er sich festhalten sollte, Gott gleich zu sein;
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Philippians 27 - aber er entäußerte sich, wurde ein Diener, wurde wie ein Mensch.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Philippians 2 8 - Und als er in menschlicher Form gefunden wurde, erniedrigte er sich und war gehorsam bis zum Tod und Tod am Kreuz.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Philippians 29 - Darum hat ihn Gott zum Höchsten erhoben und ihm den Namen gegeben, der über allen Namen ist,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Philippians 2 10 - Dass vor dem Namen Jesu sich beugen mögen alle Knie im Himmel, auf Erden und unter der Erde,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Philippians 2 11 - Und alle Zungen bekennen, dass Jesus Christus der Herr ist, zur Ehre Gottes des Vaters.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Deuteronomy 11 18 - Graviere diese meine Worte in Herz und Verstand; binde sie als Symbole an deine Hände und befestige sie an deiner Stirn.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Deuteronomy 11 19 - Bringen Sie sie Ihren Kindern bei, sprechen Sie darüber, wenn sie zu Hause sitzen und wenn sie den Weg entlang gehen,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Deuteronomy 11 20 - Schreib sie an die Türpfosten deiner Häuser und an deine Tore,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Deuteronomy 1 1 21 - PART 1 - TEIL 1 - das in dem Land, das der Herr geschworen hat, er würde es ihren Vorvätern geben,
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935
+
+input Deuteronomy 11 21 - PART 2 - TEIL 2 - Deine Tage und die deiner Kinder seien viele, seien so viele wie die Tage, an denen der Himmel über der Erde ist.
+
+click 194 935
+delay 500
+key R
+delay 3500
+click 194 935

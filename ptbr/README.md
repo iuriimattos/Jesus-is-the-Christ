@@ -1,4 +1,6 @@
----
+[versiculos md](versiculos.md)
+[versiculos ahk](versiculos.ahk)
+
 ##IDE - PT-BR
 
 A bíblia afirma que Jesus sempre esteve com DEUS e se fez carne
@@ -48,23 +50,3 @@ Mateus 6:13 - E não nos deixes cair em tentação, mas livra-nos do mal, porque
 Não deixe de ler a bíblia!
 
 Mateus 4:4 - Jesus respondeu: "Está escrito: ‘Nem só de pão viverá o homem, mas de toda palavra que procede da boca de Deus’".
-
-7
-
-Não existe reencarnação!
-
-Hebreus 9:27 - Da mesma forma, como o homem está destinado a morrer uma só vez e depois disso enfrentar o juízo
-
-DEFAULT
-
-Romanos 12 9-21, Fala sobre as qualidades que DEUS recomenda - https://www.bibliaonline.com.br/nvi/rm/12/9-21
-
-AS VIRTUDES RECOMENDADAS
-
-AS_VIRTUDES_RECOMENDADAS_1
-
-AS_VIRTUDES_RECOMENDADAS_2
-
-AS_VIRTUDES_RECOMENDADAS_3
-
-AS_VIRTUDES_RECOMENDADAS_4

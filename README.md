@@ -1,8 +1,4 @@
-Romanos 12:16 - Tenham uma mesma atitude uns para com os outros. Não sejam orgulhosos, mas estejam dispostos a associar-se a pessoas de posição inferior. Não sejam sábios aos seus próprios olhos.
-
-Os versículos 9 ao 21 do Capitulo 12 e Livro Romanos falam das virtudades ( caráter ) que DEUS recomenda.
-neste link https://www.bibliaonline.com.br/nvi/rm/12/9-21 você pode meditar
-
+[ptbr](ptbr/README.md)
 
 # Jesus-is-the-Christ
 Matthew 24:14 - And this gospel of the kingdom will be preached in the whole world as a testimony to all nations, and then the end will come.
@@ -60,15 +56,3 @@ Matthew 6:13 - And lead us not into temptation, "but deliver us from the evil on
 Be sure to read the bible!
 
 Matthew 4:4 - Jesus answered, "It is written: 'Man shall not live on bread alone, but on every word that comes from the mouth of God.' ""
-
----
-## STEP 5
-
-There is no reincarnation!
-
-Hebrews 9:27 - Just as people are destined to die once, and after that to face judgment,
-
----
-DEFAULT
-
-Romans 12 9-21, Talk about the qualities (character) that GOD recommends - https://www.bibliaonline.com.br/niv/rm/12/9-21

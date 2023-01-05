@@ -4,9 +4,43 @@ Apocalipse 3:16 - Assim, porque você é morno, nem frio nem quente, estou a pon
 
 Marcos 11:26 - Mas se vocês não perdoarem, também o seu Pai que está no céu não perdoará os seus pecados.
 
-Jó 11:13-20
+Jó 11:13 - "Contudo, se você lhe consagrar o coração, e estender as mãos para ele;
 
-https://www.bibliaonline.com.br/nvi/mt/13/13-23
+Jó 11:14 - se afastar das suas mãos o pecado, e não permitir que a maldade habite em sua tenda,
+
+Jó 11:15 - então você levantará o rosto sem envergonhar-se; serás firme e destemido.
+
+Jó 11:16 - Você esquecerá as suas desgraças, lembrando-as apenas como águas passadas.
+
+Jó 11:17 - A vida será mais refulgente que o meio-dia, e as trevas serão como a manhã que brilha.
+
+Jó 11:18 - Você estará confiante, graças a esperança que haverá; olhará ao redor, e repousará em segurança.
+
+Jó 11:19 - Você se deitará, e ninguém lhe causará medo, e muitos procurarão o seu favor.
+
+Jó 11:20 - Mas os olhos dos ímpios fenecerão, e em vão procurarão refúgio; o suspiro da morte será a esperança que terão".
+
+Mateus 13:13 - Por essa razão eu lhes falo por parábolas: ‘Porque vendo, eles não vêem e, ouvindo, não ouvem nem entendem’.
+
+Mateus 13:14 - Neles se cumpre a profecia de Isaías: ‘Ainda que estejam sempre ouvindo, vocês nunca entenderão; ainda que estejam sempre vendo, jamais perceberão.
+
+Mateus 13:15 - Pois o coração deste povo se tornou insensível; de má vontade ouviram com os seus ouvidos, e fecharam os seus olhos. Se assim não fosse, poderiam ver com os olhos, ouvir com os ouvidos, entender com o coração e converter-se, e eu os curaria’.
+
+Mateus 13:16 - Mas, felizes são os olhos de vocês, porque vêem; e os ouvidos de vocês, porque ouvem.
+
+Mateus 13:17 - Pois eu lhes digo a verdade: Muitos profetas e justos desejaram ver o que vocês estão vendo, mas não viram, e ouvir o que vocês estão ouvindo, mas não ouviram.
+
+Mateus 13:18 - "Portanto, ouçam o que significa a parábola do semeador:
+
+Mateus 13:19 - Quando alguém ouve a mensagem do Reino e não a entende, o Maligno vem e lhe arranca o que foi semeado em seu coração. Este é o que foi semeado à beira do caminho.
+
+Mateus 13:20 - Quanto ao que foi semeado em terreno pedregoso, este é aquele que ouve a palavra e logo a recebe com alegria.
+
+Mateus 13:21 - Todavia, visto que não tem raiz em si mesmo, permanece por pouco tempo. Quando surge alguma tribulação ou perseguição por causa da palavra, logo a abandona.
+
+Mateus 13:22 - Quanto ao que foi semeado entre os espinhos, este é aquele que ouve a palavra, mas a preocupação desta vida e o engano das riquezas a sufocam, tornando-a infrutífera.
+
+Mateus 13:23 - E, finalmente, o que foi semeado em boa terra: este é aquele que ouve a palavra e a entende, e dá uma colheita de cem, sessenta e trinta por um".
 
 Efésios 4:2 - Sejam humildes, delicados para com os outros e pacientes, numa base de compreensão mútua e com uma afeição sincera.
 
@@ -72,201 +106,103 @@ Mateus 6:14 - Pois se perdoarem as ofensas uns dos outros, o Pai celestial tamb�
 
 Mateus 6:15 - Mas se não perdoarem uns aos outros, o Pai celestial não lhes perdoará as ofensas".
 
-Pois se perdoarem as ofensas uns dos outros, o Pai celestial também lhes perdoará.
+Mateus 6:14 - Pois se perdoarem as ofensas uns dos outros, o Pai celestial também lhes perdoará.
 
-Mateus 6:14
+Mateus 6:15 - Mas se não perdoarem uns aos outros, o Pai celestial não lhes perdoará as ofensas".
 
-Mas se não perdoarem uns aos outros, o Pai celestial não lhes perdoará as ofensas".
+Mateus 5:46 - Se vocês amarem aqueles que os amam, que recompensa receberão? Até os publicanos fazem isso!
 
-Mateus 6:15
+Mateus 5:47 - E se vocês saudarem apenas os seus irmãos, o que estarão fazendo de mais? Até os pagãos fazem isso!
 
-Se vocês amarem aqueles que os amam, que recompensa receberão? Até os publicanos fazem isso!
+Mateus 5:43 - "Vocês ouviram o que foi dito: ‘Ame o seu próximo e odeie o seu inimigo’.
 
-Mateus 5:46
+Mateus 5:44 - Mas eu lhes digo: Amem os seus inimigos e orem por aqueles que os perseguem,
 
-E se vocês saudarem apenas os seus irmãos, o que estarão fazendo de mais? Até os pagãos fazem isso!
+Mateus 5:45 - para que vocês venham a ser filhos de seu Pai que está nos céus. Porque ele faz raiar o seu sol sobre maus e bons e derrama chuva sobre justos e injustos.
 
-Mateus 5:47
+Mateus 5:38 - "Vocês ouviram o que foi dito: ‘Olho por olho e dente por dente’.
 
-"Vocês ouviram o que foi dito: ‘Ame o seu próximo e odeie o seu inimigo’.
+Mateus 5:39 - Mas eu lhes digo: Não resistam ao perverso. Se alguém o ferir na face direita, ofereça-lhe também a outra.
 
-Mateus 5:43
+Mateus 5:40 - E se alguém quiser processá-lo e tirar-lhe a túnica, deixe que leve também a capa.
 
-Mas eu lhes digo: Amem os seus inimigos e orem por aqueles que os perseguem,
+Mateus 5:41 - Se alguém o forçar a caminhar com ele uma milha, vá com ele duas.
 
-Mateus 5:44
+Mateus 5:42 - Dê a quem lhe pede, e não volte as costas àquele que deseja pedir-lhe algo emprestado".
 
-para que vocês venham a ser filhos de seu Pai que está nos céus. Porque ele faz raiar o seu sol sobre maus e bons e derrama chuva sobre justos e injustos.
+Jó 6:14 - "Um homem desesperado deve receber a compaixão de seus amigos, muito embora ele tenha abandonado o temor do Todo-poderoso.
 
-Mateus 5:45
+Jó 6:24 - "Ensinem-me, e eu me calarei; mostrem-me onde errei.
 
-"Vocês ouviram o que foi dito: ‘Olho por olho e dente por dente’.
+Jó 5:6 - Pois o sofrimento não brota do pó, e as dificuldades não nascem do chão.
 
-Mateus 5:38
+Jó 5:7 - No entanto o homem nasce para as dificuldades tão certamente como as fagulhas voam para cima.
 
-Mas eu lhes digo: Não resistam ao perverso. Se alguém o ferir na face direita, ofereça-lhe também a outra.
+Jó 5:17 - "Como é feliz o homem a quem Deus corrige; portanto, não despreze a disciplina do Todo-poderoso.
 
-Mateus 5:39
+Jó 5:18 - Pois ele fere, mas dela vem tratar; ele machuca, mas suas mãos também curam.
 
-E se alguém quiser processá-lo e tirar-lhe a túnica, deixe que leve também a capa.
+Atos 3:19 - Arrependam-se, pois, e voltem-se para Deus, para que os seus pecados sejam cancelados,
 
-Mateus 5:40
+Atos 3:20 - para que venham tempos de descanso da parte do Senhor, e ele mande o Cristo, o qual lhes foi designado, Jesus.
 
-Se alguém o forçar a caminhar com ele uma milha, vá com ele duas.
+João 11:9 - Jesus respondeu: "O dia não tem doze horas? Quem anda de dia não tropeça, pois vê a luz deste mundo.
 
-Mateus 5:41
+João 11:10 - Quando anda de noite, tropeça, pois nele não há luz".
 
-Dê a quem lhe pede, e não volte as costas àquele que deseja pedir-lhe algo emprestado".
+Mateus 11:12 - Desde os dias de João Batista até agora, o Reino dos céus é tomado à força, e os que usam de força se apoderam dele.
 
-Mateus 5:42
+1 Coríntios 11:3 - Quero, porém, que entendam que o cabeça de todo homem é Cristo, e o cabeça da mulher é o homem, e o cabeça de Cristo é Deus.
 
-"Um homem desesperado deve receber a compaixão de seus amigos, muito embora ele tenha abandonado o temor do Todo-poderoso.
+1 Coríntios 11:8 - Pois o homem não se originou da mulher, mas a mulher do homem;
 
-Jó 6:14
+1 Coríntios 11:9 - além disso, o homem não foi criado por causa da mulher, mas a mulher por causa do homem.
 
-"Ensinem-me, e eu me calarei; mostrem-me onde errei.
+1 Coríntios 11:10 - Por essa razão e por causa dos anjos, a mulher deve ter sobre a cabeça um sinal de autoridade.
 
-Jó 6:24
+1 Coríntios 11:11 - No Senhor, todavia, a mulher não é independente do homem, nem o homem independente da mulher.
 
-Pois o sofrimento não brota do pó, e as dificuldades não nascem do chão.
+1 Coríntios 11:12 - Pois, assim como a mulher proveio do homem, também o homem nasce da mulher. Mas tudo provém de Deus.
 
-Jó 5:6
+Provérbios 15:32 - Quem recusa a disciplina faz pouco caso de si mesmo, mas quem ouve a repreensão obtém entendimento.
 
-No entanto o homem nasce para as dificuldades tão certamente como as fagulhas voam para cima.
+Provérbios 13:10 - Para o homem não existe nada melhor do que comer, beber e encontrar prazer em seu trabalho. E vi que isso também vem da mão de Deus.
 
-Jó 5:7
+Eclesiastes 2:24 - O orgulho só gera discussões, mas a sabedoria está com os que tomam conselho.
 
-"Como é feliz o homem a quem Deus corrige; portanto, não despreze a disciplina do Todo-poderoso.
+1 Tessalonicenses 5:23 - Que o próprio Deus da paz os santifique inteiramente. Que todo o espírito, alma e corpo de vocês seja conservado irrepreensível na vinda de nosso Senhor Jesus Cristo.
 
-Jó 5:17
+1 Tessalonicenses 5:24 - Aquele que os chama é fiel, e fará isso.
 
-Pois ele fere, mas dela vem tratar; ele machuca, mas suas mãos também curam.
+Salmos 34:19 - O justo passa por muitas adversidades, mas o Senhor o livra de todas;
 
-Jó 5:18
+Salmos 34:20 - protege todos os seus ossos; nenhum deles será quebrado.
 
-Arrependam-se, pois, e voltem-se para Deus, para que os seus pecados sejam cancelados,
+Salmos 34:21 - A desgraça matará os ímpios; os que odeiam o justo serão condenados.
 
-Atos 3:19
+Tiago 2:14 - De que adianta, meus irmãos, alguém dizer que tem fé, se não tem obras? Acaso a fé pode salvá-lo?
 
-para que venham tempos de descanso da parte do Senhor, e ele mande o Cristo, o qual lhes foi designado, Jesus.
+Tiago 2:15 - Se um irmão ou irmã estiver necessitando de roupas e do alimento de cada dia
 
-Atos 3:20
+Tiago 2:16 - e um de vocês lhe disser: "Vá em paz, aqueça-se e alimente-se até satisfazer-se", sem porém lhe dar nada, de que adianta isso?
 
-Jesus respondeu: "O dia não tem doze horas? Quem anda de dia não tropeça, pois vê a luz deste mundo.
+Tiago 2:17 - Assim também a fé, por si só, se não for acompanhada de obras, está morta.
 
-João 11:9
+Mateus 7:21 - "Nem todo aquele que me diz: ‘Senhor, Senhor’, entrará no Reino dos céus, mas apenas aquele que faz a vontade de meu Pai que está nos céus.
 
-Quando anda de noite, tropeça, pois nele não há luz".
+Mateus 7:22 - Muitos me dirão naquele dia: ‘Senhor, Senhor, não profetizamos nós em teu nome? Em teu nome não expulsamos demônios e não realizamos muitos milagres? ’
 
-João 11:10
+Mateus 7:23 - Então eu lhes direi claramente: ‘Nunca os conheci. Afastem-se de mim vocês, que praticam o mal! ’ "
 
-Desde os dias de João Batista até agora, o Reino dos céus é tomado à força, e os que usam de força se apoderam dele.
+Romanos 13:8 - Não devam nada a ninguém, a não ser o amor de uns pelos outros, pois aquele que ama seu próximo tem cumprido a lei.
 
-Mateus 11:12
+Romanos 13:9 - Pois estes mandamentos: "Não adulterarás", "não matarás", "não furtarás", "não cobiçarás", e qualquer outro mandamento, todos se resumem neste preceito: "Ame o seu próximo como a si mesmo".
 
-Quero, porém, que entendam que o cabeça de todo homem é Cristo, e o cabeça da mulher é o homem, e o cabeça de Cristo é Deus.
+Romanos 13:10 - O amor não pratica o mal contra o próximo. Portanto, o amor é o cumprimento da lei.
 
-1 Coríntios 11:3
+1 Coríntios 6:19 - Acaso não sabem que o corpo de vocês é santuário do Espírito Santo que habita em vocês, que lhes foi dado por Deus, e que vocês não são de si mesmos?
 
-Pois o homem não se originou da mulher, mas a mulher do homem;
-
-1 Coríntios 11:8
-
-além disso, o homem não foi criado por causa da mulher, mas a mulher por causa do homem.
-
-1 Coríntios 11:9
-
-Por essa razão e por causa dos anjos, a mulher deve ter sobre a cabeça um sinal de autoridade.
-
-1 Coríntios 11:10
-
-No Senhor, todavia, a mulher não é independente do homem, nem o homem independente da mulher.
-
-1 Coríntios 11:11
-
-Pois, assim como a mulher proveio do homem, também o homem nasce da mulher. Mas tudo provém de Deus.
-
-1 Coríntios 11:12
-
-Quem recusa a disciplina faz pouco caso de si mesmo, mas quem ouve a repreensão obtém entendimento.
-
-Provérbios 15:32
-
-Para o homem não existe nada melhor do que comer, beber e encontrar prazer em seu trabalho. E vi que isso também vem da mão de Deus.
-
-Provérbios 13:10
-
-O orgulho só gera discussões, mas a sabedoria está com os que tomam conselho.
-
-Eclesiastes 2:24
-
-Que o próprio Deus da paz os santifique inteiramente. Que todo o espírito, alma e corpo de vocês seja conservado irrepreensível na vinda de nosso Senhor Jesus Cristo.
-
-1 Tessalonicenses 5:23
-
-Aquele que os chama é fiel, e fará isso.
-
-1 Tessalonicenses 5:24
-
-O justo passa por muitas adversidades, mas o Senhor o livra de todas;
-
-Salmos 34:19
-
-protege todos os seus ossos; nenhum deles será quebrado.
-
-Salmos 34:20
-
-A desgraça matará os ímpios; os que odeiam o justo serão condenados.
-
-Salmos 34:21
-
-De que adianta, meus irmãos, alguém dizer que tem fé, se não tem obras? Acaso a fé pode salvá-lo?
-
-Tiago 2:14
-
-Se um irmão ou irmã estiver necessitando de roupas e do alimento de cada dia
-
-Tiago 2:15
-
-e um de vocês lhe disser: "Vá em paz, aqueça-se e alimente-se até satisfazer-se", sem porém lhe dar nada, de que adianta isso?
-
-Tiago 2:16
-
-Assim também a fé, por si só, se não for acompanhada de obras, está morta.
-
-Tiago 2:17
-
-"Nem todo aquele que me diz: ‘Senhor, Senhor’, entrará no Reino dos céus, mas apenas aquele que faz a vontade de meu Pai que está nos céus.
-
-Mateus 7:21
-
-Muitos me dirão naquele dia: ‘Senhor, Senhor, não profetizamos nós em teu nome? Em teu nome não expulsamos demônios e não realizamos muitos milagres? ’
-
-Mateus 7:22
-
-Então eu lhes direi claramente: ‘Nunca os conheci. Afastem-se de mim vocês, que praticam o mal! ’ "
-
-Mateus 7:23
-
-Não devam nada a ninguém, a não ser o amor de uns pelos outros, pois aquele que ama seu próximo tem cumprido a lei.
-
-Romanos 13:8
-
-Pois estes mandamentos: "Não adulterarás", "não matarás", "não furtarás", "não cobiçarás", e qualquer outro mandamento, todos se resumem neste preceito: "Ame o seu próximo como a si mesmo".
-
-Romanos 13:9
-
-O amor não pratica o mal contra o próximo. Portanto, o amor é o cumprimento da lei.
-
-Romanos 13:10
-
-Acaso não sabem que o corpo de vocês é santuário do Espírito Santo que habita em vocês, que lhes foi dado por Deus, e que vocês não são de si mesmos?
-
-1 Coríntios 6:19
-
-Vocês foram comprados por alto preço. Portanto, glorifiquem a Deus com o corpo de vocês.
-
-1 Coríntios 6:20
+1 Coríntios 6:20 - Vocês foram comprados por alto preço. Portanto, glorifiquem a Deus com o corpo de vocês
 
 Durante os seus dias de vida na terra, Jesus ofereceu orações e súplicas, em alta voz e com lágrimas, àquele que o podia salvar da morte, sendo ouvido por causa da sua reverente submissão.
 
@@ -762,3 +698,27 @@ Isaías 58:8 - Aí sim, a sua luz irromperá como a alvorada, e prontamente surg
 Jeremias 17:9 - O coração é mais enganoso que qualquer outra coisa e sua doença é incurável. Quem é capaz de compreendê-lo?
 
 Jeremias 17:10 - "Eu sou o Senhor que sonda o coração e examina a mente, para recompensar a cada um de acordo com a sua conduta, de acordo com as suas obras. "
+
+"Bem-aventurados serão vocês quando, por minha causa os insultarem, perseguirem e levantarem todo tipo de calúnia contra vocês.
+
+Mateus 5:11
+
+Não retribuam a ninguém mal por mal. Procurem fazer o que é correto aos olhos de todos.
+
+Romanos 12:17
+
+Façam todo o possível para viver em paz com todos.
+
+Romanos 12:18
+
+Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: "Minha é a vingança; eu retribuirei", diz o Senhor.
+
+Romanos 12:19
+
+Pelo contrário: "Se o seu inimigo tiver fome, dê-lhe de comer; se tiver sede, dê-lhe de beber. Fazendo isso, você amontoará brasas vivas sobre a cabeça dele".
+
+Romanos 12:20
+
+Não se deixem vencer pelo mal, mas vençam o mal com o bem.
+
+Romanos 12:21

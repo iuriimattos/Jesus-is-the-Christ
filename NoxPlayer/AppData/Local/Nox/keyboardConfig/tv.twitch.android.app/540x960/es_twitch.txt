@@ -25,7 +25,7 @@ input Romanos 10 9 - Si confiesas con tu boca que Jesús es el Señor y crees en
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -36,7 +36,7 @@ input Romanos 12 9 - El amor debe ser sincero. Odio lo malo; aférrate a lo buen
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -47,7 +47,7 @@ input Romanos 12 10 - Dedicaos con amor fraternal. Prefiere honrar a los demás 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -58,7 +58,7 @@ input Romanos 12 11 - No falte nunca el celo, sea ferviente de espíritu, sirva 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -69,7 +69,7 @@ input Romanos 12 12 - Gozaos en la esperanza, ten paciencia en la tribulación, 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -80,7 +80,7 @@ input Romanos 12 13 - Comparte lo que tienes con los santos en sus necesidades. 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -91,7 +91,7 @@ input Romanos 12 14 - Bendice a los que te persiguen; Bendícelos y no los maldi
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -102,7 +102,7 @@ input Romanos 12 15 - Alégrate con los que se alegran; llora con los que lloran
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -113,7 +113,7 @@ input Romanos 12 16 - Tengan la misma actitud el uno hacia el otro. No se sienta
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -124,7 +124,7 @@ input Romanos 12 17 - No devuelvas mal por mal a nadie. Trate de hacer lo que es
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -135,7 +135,7 @@ input Romanos 12 18 - Haz todo lo posible por vivir en paz con todos.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -146,7 +146,7 @@ input Romanos 12 19 - Amados, nunca busques venganza, sino deja la ira en manos 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -157,7 +157,7 @@ input Romanos 12 20 - Al contrario, si tu enemigo tiene hambre, dale de comer; s
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -168,7 +168,7 @@ input Romanos 12 21 - No seas vencido por el mal, sino vence el mal con el bien.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -179,7 +179,7 @@ input Efesios 4 2 - Sea humilde, amable con los demás y paciente, sobre la base
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -190,7 +190,7 @@ input Efesios 4 26 - No peque, y deje que la ira se apodere de usted. Antes de q
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -201,7 +201,7 @@ input Efesios 4 32 - En cambio, sean bondadosos y comprensivos unos con otros, p
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -212,7 +212,7 @@ input Romanos 10 17 - De hecho, la fe viene al escuchar este mensaje de buenas n
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -223,7 +223,7 @@ input Isaías 58 5 - ¿Es este el ayuno que he elegido, que un solo día un homb
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -234,7 +234,7 @@ input Isaías 58 6 - El ayuno que deseo es soltar las cadenas de la injusticia, 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -245,7 +245,7 @@ input Isaías 58 7 - Es compartir tu comida con los hambrientos, albergar a los 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -256,7 +256,7 @@ input Isaías 58 8 - Y entonces su luz brillará como el amanecer, y su curació
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -267,7 +267,7 @@ input Isaías 58 9 - Entonces clamaréis a Jehová, y él responderá; gritarás
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -278,7 +278,7 @@ input Isaías 58 10 - Si con abnegación beneficias al hambriento y satisfaces e
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -289,7 +289,7 @@ input Isaías 58 11 - PARTE 1 - El Señor te guiará constantemente; satisfará 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -300,7 +300,7 @@ input Isaías 58 11 - PARTE 2 - Serás como un jardín bien regado, como una fue
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -311,7 +311,7 @@ input Santiago 1 22 - Sed hacedores de la palabra, no solo oidores, engañándon
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -322,7 +322,7 @@ input Santiago 1 23 - El que oye la palabra, pero no la pone en práctica, es co
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -333,7 +333,7 @@ input Santiago 1 24 - y, después de mirarse a sí mismo, sale y pronto se olvid
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -344,7 +344,7 @@ input Santiago 1 25 - Pero quien observa cuidadosamente la ley perfecta que trae
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -355,7 +355,7 @@ input Romanos 13 8 - No debáis a nadie más que el amor unos a otros, porque el
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -366,7 +366,7 @@ input Romanos 13 9 - PARTE 1 - Por estos mandamientos no cometerás adulterio, n
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -377,7 +377,7 @@ input Romanos 13 9 - PARTE 2 - y cualquier otro mandamiento, todo resumido en es
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -388,7 +388,7 @@ input Romanos 13 10 - El amor no hace mal al prójimo. Por lo tanto, el amor es 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -399,7 +399,7 @@ input Hebreos 11 1 - Ahora bien, la fe es la certeza de lo que esperamos y la pr
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -410,7 +410,7 @@ input Hebreos 11 6 - Sin fe es imposible agradar a Dios, porque quien se le acer
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -422,7 +422,7 @@ input Romanos 8 28 - Sabemos que Dios obra en todas las cosas para el bien de lo
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -433,7 +433,7 @@ input Santiago 2 14 - ¿De qué sirve, hermanos míos, que alguien diga que tien
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -444,7 +444,7 @@ input Santiago 2 15 - Si un hermano o hermana necesita ropa y alimentos diarios
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -455,7 +455,7 @@ input Santiago 2 16 - y uno de vosotros le dice Vete en paz, calienta y alimént
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -466,7 +466,7 @@ input Santiago 2 17 - Así que la fe sola, si no va acompañada de obras, está 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -477,7 +477,7 @@ input Juan 11 - En el principio era el que es el Verbo. Estaba con Dios y era Di
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -488,7 +488,7 @@ input Juan 1 14 - El que es el Verbo se hizo carne y habitó entre nosotros. Vim
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -499,7 +499,7 @@ input Mateo 3 16 - Tan pronto como Jesús fue bautizado, salió del agua. En ese
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -510,7 +510,7 @@ input Mateo 6 14 - Porque si se perdonan los unos a los otros las ofensas, el Pa
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -521,7 +521,7 @@ input Mateo 6 15 - Pero si no se perdonan el uno al otro, el Padre celestial no 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -532,7 +532,7 @@ input Mateo 5 46 - Si amas a los que te aman, ¿qué recompensa recibirás? Incl
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -543,7 +543,7 @@ input Mateo 5 47 - Y si solo saludan a sus hermanos, ¿qué más harán? Incluso
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -554,7 +554,7 @@ input Mateo 10 37 - El que ama a su padre oa su madre más que a mí, no es dign
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -565,7 +565,7 @@ input Mateo 10 38 - Y el que no toma su cruz y me sigue, no es digno de mí.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -577,7 +577,7 @@ input Proverbios 31 10 - Una esposa ejemplar; feliz quien la encuentra. Es mucho
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -588,7 +588,7 @@ input Proverbios 31 11 - Su marido tiene plena confianza en ella y nunca le falt
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -599,7 +599,7 @@ input Proverbios 31 12 - Ella solo hace el bien, y nunca el mal, todos los días
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -610,7 +610,7 @@ input Proverbios 31 26 - Habla sabiamente y enseña con amor.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -621,7 +621,7 @@ input Proverbios 31 27 - Cuida tus asuntos de casa y no te dejes llevar por la p
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -632,7 +632,7 @@ input Proverbios 31 28 - Sus hijos se levantan y la alaban; su marido también l
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -643,7 +643,7 @@ input Proverbios 31 29 - "Muchas mujeres son ejemplares, pero tú las superas a 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -654,7 +654,7 @@ input Proverbios 31 30 - La belleza es engañosa, y la belleza es fugaz; pero la
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -666,7 +666,7 @@ input Marcos 9 22 - Y lo ha echado muchas veces al fuego y al agua, para matarlo
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -677,7 +677,7 @@ input Marcos 9 23 - Y Jesús le dijo: Si puedes creer, al que cree todo le es po
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -688,7 +688,7 @@ input Marcos 9 24 - E inmediatamente el padre del niño, llorando con lágrimas,
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -699,7 +699,7 @@ input Marcos 9 28 - Después de que Jesús entró en la casa, sus discípulos le
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -710,7 +710,7 @@ input Marcos 9 29 - Respondió 'Esta especie sólo sale con oración y ayuno'.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -721,7 +721,7 @@ input Lucas 11 23 - El que no es conmigo, contra mí es; el que conmigo no recog
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -732,7 +732,7 @@ input Lucas 12 47 - Ese siervo que conoce la voluntad de su amo y no prepara lo 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -744,7 +744,7 @@ input 1 Pedro 3 15 - Más bien, santifica a Cristo como Señor en tu corazón. E
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -755,7 +755,7 @@ input Job 8 3 - ¿Tuerce Dios la justicia? ¿El Todopoderoso tuerce lo que es co
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -766,7 +766,7 @@ input Job 8 5 - Pero si buscas a Dios y suplicas al Todopoderoso,
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -777,7 +777,7 @@ input Job 8 6 - si eres justo y puro, él se levantará ahora mismo a tu favor y
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -788,7 +788,7 @@ input Job 8 8 - Pregunte a las generaciones anteriores y vea lo que aprendieron 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -799,7 +799,7 @@ input Job 8 10 - ¿No le instruirán, no le hablarán? ¿No hablarán palabras d
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -810,7 +810,7 @@ input Job 8 20 - Porque lo cierto es que Dios no rechaza al justo, ni fortalece 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -821,7 +821,7 @@ input Mateo 5 38 - Oíste lo que se dijo Ojo por ojo y diente por diente.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -832,7 +832,7 @@ input Mateo 5 39 - Pero yo les digo: No resistáis al impío. Si alguien te last
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -843,7 +843,7 @@ input Mateo 5 40 - Y si alguien quiere demandarte y quitarte la túnica, que tam
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -854,7 +854,7 @@ input Mateo 5 41 - Si alguien te obliga a caminar una milla con él, ve con él 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -865,7 +865,7 @@ input Mateo 5 42 - Da a los que te pidan, y no le des la espalda a los que quier
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -876,7 +876,7 @@ input Mateo 5 43 - Escuchaste lo que se dijo Ama a tu prójimo y odia a tu enemi
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -887,7 +887,7 @@ input Mateo 5 44 - Pero yo les digo que amen a sus enemigos y oren por los que l
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -898,7 +898,7 @@ input Mateo 5 45 - para que seáis hijos de vuestro Padre que está en los cielo
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -909,7 +909,7 @@ input Job 5 6 - Porque el sufrimiento no surge del polvo, y las dificultades no 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -920,7 +920,7 @@ input Job 5 7 - Sin embargo, el hombre nace para las dificultades con tanta segu
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -931,7 +931,7 @@ input Job 5 17 - Cuán feliz es el hombre a quien Dios corrige; por tanto, no de
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -942,7 +942,7 @@ input Job 5 18 - Porque hiere, pero viene a curarlo; duele, pero tus manos tambi
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -953,7 +953,7 @@ input Hechos 3 19 - Por tanto, arrepiéntete y vuélvete a Dios, para que tus pe
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -964,7 +964,7 @@ input Hechos 3 20 - para que vengan tiempos de descanso del Señor, y él envíe
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -975,7 +975,7 @@ input Mateo 11 12 - Desde los días de Juan el Bautista hasta ahora, el reino de
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -986,7 +986,7 @@ input Proverbios 15 32 - El que rehúsa la disciplina se burla de sí mismo, per
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -997,7 +997,7 @@ input Eclesiastés 2 24 - Para el hombre no hay nada mejor que comer, beber y en
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1008,7 +1008,7 @@ input Salmo 34 19 - El justo pasa por muchas adversidades, pero el Señor lo lib
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1019,7 +1019,7 @@ input Salmo 34 20 - protege todos tus huesos; ninguno de ellos se romperá.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1030,7 +1030,7 @@ input Salmo 34 21 - La desgracia matará al impío; los que aborrecen al justo s
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1041,7 +1041,7 @@ input Mateo 7 21 - No todo el que me dice Señor, Señor, entrará en el reino d
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1052,7 +1052,7 @@ input Mateo 7 22 - Muchos me dirán en aquel día Señor, Señor, ¿no profetiza
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1064,7 +1064,7 @@ input Mateo 7 23 - Entonces les diré claramente que nunca los conocí. Apárten
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1075,7 +1075,7 @@ input 1 Corintios 6 19 - ¿No sabéis que vuestro cuerpo es el santuario del Esp
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1086,7 +1086,7 @@ input 1 Corintios 6 20 - Ustedes fueron comprados por un precio alto. Por tanto,
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1097,7 +1097,7 @@ input Hebreos 5 7 - PARTE 1 - Durante sus días de vida en la tierra, Jesús ofr
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1108,7 +1108,7 @@ input Hebreos 5 7 - PARTE 2 - en voz alta y con lágrimas, al que podía salvarl
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1119,7 +1119,7 @@ input Marcos 1 35 - Al amanecer, cuando aún estaba oscuro, Jesús se levantó, 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1130,7 +1130,7 @@ input Gálatas 6: 2 - Sobrelleven las pesadas cargas los unos de los otros y as�
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1141,7 +1141,7 @@ input Oseas 6 1 - Ven, volvamos al Señor. Él nos ha quebrantado, pero nos cura
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1152,7 +1152,7 @@ input Oseas 6 2 - Después de dos días nos volverá a dar vida; al tercer día 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1163,7 +1163,7 @@ input Oseas 6 3 - Conozcamos al Señor; esforcémonos por conocerlo. Tan seguro 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1174,7 +1174,7 @@ input Proverbios 17 3 - El oro y la plata son purificados por el fuego, pero sol
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1185,7 +1185,7 @@ input Proverbios 17 4 - Los pecadores buscan la compañía de los que hablan y h
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1196,7 +1196,7 @@ input Proverbios 17 5 - Despreciar a los pobres es insultar a Dios, que creó a 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1207,7 +1207,7 @@ input Proverbios 17 9 - La amistad te hace olvidar muchas cosas malas. Pero los 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1218,7 +1218,7 @@ input 1 Corintios 13 4 - El amor es paciente, el amor es bondadoso. No envidies,
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1229,7 +1229,7 @@ input 1 Corintios 13 5 - No maltrates, no busques tus intereses, no te enojes f�
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1240,7 +1240,7 @@ input 1 Corintios 13 6 - El amor no se alegra de la injusticia, sino que se aleg
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1251,7 +1251,7 @@ input 1 Corintios 13 7 - Todo sufre, todo cree, todo espera, todo apoya.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1262,7 +1262,7 @@ input Mateo 22 37 - Jesús respondió Ama al Señor tu Dios con todo tu corazón
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1273,7 +1273,7 @@ input Mateo 22 38 - Este es el primer y mayor mandamiento.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1284,7 +1284,7 @@ input Mateo 22 39 - Y el segundo es semejante a él. Ama a tu prójimo como a ti
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1295,7 +1295,7 @@ input Mateo 22 40 - De estos dos mandamientos depende toda la Ley y los Profetas
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1306,7 +1306,7 @@ input Juan 14 12 - En verdad os digo que el que en mí cree, también hará las 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1317,7 +1317,7 @@ input Juan 14 13 - Y haré lo que pedís en mi nombre, para que el Padre sea glo
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1328,7 +1328,7 @@ input Santiago 4 2 - Codicias cosas y no las tienes; matan y envidian, pero no p
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1339,7 +1339,7 @@ input Santiago 4 3 - Cuando piden, no reciben, porque piden razones equivocadas,
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1350,7 +1350,7 @@ input Proverbios 13 3 - El que guarda su boca guarda su vida, pero el que habla 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1361,7 +1361,7 @@ input Proverbios 18 21 - La lengua tiene poder sobre la vida y la muerte; aquell
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1372,7 +1372,7 @@ input Proverbios 13 24 - El que se niega a castigar a su hijo no lo ama; quien l
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1383,7 +1383,7 @@ input Juan 3 3 - En respuesta, Jesús declaró: Les digo la verdad. Nadie puede 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1394,7 +1394,7 @@ input Juan 3 4 - Nicodemo preguntó ¿Cómo puede alguien nacer siendo viejo? Po
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1405,7 +1405,7 @@ input Juan 3 5 - Jesús respondió: Les digo la verdad. Nadie puede entrar en el
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1416,7 +1416,7 @@ input Juan 3 6 - Lo que nace de la carne, carne es, pero lo que nace del Espíri
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1427,7 +1427,7 @@ input Juan 3 7 - No te sorprendas de que te dije: Debes nacer de nuevo.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1438,7 +1438,7 @@ input Juan 3 8 - El viento sopla donde quiere. Lo escuchas, pero no sabes de dó
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1449,7 +1449,7 @@ input Efesios 4 22 - En cuanto al estilo de vida antiguo, se les enseñó a desp
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1460,7 +1460,7 @@ input Efesios 4 23 - renovarse en la forma de pensar y
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1471,7 +1471,7 @@ input Efesios 4 24 - para vestirse del nuevo hombre, creado para ser como Dios e
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1482,7 +1482,7 @@ input Efesios 4 25 - Por lo tanto, cada uno de ustedes debe abandonar la mentira
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1493,7 +1493,7 @@ input Efesios 4 26 - Cuando estés enojado, no peque. Calma tu ira antes de que 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1504,7 +1504,7 @@ input Efesios 4 27 - y no deis lugar al diablo.
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1515,7 +1515,7 @@ input Proverbios 25 17 - No hagas visitas frecuentes a la casa de tu vecino para
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1526,7 +1526,7 @@ input Proverbios 25 23 - Como el viento del norte trae lluvia, así la lengua fa
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1537,7 +1537,7 @@ input Colosenses 2 8 - Tengan cuidado de que nadie los esclavice a filosofías v
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1548,7 +1548,7 @@ input Mateo 9 10 - Mientras Jesús estaba en casa, muchos recaudadores de impues
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1559,7 +1559,7 @@ input Mateo 9 11 - Al ver esto, los fariseos preguntaron a sus discípulos ¿Por
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1570,7 +1570,7 @@ input Mateo 9 12 - Al escuchar esto, Jesús dijo: No son los sanos los que neces
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1581,7 +1581,7 @@ input Mateo 9 13 - Aprenderán lo que esto significa. Deseo misericordia, no sac
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1592,7 +1592,7 @@ input Filipenses 2 5 - Sea su actitud la misma que la de Cristo Jesús,
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1603,7 +1603,7 @@ input Filipenses 2 6 - quien, aunque siendo Dios, no consideró que ser igual a 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1614,7 +1614,7 @@ input Filipenses 2 7 - pero se despojó de sí mismo, se hizo siervo, se volvió
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1625,7 +1625,7 @@ input Filipenses 2 8 - Y habiendo sido hallado en forma humana, se humilló y fu
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
 
 
@@ -1636,5 +1636,5 @@ input Filipenses 2 9 - Por tanto, Dios lo exaltó a la más alta posición y le 
 click 190 929
 delay 1500
 key R
-delay 120000
+delay 60000
 click 190 929
