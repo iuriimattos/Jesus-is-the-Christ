@@ -9,6 +9,7 @@ rawText(text) {
   Send, {ENTER}
 }
 
+;need be save file UTF-8 encoding
 <^>!F1::
   Click
   rawText("Boa noite! A paz do Senhor igreja!")
